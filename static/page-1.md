@@ -14,7 +14,7 @@
 
 ## SEO Information
 
-**SEO Title:** Complete Tri-Protein - Whey Protein & Casein Blend
+**SEO Title:** Complete Tri-Protein
 
 **SEO Description:** Complete Tri-Protein is an expert blend of WPI, WPC, and Micellar Casein for optimal time-released protein delivery.
 
@@ -128,7 +128,7 @@ Complete Tri-Protein Complete Tri-Protein. With an even ratio of WPI, WPC and Mi
 
 ## SEO Information
 
-**SEO Title:** Breakfast Protein Shake Powder
+**SEO Title:** Breakfast Shake
 
 **SEO Description:** Breakfast Protein Shake consists of the highest quality Australian grass-fed Whey Protein Concentrate, natural low GI Oats and added vitamins. 
 
@@ -230,7 +230,7 @@ WHAT IS BREAKFAST SHAKE? VPA Breakfast Shake is a comprehensive morning shake de
 
 ## SEO Information
 
-**SEO Title:** Dextrose Monohydrate Powder Supplement 1kg
+**SEO Title:** Dextrose Monohydrate
 
 **SEO Description:** Boost your energy fast with Dextrose Monohydrate powder supplement! Ideal for a quick pre or post-workout sugar spike.
 
@@ -289,7 +289,7 @@ What is Dextrose Monohydrate? Dextrose Monohydrate is a form of single chain car
 
 ## SEO Information
 
-**SEO Title:** Maltodextrin Powder Supplement Australia 1kg
+**SEO Title:** Maltodextrin
 
 **SEO Description:** Maltodextrin Powder is perfect for endurance athletes. Easily digestible carbs for sustained energy during long workouts
 
@@ -348,7 +348,7 @@ MALTODEXTRIN Maltodextrin is a form of long chain carbohydrate made from corn, r
 
 ## SEO Information
 
-**SEO Title:** 100% Pure Colostrum Powder 1kg
+**SEO Title:** Colostrum
 
 **SEO Description:** Enhance your immunity and gut health with our Colostrum Powder, rich in antibodies and essential growth factors.
 
@@ -406,5 +406,5 @@ HOW VPA'S COLOSTRUM OPTIMISES YOU VPA Bovine Colostrum is a rich source of many 
 - **Products shown:** 5
 - **Has next page:** Yes
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-05T14:11:19.911Z
+- **Generated:** 2025-08-05T14:43:01.842Z
 

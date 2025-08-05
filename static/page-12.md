@@ -14,7 +14,7 @@
 
 ## SEO Information
 
-**SEO Title:** VPA Display Stands | VPA Australia
+**SEO Title:** VPA Display Stands
 
 **SEO Description:** VPA Display Stands | SPECIAL RELEASE PRICE | Only for a Limited Time. Level up your Gym, Store or Studio with the NEW VPA Display stand.
 
@@ -61,7 +61,7 @@
 
 ## SEO Information
 
-**SEO Title:** VPA Base with Wheels | VPA Australia
+**SEO Title:** VPA Base with Wheels
 
 **SEO Description:** VPA Base with Wheels | SPECIAL RELEASE PRICE | Only for a Limited TimeOriginal Price Want the ability to move the VPA Stand anywhere at your gym or store?Here\'s the perfect
 
@@ -112,7 +112,7 @@ SPECIAL RELEASE PRICE | Only for a Limited TimeOriginal Price $50 Want the abili
 
 ## SEO Information
 
-**SEO Title:** VPA Removable Panels - Elevate your training | VPA
+**SEO Title:** VPA Removable Panels - Collage
 
 **SEO Description:** VPA Removable Panels | Only for a Limited Time.  Change the look of your VPA Stand with the Elevate your Training Removable Panels.
 
@@ -163,7 +163,7 @@ VPA® Removable PanelsSPECIAL RELEASE PRICE | Only for a Limited TimeOriginal Pr
 
 ## SEO Information
 
-**SEO Title:** VPA Removable Panels - New Year, New You | VPA
+**SEO Title:** VPA Removable Panels - New Year, New You
 
 **SEO Description:** VPA Removable Panels -  Only for a Limited Time, Original Price Change the look of your VPA Stand with the New Year, New You Removable Panels.
 
@@ -214,7 +214,7 @@ VPA® Removable Panels - New Year, New YouSPECIAL RELEASE PRICE | Only for a Lim
 
 ## SEO Information
 
-**SEO Title:** Protein Pancake Mix | For Breakfast or Snack | VPA Australia
+**SEO Title:** Protein Pancake Mix
 
 **SEO Description:** Protein Pancake Mix | VPA\'s Protein Pancake Mix may just be your best bet for a fast, high-protein breakfast or snack!
 
@@ -301,5 +301,5 @@ VPA® Protein Pancake Mix HIGH PROTEIN PANCAKE MIX Want to whip up a quick break
 - **Products shown:** 5
 - **Has next page:** Yes
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-05T14:11:29.409Z
+- **Generated:** 2025-08-05T14:43:10.331Z
 

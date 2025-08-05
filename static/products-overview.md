@@ -177,5 +177,5 @@
 - **Total Pages:** 20
 - **Products Fetched:** 96
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-05T14:11:36.789Z
+- **Generated:** 2025-08-05T14:43:17.286Z
 

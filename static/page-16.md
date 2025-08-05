@@ -14,7 +14,7 @@
 
 ## SEO Information
 
-**SEO Title:** L-Tyrosine | Buy 100% Pure L-Tyrosine Powder Online | VPA Australia
+**SEO Title:** L-Tyrosine
 
 **SEO Description:** L-Tyrosine is often used to boost physical and mental performance, appetite control, and thyroid function.
 
@@ -76,7 +76,7 @@ PRODUCT INFORMATION HOW L-TYROSINE OPTIMISES YOU L-Tyrosine is an amino acid tha
 
 ## SEO Information
 
-**SEO Title:** Shelf Wobbler | VPA Australia
+**SEO Title:** Shelf Wobbler
 
 **SEO Description:** shelf wobbler
 
@@ -166,7 +166,7 @@ shelf wobbler
 
 ## SEO Information
 
-**SEO Title:** Norths Devils Shaker - 500ml | VPA Australia
+**SEO Title:** Norths Devils Shaker - 500ml
 
 **SEO Description:** Norths Devils Shaker - 500ml | description Celebrate your support for the Norths Devils Rugby Club with this stylish and functional shaker, perfect for any rugby
 
@@ -228,7 +228,7 @@ description Celebrate your support for the Norths Devils Rugby Club with this st
 
 ## SEO Information
 
-**SEO Title:** UQ Ruby Red Heavies Shaker - 500ml | VPA Australia
+**SEO Title:** UQ Ruby Red Heavies Shaker - 500ml
 
 **SEO Description:** UQ Ruby Red Heavies Shaker - 500mL | description Show your support for the UQ Rugby Red Heavies with our Limited Edition Stainless Steel Shaker. This special
 
@@ -290,7 +290,7 @@ description Show your support for the UQ Rugby Red Heavies with our Limited Edit
 
 ## SEO Information
 
-**SEO Title:** Meg's Hybrid Plant Based Stack | VPA Australia
+**SEO Title:** Meg's Hybrid Plant Based Stack
 
 **SEO Description:** Meg's Hybrid Plant Based Stack |
 
@@ -345,5 +345,5 @@ description Show your support for the UQ Rugby Red Heavies with our Limited Edit
 - **Products shown:** 5
 - **Has next page:** Yes
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-05T14:11:32.920Z
+- **Generated:** 2025-08-05T14:43:13.645Z
 

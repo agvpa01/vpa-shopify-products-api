@@ -14,7 +14,7 @@
 
 ## SEO Information
 
-**SEO Title:** Whey Isolate (WPI) Sample Pack (14 samples) | VPA Australia
+**SEO Title:** Whey Isolate (WPI) Sample Pack
 
 **SEO Description:** Whey Isolate (WPI) Not sure about a WPI flavour? Well, now you can sample them to see what everyone is talking about!
 
@@ -64,7 +64,7 @@ Whey Isolate (WPI) NOT SURE ABOUT A WPI FLAVOUR?Well, now you can sample them to
 
 ## SEO Information
 
-**SEO Title:** Collagen Pro® - Hydrolysed Prebiotic Collagen Protein Powder
+**SEO Title:** Collagen Pro® - Prebiotic Collagen Protein Powder
 
 **SEO Description:** Enhance your wellness with our flavourless prebiotic collagen protein, a unique blend with hydrolysed collagen, prebiotics & probiotics.
 
@@ -135,7 +135,7 @@ What is VPA's Collagen Protein Powder? Collagen Hydrolysate is a unique combinat
 
 ## SEO Information
 
-**SEO Title:** Premium Plant Sample Vegan Pack | VPA Australia
+**SEO Title:** Premium Plant Sample Vegan Pack
 
 **SEO Description:** Premium Plant Sample Vegan Pack -  With our top tasting vegan protein flavours you are sure to find your new favourite protein. Buy Now!
 
@@ -185,7 +185,7 @@ Premium Plant Sample Vegan Pack For vegans, one of the biggest challenges has al
 
 ## SEO Information
 
-**SEO Title:** Protein Water Powder: Added Collagen & Electrolytes | VPA Australia
+**SEO Title:** Protein Water
 
 **SEO Description:** Refresh with VPA's Protein Water Powder, blending WPI, collagen, BCAA & L-glutamine into a clear, low-calorie drink for clean energy.
 
@@ -276,7 +276,7 @@ WHAT IS PROTEIN WATER? Protein Water is a muscle recovery and hydration drink th
 
 ## SEO Information
 
-**SEO Title:** VPA Performance Coffee | VPA Australia
+**SEO Title:** zzVPA Performance Coffee
 
 **SEO Description:** VPA Performance Coffee is an instant coffee with high protein to help achieve your protein goals while also getting your coffee fix!
 
@@ -320,5 +320,5 @@ WHAT IS PROTEIN WATER? Protein Water is a muscle recovery and hydration drink th
 - **Products shown:** 5
 - **Has next page:** Yes
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-05T14:11:24.877Z
+- **Generated:** 2025-08-05T14:43:06.366Z
 

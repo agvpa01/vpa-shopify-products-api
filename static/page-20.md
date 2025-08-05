@@ -14,7 +14,7 @@
 
 ## SEO Information
 
-**SEO Title:** VPA PUSH BEYOND LIMITS - HYROX THROWN DOWN | VPA Australia
+**SEO Title:** VPA PUSH BEYOND LIMITS - HYROX THROWN DOWN
 
 ## Product Images
 
@@ -66,5 +66,5 @@
 - **Products shown:** 1
 - **Has next page:** No
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-05T14:11:36.287Z
+- **Generated:** 2025-08-05T14:43:16.835Z
 

@@ -952,10 +952,10 @@ app.get("/api/products/markdown/:page", async (req, res) => {
       }
 
       // SEO Information
-      if (product.seo && (product.seo.title || product.seo.description)) {
+      if (product.seo && (product.title || product.seo.description)) {
         markdown += `## SEO Information\n\n`;
-        if (product.seo.title) {
-          markdown += `**SEO Title:** ${product.seo.title}\n\n`;
+        if (product.title) {
+          markdown += `**SEO Title:** ${product.title}\n\n`;
         }
         if (product.seo.description) {
           markdown += `**SEO Description:** ${product.seo.description}\n\n`;
@@ -1004,7 +1004,8 @@ app.get("/api/products/markdown/:page", async (req, res) => {
           product.description.length > 200
             ? product.description.substring(0, 200) + "..."
             : product.description;
-        markdown += `## Description\n\n${truncatedDesc}\n\n`;
+        const descriptionText = productType === 'HASTA' ? `HASTA - ${truncatedDesc}` : truncatedDesc;
+        markdown += `## Description\n\n${descriptionText}\n\n`;
       }
 
       // Price Range
@@ -1565,17 +1566,37 @@ app.get("/api/products/:handle/markdown", async (req, res) => {
       });
     }
 
+    // Check if product has HASTA keywords
+    const hastaKeywords = [
+      'batch', 'batch-tested', 'batch tested', 'tested', 'testing',
+      'quality', 'assurance', 'verified', 'certified', 'certification',
+      'lab', 'laboratory', 'analysis', 'purity', 'third-party',
+      'third party', 'independent', 'validation', 'compliance'
+    ];
+    
+    const searchText = `${product.title} ${product.description || ''} ${product.tags ? product.tags.join(' ') : ''}`.toLowerCase();
+    const hasHastaKeywords = hastaKeywords.some(keyword => 
+      searchText.includes(keyword.toLowerCase())
+    );
+    
+    const productType = hasHastaKeywords ? 'HASTA' : null;
+
     // Generate markdown content
     let markdown = `# [${product.title}](${product.onlineStoreUrl || `https://${SHOPIFY_STORE_DOMAIN}/products/${product.handle}`})\n\n`;
+    
+    // Add type indicator if HASTA
+    if (productType) {
+      markdown += `**Type:** ${productType}\n\n`;
+    }
     
     // Add total product count information
     markdown += `**Total Products in Store:** ${totalProductCount}\n\n`;
 
     // SEO Information
-    if (product.seo && (product.seo.title || product.seo.description)) {
+    if (product.seo && (product.title || product.seo.description)) {
       markdown += `## SEO Information\n\n`;
-      if (product.seo.title) {
-        markdown += `**SEO Title:** ${product.seo.title}\n\n`;
+      if (product.title) {
+        markdown += `**SEO Title:** ${product.title}\n\n`;
       }
       if (product.seo.description) {
         markdown += `**SEO Description:** ${product.seo.description}\n\n`;
@@ -1618,7 +1639,8 @@ app.get("/api/products/:handle/markdown", async (req, res) => {
 
     // Description
     if (product.description) {
-      markdown += `## Description\n\n${product.description}\n\n`;
+      const descriptionText = productType === 'HASTA' ? `HASTA - ${product.description}` : product.description;
+      markdown += `## Description\n\n${descriptionText}\n\n`;
     }
 
     // Price Range

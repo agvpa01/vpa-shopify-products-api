@@ -14,7 +14,7 @@
 
 ## SEO Information
 
-**SEO Title:** Wholesale Starter Pack | VPA Australia
+**SEO Title:** Wholesale Starter Pack
 
 **SEO Description:** Wholesale Starter Pack contains a mix of our best selling products.
 
@@ -92,7 +92,7 @@
 
 ## SEO Information
 
-**SEO Title:** Wholesale No Risk Best Sellers Pack| VPA Australia
+**SEO Title:** Wholesale No Risk Best Sellers Pack
 
 **SEO Description:** Wholesale No Risk Best Sellers Pack  is a risk-free option for wholesalers to stock VPA products
 
@@ -142,7 +142,7 @@ Wholesale No Risk Best Sellers Pack - Wholesale \"No Risk\" Best Sellers Pack is
 
 ## SEO Information
 
-**SEO Title:** Wholesale Protein Comparison Chart | VPA Australia
+**SEO Title:** Wholesale Protein Comparison Chart
 
 **SEO Description:** Wholesale Protein Comparison Chart
 
@@ -188,7 +188,7 @@ Wholesale No Risk Best Sellers Pack - Wholesale \"No Risk\" Best Sellers Pack is
 
 ## SEO Information
 
-**SEO Title:** Protein Ball Mix | Buy Protein Ball Mix Online | VPA Australia
+**SEO Title:** Protein Ball Mix
 
 **SEO Description:** Protein Ball Mix is a convenient way to create tasty and healthy protein ball snacks.
 
@@ -260,7 +260,7 @@ PROTEIN BALL MIX VPA Protein Ball Mix is a convenient way to create tasty and he
 
 ## SEO Information
 
-**SEO Title:** Gift Card
+**SEO Title:** VPA Gift Card
 
 **SEO Description:** Gift Card - Why stress about choosing a gift when you can purchase something that you can be assured that they'll use and benefit from.
 
@@ -352,5 +352,5 @@ VPA Gift Card A VPA Gift Voucher is a great gift idea. Why stress about choosing
 - **Products shown:** 5
 - **Has next page:** Yes
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-05T14:11:26.849Z
+- **Generated:** 2025-08-05T14:43:07.951Z
 

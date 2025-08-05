@@ -14,7 +14,7 @@
 
 ## SEO Information
 
-**SEO Title:** High Protein Mousse Dessert
+**SEO Title:** Protein Mousse
 
 **SEO Description:** Indulge in a rich, creamy mousse packed with protein—not sugar. Easy to mix, low in carbs, and perfect for cravings or recovery.
 
@@ -100,7 +100,7 @@ WHAT IS PROTEIN MOUSSE? Got a sweet tooth? Looking for a dessert option that won
 
 ## SEO Information
 
-**SEO Title:** Crop Top | Vital Crop Top Charcoal | Buy Vital Range Women's Crop Top
+**SEO Title:** Vital Crop Top - Charcoal
 
 **SEO Description:** Crop Top - The Vital Range Women's Crop Top is the perfect pairing for any active lifestyle. Buy now!
 
@@ -207,7 +207,7 @@ Crop Top - Charcoal VPA WOMENS VITAL CROP TOP Delicate and decisive. Integral to
 
 ## SEO Information
 
-**SEO Title:** Crop Top | VPA's Vital Crop Top | VPA Australia
+**SEO Title:** Vital Crop Top - Peach
 
 **SEO Description:** Crop Top - VPA's Vital Crop Top gives freedom of movement for outdoor activities and tough training sessions. Buy Now!
 
@@ -314,7 +314,7 @@ Vital Crop Top - Peach VPA WOMENS VITAL CROP TOP: Delicate and decisive. Integra
 
 ## SEO Information
 
-**SEO Title:** Seamless Sports Bra | Vital Seamless Sports Bra | VPA Australia
+**SEO Title:** Vital Seamless Sports Bra - Khaki
 
 **SEO Description:** Seamless Sports Bra is made with four-way-stretch technology, rock this innovative and stylishly constructed piece.
 
@@ -399,7 +399,7 @@ Vital Seamless Sports Bra VPA WOMENS VITAL SEAMLESS SPORTS BRA -Empower your per
 
 ## SEO Information
 
-**SEO Title:** Vital Seamless Leggings | Women's Leggings - Gym & Lifestyle Clothing
+**SEO Title:** Vital Seamless Leggings  - Khaki
 
 **SEO Description:** Vital Seamless Leggings - A sculpted design, built to flatter physique, offers support during any workout or activity.
 
@@ -492,5 +492,5 @@ Vital Seamless Leggings - Khaki VPA WOMENS VITAL SEAMLESS LEGGINGS - Crush it wi
 - **Products shown:** 5
 - **Has next page:** Yes
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-05T14:11:25.983Z
+- **Generated:** 2025-08-05T14:43:07.149Z
 

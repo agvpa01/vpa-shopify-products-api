@@ -94,7 +94,7 @@ Wholesale Sample Pack
 
 ## SEO Information
 
-**SEO Title:** Endurance Pack | VPA Australia
+**SEO Title:** Endurance Pack
 
 **SEO Description:** Endurance Pack has all your physiological needs covered when it comes to supplying your body with optimal nutrients to maximize your human potential.
 
@@ -145,7 +145,7 @@ ENDURANCE PACK If you are pushing your body, challenging your athletic capacity,
 
 ## SEO Information
 
-**SEO Title:** Sweet Tooth Pack | VPA Australia
+**SEO Title:** Sweet Tooth Pack
 
 **SEO Description:** Sweet Tooth Pack - a range of protein sources and natural ingredients blended to create a wholesome and delicious snacks for any occasion.
 
@@ -196,7 +196,7 @@ SWEET TOOTH PACK The ultimate Guilt Free dessert pack is here! A range of protei
 
 ## SEO Information
 
-**SEO Title:** Vegan Lean Pack | VPA Australia
+**SEO Title:** Vegan Lean Pack
 
 **SEO Description:** VEGAN LEAN PACK  If you are a vegan or plant-based athlete you know how hard it can be to find quality advice and products.
 
@@ -255,5 +255,5 @@ VEGAN LEAN PACK If you are a vegan or plant-based athlete you know how hard it c
 - **Products shown:** 5
 - **Has next page:** Yes
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-05T14:11:27.667Z
+- **Generated:** 2025-08-05T14:43:08.720Z
 

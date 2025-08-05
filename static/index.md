@@ -1,6 +1,6 @@
 # Static Markdown Files
 
-**Generated:** 2025-08-05T14:11:36.790Z
+**Generated:** 2025-08-05T14:43:17.287Z
 
 **Total Products:** 96
 
@@ -12,26 +12,26 @@
 
 ## Available Files
 
-- [page-1.md](./static/page-1.md) (12.88 KB)
-- [page-2.md](./static/page-2.md) (15.91 KB)
-- [page-3.md](./static/page-3.md) (14.13 KB)
-- [page-4.md](./static/page-4.md) (10.75 KB)
-- [page-5.md](./static/page-5.md) (11.36 KB)
-- [page-6.md](./static/page-6.md) (18.12 KB)
-- [page-7.md](./static/page-7.md) (10.95 KB)
-- [page-8.md](./static/page-8.md) (15.34 KB)
-- [page-9.md](./static/page-9.md) (10.13 KB)
-- [page-10.md](./static/page-10.md) (6.16 KB)
-- [page-11.md](./static/page-11.md) (7.79 KB)
-- [page-12.md](./static/page-12.md) (8.90 KB)
-- [page-13.md](./static/page-13.md) (11.69 KB)
-- [page-14.md](./static/page-14.md) (9.12 KB)
-- [page-15.md](./static/page-15.md) (9.36 KB)
-- [page-16.md](./static/page-16.md) (9.90 KB)
-- [page-17.md](./static/page-17.md) (7.72 KB)
-- [page-18.md](./static/page-18.md) (16.42 KB)
-- [page-19.md](./static/page-19.md) (12.84 KB)
-- [page-20.md](./static/page-20.md) (1.65 KB)
+- [page-1.md](./static/page-1.md) (12.77 KB)
+- [page-2.md](./static/page-2.md) (15.75 KB)
+- [page-3.md](./static/page-3.md) (13.98 KB)
+- [page-4.md](./static/page-4.md) (10.58 KB)
+- [page-5.md](./static/page-5.md) (11.18 KB)
+- [page-6.md](./static/page-6.md) (18.02 KB)
+- [page-7.md](./static/page-7.md) (10.83 KB)
+- [page-8.md](./static/page-8.md) (15.20 KB)
+- [page-9.md](./static/page-9.md) (10.04 KB)
+- [page-10.md](./static/page-10.md) (6.11 KB)
+- [page-11.md](./static/page-11.md) (7.73 KB)
+- [page-12.md](./static/page-12.md) (8.81 KB)
+- [page-13.md](./static/page-13.md) (11.60 KB)
+- [page-14.md](./static/page-14.md) (8.91 KB)
+- [page-15.md](./static/page-15.md) (9.16 KB)
+- [page-16.md](./static/page-16.md) (9.78 KB)
+- [page-17.md](./static/page-17.md) (7.63 KB)
+- [page-18.md](./static/page-18.md) (16.36 KB)
+- [page-19.md](./static/page-19.md) (12.78 KB)
+- [page-20.md](./static/page-20.md) (1.63 KB)
 - [products-overview.md](./static/products-overview.md) (9.57 KB)
 
 ---

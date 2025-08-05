@@ -14,7 +14,7 @@
 
 ## SEO Information
 
-**SEO Title:** Spirulina | Buy Spirulina Powder Online | VPA Australia
+**SEO Title:** Spirulina
 
 **SEO Description:** VPA\'s Spirulina is packed with essential nutrients, antioxidants, and health benefits which make it a great addition to a balanced diet. Apart from this, spirulina is also a good source of high-quality protein which aids in weight management and may enhance endurance and exercise performance in athletes, as well as its ability to reduce muscle fatigue.
 
@@ -74,7 +74,7 @@ PRODUCT INFORMATION HOW VPA'S SPIRULINA OPTIMISES YOU Spirulina is packed with e
 
 ## SEO Information
 
-**SEO Title:** Pure Taurine Supplement – 100% Natural & Unflavored 
+**SEO Title:** Taurine
 
 **SEO Description:** Elevate your workouts with our 100% pure Taurine supplement! Enhance focus, speed up recovery, and reduce fatigue for peak performance.
 
@@ -136,7 +136,7 @@ PRODUCT INFORMATION HOW TAURINE OPTIMISES YOU Taurine is a highly valuable essen
 
 ## SEO Information
 
-**SEO Title:** Vitamin C | Buy Vitamin C Powder Online | VPA Australia
+**SEO Title:** Vitamin C
 
 **SEO Description:** Vitamin C is an L-ascorbic acid which is the active, bioavailable form of Vitamin C. Its powerful antioxidant properties helps protect the body from oxidative stress, chronic diseases, as well as counteract the damaging effects of free radicals. Vitamin C is also responsible for the growth and repair of tissues in all parts of the body.
 
@@ -196,7 +196,7 @@ VPA® Vitamin C is a pure L-ascorbic acid supplement, the highly bioavailable an
 
 ## SEO Information
 
-**SEO Title:** Buy Konjac Root (Glucomannan) Powder 100g Online | VPA Australia
+**SEO Title:** Konjac Root
 
 **SEO Description:** Konjac root, rich in dietary fibre called glucomannan, is known for its unique water-absorbing properties. Available online at VPA Australia.
 
@@ -256,7 +256,7 @@ VPA’s Konjac Root Powder is a natural, plant-based supplement rich in glucoman
 
 ## SEO Information
 
-**SEO Title:** Fava Bean Protein Powder | VPA Australia
+**SEO Title:** Fava Bean Protein Powder
 
 **SEO Description:** Fava Bean Protein Powder
 
@@ -322,5 +322,5 @@ VPA’s Konjac Root Powder is a natural, plant-based supplement rich in glucoman
 - **Products shown:** 5
 - **Has next page:** Yes
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-05T14:11:32.043Z
+- **Generated:** 2025-08-05T14:43:12.832Z
 

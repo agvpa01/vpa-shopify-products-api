@@ -14,7 +14,7 @@
 
 ## SEO Information
 
-**SEO Title:** Weight Gain Bundle
+**SEO Title:** Weight Gain Pack
 
 **SEO Description:** Struggling to gain size? VPA’s Weight Gain Bundle includes high-protein, carb-rich products to help you build mass effectively.
 
@@ -65,7 +65,7 @@ WEIGHT GAIN PACK If you are looking to gain some serious muscle mass and boost s
 
 ## SEO Information
 
-**SEO Title:** Lean Muscle Stack: Build Muscle, Stay Lean
+**SEO Title:** Lean Muscle Pack
 
 **SEO Description:** Build lean muscle without excess fat. VPA’s Lean Muscle Stack supports clean bulking with premium protein, creatine & more.
 
@@ -116,7 +116,7 @@ LEAN MUSCLE PACK If you are after Lean Muscle, we have done the work for you and
 
 ## SEO Information
 
-**SEO Title:** Weight Loss Supplement Bundle
+**SEO Title:** Weight Loss Pack
 
 **SEO Description:** Target fat loss with VPA’s Weight Loss Bundle—includes high-protein, low-carb products to support your weight goals.
 
@@ -214,7 +214,7 @@ Weight Loss Pack Weight Loss Pack is carefully formulated supplement stack desig
 
 ## SEO Information
 
-**SEO Title:** ZMA6 Recovery | VPA Australia
+**SEO Title:** ZMA6 Recovery
 
 **SEO Description:** ZMA6 Recovery is designed to help encourage restful recovery by including bioavailable sources of Zinc and Magnesium, as well as Ashwaghanda Extract, L-Tryptophan, and Vitamin B6.
 
@@ -294,5 +294,5 @@ ZMA6 Recovery – Nighttime Recovery Support Supplement ZMA6 Recovery is a premi
 - **Products shown:** 5
 - **Has next page:** Yes
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-05T14:11:28.562Z
+- **Generated:** 2025-08-05T14:43:09.495Z
 

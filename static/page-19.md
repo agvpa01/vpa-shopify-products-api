@@ -16,7 +16,7 @@
 
 ## SEO Information
 
-**SEO Title:** Buy Creatine Monohydrate Powder Online | VPA Australia
+**SEO Title:** [Batch-tested] Creatine Monohydrate
 
 **SEO Description:** Creatine Monohydrate Powder is recognised as a top supplement for strength & muscle gains. Shop Now!
 
@@ -55,7 +55,7 @@
 
 ## Description
 
-VPA’s Creatine Monohydrate is a pure, high-quality supplement designed to support muscle strength, power output, and exercise performance, especially during high-intensity training. As the most resear...
+HASTA - VPA’s Creatine Monohydrate is a pure, high-quality supplement designed to support muscle strength, power output, and exercise performance, especially during high-intensity training. As the most resear...
 
 ## Pricing
 
@@ -82,7 +82,7 @@ VPA’s Creatine Monohydrate is a pure, high-quality supplement designed to supp
 
 ## SEO Information
 
-**SEO Title:** Buy Prebiotic Collagen Protein Powder Online | VPA Australia
+**SEO Title:** [Batch-tested] Collagen Pro® - Protein Powder
 
 **SEO Description:** Enhance your wellness with our flavourless prebiotic collagen protein, a unique blend with hydrolysed collagen, prebiotics & probiotics.
 
@@ -121,7 +121,7 @@ VPA’s Creatine Monohydrate is a pure, high-quality supplement designed to supp
 
 ## Description
 
-VPA® Collagen PRO® is a premium collagen supplement combining high-quality German Collagen Hydrolysate, Bacillus coagulans probiotics, and prebiotic fibre (Inulin) to support joint, bone, and gut heal...
+HASTA - VPA® Collagen PRO® is a premium collagen supplement combining high-quality German Collagen Hydrolysate, Bacillus coagulans probiotics, and prebiotic fibre (Inulin) to support joint, bone, and gut heal...
 
 ## Pricing
 
@@ -156,7 +156,7 @@ VPA® Collagen PRO® is a premium collagen supplement combining high-quality Ger
 
 ## SEO Information
 
-**SEO Title:** Buy Batch-Tested BCAA Supplement Powder Online | VPA Australia
+**SEO Title:** [Batch-tested] BUSSIN INTRA (Flavoured BCAA)
 
 **SEO Description:** Boost your performance with our BCAA supplement powder, packed with L-Glutamine & Citrulline Malate for faster recovery & muscle growth.
 
@@ -195,7 +195,7 @@ VPA® Collagen PRO® is a premium collagen supplement combining high-quality Ger
 
 ## Description
 
-VPA® Batch-Tested Bussin Intra is a premium intra-workout supplement formulated to support hydration, endurance, and muscle recovery during intense training. Powered by a 2:1:1 ratio of Branched-Chain...
+HASTA - VPA® Batch-Tested Bussin Intra is a premium intra-workout supplement formulated to support hydration, endurance, and muscle recovery during intense training. Powered by a 2:1:1 ratio of Branched-Chain...
 
 ## Pricing
 
@@ -228,7 +228,7 @@ VPA® Batch-Tested Bussin Intra is a premium intra-workout supplement formulated
 
 ## SEO Information
 
-**SEO Title:** Insulated Sport Water Bottle - 610mL | VPA Australia
+**SEO Title:** Insulated Sport Water Bottle - 610mL
 
 **SEO Description:** Stay hydrated with the 610ml Insulated Sports Water Bottle by VPA Australia. Designed for active lifestyles, this lightweight, leakproof squeeze bottle features a twist lock lid for easy use at the gym, cycling, or outdoor activities. Shop now with fast Australia-wide shipping!
 
@@ -290,7 +290,7 @@ description Designed for active lifestyles, the 610ml Insulated Squeeze Sports B
 
 ## SEO Information
 
-**SEO Title:** Pump House - Workout Rave | VPA Australia
+**SEO Title:** Pump House - Workout Rave
 
 **SEO Description:** Pump House - Workout Rave
 
@@ -362,5 +362,5 @@ description Designed for active lifestyles, the 610ml Insulated Squeeze Sports B
 - **Products shown:** 5
 - **Has next page:** Yes
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-05T14:11:35.462Z
+- **Generated:** 2025-08-05T14:43:16.072Z
 

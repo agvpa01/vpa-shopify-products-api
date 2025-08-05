@@ -14,7 +14,7 @@
 
 ## SEO Information
 
-**SEO Title:** Pure Egg White Protein Powder | VPA Australia
+**SEO Title:** Egg White Powder
 
 **SEO Description:** VPA's Egg White Protein Powder maximises lean muscle growth with a biological value of 100. Perfect for allergy & lactose intolerance.
 
@@ -74,7 +74,7 @@ EGG PROTEIN With the highest biological value of 100, VPA’s Egg White Protein 
 
 ## SEO Information
 
-**SEO Title:** Hot Protein Delight | Buy Hot Protein Delight Online | VPA Australia
+**SEO Title:** Hot Protein Delight (500g)
 
 **SEO Description:** Hot Protein Delight - is the ideal winter warmer for those who want a little something sweet without the extra fats and carbohydrates.
 
@@ -165,7 +165,7 @@ Hot Protein Delight VPA’s Hot Protein Delight is the ideal winter warmer for t
 
 ## SEO Information
 
-**SEO Title:** Muscle Gainer - Protein Powder for Weight Gain | VPA Australia
+**SEO Title:** Muscle Gainer
 
 **SEO Description:** Fuel your gains with our high-calorie mass gainer protein shake, packed with carbohydrates & muscle-building nutrients.
 
@@ -279,7 +279,7 @@ Muscle Gainer VPA Muscle Gainer is a comprehensive protein shake designed to hel
 
 ## SEO Information
 
-**SEO Title:** Lean Shake Plus - Meal Replacement Powder
+**SEO Title:** Lean Shake Plus (Meal Replacement)
 
 **SEO Description:** Lean Shake Plus is your complete, low-calorie meal in a shake, packed with essential nutrients to support your daily needs efficiently!
 
@@ -371,7 +371,7 @@ Lean Shake Plus (Meal Replacement) Lean Shake Plus is a comprehensive meal repla
 
 ## SEO Information
 
-**SEO Title:** Micellar Casein Protein Powder | VPA Australia
+**SEO Title:** Micellar Casein
 
 **SEO Description:** VPA Australia's Micellar Casein blends pure whey protein concentrate & casein for sustained overnight muscle recovery. Available online now.
 
@@ -481,5 +481,5 @@ Micellar Casein Micellar Casein is a milk protein and is well know for is slow d
 - **Products shown:** 5
 - **Has next page:** Yes
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-05T14:11:20.527Z
+- **Generated:** 2025-08-05T14:43:02.423Z
 

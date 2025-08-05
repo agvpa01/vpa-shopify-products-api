@@ -14,7 +14,7 @@
 
 ## SEO Information
 
-**SEO Title:** Meg's Hybrid Stack | VPA Australia
+**SEO Title:** Meg's Hybrid Stack
 
 **SEO Description:** Meg's Hybrid Stack |
 
@@ -61,7 +61,7 @@
 
 ## SEO Information
 
-**SEO Title:** Midnight Shaker (500mL) | VPA Australia
+**SEO Title:** Midnight Blue Shaker - 500mL
 
 **SEO Description:** Midnight Shaker - Level up your Shaker game with VPA\'s new 500ml BPA Free Shaker.
 
@@ -123,7 +123,7 @@ description Introducing our sleek and stylish Midnight Shaker! Crafted in a stri
 
 ## SEO Information
 
-**SEO Title:** Whey Premium Best Seller Pack | VPA Australia
+**SEO Title:** Whey Premium Best Seller Pack
 
 **SEO Description:** Whey Premium Best Seller Pack |
 
@@ -170,7 +170,7 @@ description Introducing our sleek and stylish Midnight Shaker! Crafted in a stri
 
 ## SEO Information
 
-**SEO Title:** Whey Isolate Best Seller Pack | VPA Australia
+**SEO Title:** Whey Isolate Best Seller Pack
 
 **SEO Description:** Whey Isolate Best Seller Pack |
 
@@ -217,7 +217,7 @@ description Introducing our sleek and stylish Midnight Shaker! Crafted in a stri
 
 ## SEO Information
 
-**SEO Title:** 1L Stainless Steel Insulated Drink Bottle | VPA Australia
+**SEO Title:** 1L SS Insulated Drink Bottle
 
 **SEO Description:** 1L Stainless Steel Insulated Drinking Bottle with a built-in stainless steel drinking straw. It is BPA-Free and keeps your drinks cold or hot from dawn to dusk. Perfect for every adventure.
 
@@ -287,5 +287,5 @@ BLACK FRIDAY OFFER: Free 1L Stainless Drink Bottle when you spend $120 or more! 
 - **Products shown:** 5
 - **Has next page:** Yes
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-05T14:11:33.762Z
+- **Generated:** 2025-08-05T14:43:14.458Z
 

@@ -258,9 +258,9 @@ description Celebrate your support for the Norths Devils Rugby Club with this st
 - **Product Type:** Accessories
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 19808
+- **Total Inventory:** 19807
 - **Created:** 5/22/2024
-- **Updated:** 8/2/2025
+- **Updated:** 8/5/2025
 
 **Tags:** brisbane_only, dispatch_only_Brisbane
 
@@ -280,7 +280,7 @@ description Show your support for the UQ Rugby Red Heavies with our Limited Edit
 
 - **Price:** AUD 15.0
 - **Available:** Yes
-- **Quantity Available:** 19808
+- **Quantity Available:** 19807
 - **Options:**
   - Size: 500mL
 
@@ -345,5 +345,5 @@ description Show your support for the UQ Rugby Red Heavies with our Limited Edit
 - **Products shown:** 5
 - **Has next page:** Yes
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-05T09:35:54.350Z
+- **Generated:** 2025-08-05T14:11:32.920Z
 

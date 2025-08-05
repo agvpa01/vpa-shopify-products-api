@@ -44,7 +44,7 @@
 - **Product Type:** Protein Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** -11534
+- **Total Inventory:** -11536
 - **Created:** 6/2/2020
 - **Updated:** 8/5/2025
 
@@ -98,7 +98,7 @@ Complete Tri-Protein Complete Tri-Protein. With an even ratio of WPI, WPC and Mi
 
 - **Price:** AUD 54.0
 - **Available:** Yes
-- **Quantity Available:** -2040
+- **Quantity Available:** -2041
 - **Options:**
   - Flavour: Banana
 
@@ -118,7 +118,7 @@ Complete Tri-Protein Complete Tri-Protein. With an even ratio of WPI, WPC and Mi
 
 - **Price:** AUD 54.0
 - **Available:** Yes
-- **Quantity Available:** 1025
+- **Quantity Available:** 1024
 - **Options:**
   - Flavour: Strawberry
 
@@ -158,7 +158,7 @@ Complete Tri-Protein Complete Tri-Protein. With an even ratio of WPI, WPC and Mi
 - **Product Type:** Protein Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 114564
+- **Total Inventory:** 114561
 - **Created:** 6/2/2020
 - **Updated:** 8/5/2025
 
@@ -190,7 +190,7 @@ WHAT IS BREAKFAST SHAKE? VPA Breakfast Shake is a comprehensive morning shake de
 
 - **Price:** AUD 48.0
 - **Available:** Yes
-- **Quantity Available:** 28507
+- **Quantity Available:** 28506
 - **Options:**
   - Flavour: Chocolate
 
@@ -210,7 +210,7 @@ WHAT IS BREAKFAST SHAKE? VPA Breakfast Shake is a comprehensive morning shake de
 
 - **Price:** AUD 48.0
 - **Available:** Yes
-- **Quantity Available:** 28939
+- **Quantity Available:** 28937
 - **Options:**
   - Flavour: Banana
 
@@ -406,5 +406,5 @@ HOW VPA'S COLOSTRUM OPTIMISES YOU VPA Bovine Colostrum is a rich source of many 
 - **Products shown:** 5
 - **Has next page:** Yes
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-05T09:35:48.496Z
+- **Generated:** 2025-08-05T14:11:19.911Z
 

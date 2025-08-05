@@ -106,7 +106,7 @@ PRODUCT INFORMATION HOW VPA'S GLYCINE OPTIMISES YOU Glycine is an amino acid tha
 - **Product Type:** Amino Acid
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 15
+- **Total Inventory:** 14
 - **Created:** 9/11/2023
 - **Updated:** 8/4/2025
 
@@ -128,7 +128,7 @@ LArginine L-Arginine is an amino acid that regulates blood flow and maintains he
 
 - **Price:** AUD 16.0
 - **Available:** Yes
-- **Quantity Available:** 15
+- **Quantity Available:** 14
 - **Options:**
   - Title: Default Title
 
@@ -284,9 +284,9 @@ VPA’s Maca Powder is a nutrient-rich superfood known for its natural adaptogen
 - **Product Type:** Amino Acid
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 19488
+- **Total Inventory:** 19487
 - **Created:** 9/11/2023
-- **Updated:** 8/4/2025
+- **Updated:** 8/5/2025
 
 **Tags:** amino acids, essential amino acids
 
@@ -306,7 +306,7 @@ VPA’s N-Acetyl Cysteine (NAC) Powder is a pure, high-quality amino acid supple
 
 - **Price:** AUD 24.0
 - **Available:** Yes
-- **Quantity Available:** 19488
+- **Quantity Available:** 19487
 - **Options:**
   - Title: Default Title
 
@@ -324,5 +324,5 @@ VPA’s N-Acetyl Cysteine (NAC) Powder is a pure, high-quality amino acid supple
 - **Products shown:** 5
 - **Has next page:** Yes
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-05T09:35:53.598Z
+- **Generated:** 2025-08-05T14:11:31.187Z
 

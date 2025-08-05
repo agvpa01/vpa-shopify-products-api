@@ -74,6 +74,8 @@ description STAY COOL AND COMFORTABLE ON EVERY RUN VPA Running Cap is designed t
 
 # 2. [[Batch-tested] Muscle Gainer](https://vpa-australia.myshopify.com/products/batch-tested-muscle-gainer)
 
+**🏆 HASTA Certified Product** - Third-party tested for quality assurance
+
 ## SEO Information
 
 **SEO Title:** Muscle Gainer - Protein Powder for Weight Gain | VPA Australia
@@ -104,6 +106,7 @@ description STAY COOL AND COMFORTABLE ON EVERY RUN VPA Running Cap is designed t
 
 - **Handle:** batch-tested-muscle-gainer
 - **Product Type:** Protein Powder
+- **Type:** HASTA
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
 - **Total Inventory:** 355
@@ -168,6 +171,8 @@ VPA® Muscle Gainer is a high-calorie, high-protein supplement specifically form
 
 # 3. [[Batch-tested] Gold Coast Stim Pre-workout](https://vpa-australia.myshopify.com/products/batch-tested-gold-coast-stim-pre-workout)
 
+**🏆 HASTA Certified Product** - Third-party tested for quality assurance
+
 ## SEO Information
 
 **SEO Title:** Buy Pre Workout Supplement Powder For Beginners | VPA Australia
@@ -198,11 +203,12 @@ VPA® Muscle Gainer is a high-calorie, high-protein supplement specifically form
 
 - **Handle:** batch-tested-gold-coast-stim-pre-workout
 - **Product Type:** Pre-Workout
+- **Type:** HASTA
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 11
+- **Total Inventory:** 10
 - **Created:** 10/30/2024
-- **Updated:** 8/4/2025
+- **Updated:** 8/5/2025
 
 **Tags:** dispatch_only_Brisbane, foodtech_product_shopbyingredient: AAKG, foodtech_product_shopbyingredient: Beta Alanine, foodtech_product_shopbyingredient: Citruline Malate, foodtech_product_shopbyingredient: Creatine Monohydrate, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegan, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: performance and endurance, ghost, new_flavour, pre 30, preworkout, vpa australia
 
@@ -241,13 +247,15 @@ Gold Coast Stim Pre-Workout is a high-performance supplement formulated with pre
 
 - **Price:** AUD 47.0
 - **Available:** Yes
-- **Quantity Available:** 11
+- **Quantity Available:** 10
 - **Options:**
   - Flavours: Blue Razzleberry
 
 ---
 
 # 4. [Batch-Tested Whey Protein Isolate](https://vpa-australia.myshopify.com/products/batch-tested-whey-protein-isolate-protein-powder)
+
+**🏆 HASTA Certified Product** - Third-party tested for quality assurance
 
 ## SEO Information
 
@@ -279,6 +287,7 @@ Gold Coast Stim Pre-Workout is a high-performance supplement formulated with pre
 
 - **Handle:** batch-tested-whey-protein-isolate-protein-powder
 - **Product Type:** Protein Powder
+- **Type:** HASTA
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
 - **Total Inventory:** 741
@@ -362,6 +371,8 @@ VPA® Whey Protein Isolate (WPI) is a premium, ultra-filtered protein powder off
 
 # 5. [[Batch-tested] Venom - High Stim Preworkout](https://vpa-australia.myshopify.com/products/batch-tested-venom-high-stim-preworkout)
 
+**🏆 HASTA Certified Product** - Third-party tested for quality assurance
+
 ## SEO Information
 
 **SEO Title:** Buy High Stim Pre Workout Powder Online | VPA Australia
@@ -392,6 +403,7 @@ VPA® Whey Protein Isolate (WPI) is a premium, ultra-filtered protein powder off
 
 - **Handle:** batch-tested-venom-high-stim-preworkout
 - **Product Type:** Pre-Workout
+- **Type:** HASTA
 - **Vendor:** VPA Australia
 - **Available for Sale:** No
 - **Total Inventory:** N/A
@@ -444,5 +456,5 @@ VPA’s Batch-Tested Venom® Pre-Workout is a high-performance supplement formul
 - **Products shown:** 5
 - **Has next page:** Yes
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-05T09:35:55.113Z
+- **Generated:** 2025-08-05T14:11:34.604Z
 

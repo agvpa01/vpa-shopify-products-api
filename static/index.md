@@ -1,6 +1,6 @@
 # Static Markdown Files
 
-**Generated:** 2025-08-05T09:35:56.333Z
+**Generated:** 2025-08-05T14:11:36.790Z
 
 **Total Products:** 96
 
@@ -29,8 +29,8 @@
 - [page-15.md](./static/page-15.md) (9.36 KB)
 - [page-16.md](./static/page-16.md) (9.90 KB)
 - [page-17.md](./static/page-17.md) (7.72 KB)
-- [page-18.md](./static/page-18.md) (16.05 KB)
-- [page-19.md](./static/page-19.md) (12.56 KB)
+- [page-18.md](./static/page-18.md) (16.42 KB)
+- [page-19.md](./static/page-19.md) (12.84 KB)
 - [page-20.md](./static/page-20.md) (1.65 KB)
 - [products-overview.md](./static/products-overview.md) (9.57 KB)
 

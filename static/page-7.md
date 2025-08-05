@@ -32,7 +32,7 @@
 - **Product Type:** Protein Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 173
+- **Total Inventory:** 172
 - **Created:** 6/2/2020
 - **Updated:** 8/5/2025
 
@@ -54,7 +54,7 @@ Whey Isolate (WPI) NOT SURE ABOUT A WPI FLAVOUR?Well, now you can sample them to
 
 - **Price:** AUD 32.0
 - **Available:** Yes
-- **Quantity Available:** 173
+- **Quantity Available:** 172
 - **Options:**
   - Title: Default Title
 
@@ -94,7 +94,7 @@ Whey Isolate (WPI) NOT SURE ABOUT A WPI FLAVOUR?Well, now you can sample them to
 - **Product Type:** Health Supplement
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 11004
+- **Total Inventory:** 10995
 - **Created:** 6/2/2020
 - **Updated:** 8/5/2025
 
@@ -125,7 +125,7 @@ What is VPA's Collagen Protein Powder? Collagen Hydrolysate is a unique combinat
 
 - **Price:** AUD 39.0
 - **Available:** Yes
-- **Quantity Available:** 11004
+- **Quantity Available:** 10995
 - **Options:**
   - Size: 220g (15 Servings)
 
@@ -153,7 +153,7 @@ What is VPA's Collagen Protein Powder? Collagen Hydrolysate is a unique combinat
 - **Product Type:** Protein Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 196
+- **Total Inventory:** 195
 - **Created:** 6/2/2020
 - **Updated:** 8/5/2025
 
@@ -175,7 +175,7 @@ Premium Plant Sample Vegan Pack For vegans, one of the biggest challenges has al
 
 - **Price:** AUD 29.0
 - **Available:** Yes
-- **Quantity Available:** 196
+- **Quantity Available:** 195
 - **Options:**
   - Title: Default Title
 
@@ -215,7 +215,7 @@ Premium Plant Sample Vegan Pack For vegans, one of the biggest challenges has al
 - **Product Type:** Protein Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 20765
+- **Total Inventory:** 20763
 - **Created:** 6/2/2020
 - **Updated:** 8/5/2025
 
@@ -256,7 +256,7 @@ WHAT IS PROTEIN WATER? Protein Water is a muscle recovery and hydration drink th
 
 - **Price:** AUD 69.0
 - **Available:** Yes
-- **Quantity Available:** 26167
+- **Quantity Available:** 26165
 - **Options:**
   - Flavour: Sour Worms
 
@@ -320,5 +320,5 @@ WHAT IS PROTEIN WATER? Protein Water is a muscle recovery and hydration drink th
 - **Products shown:** 5
 - **Has next page:** Yes
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-05T09:35:50.890Z
+- **Generated:** 2025-08-05T14:11:24.877Z
 

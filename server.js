@@ -377,28 +377,43 @@ app.get("/api/products", async (req, res) => {
       });
     }
 
-    const products = response.data.data.products.edges.map((edge) => ({
-      id: edge.node.id,
-      title: edge.node.title,
-      description: edge.node.description,
-      handle: edge.node.handle,
-      onlineStoreUrl: edge.node.onlineStoreUrl,
-      createdAt: edge.node.createdAt,
-      updatedAt: edge.node.updatedAt,
-      productType: edge.node.productType,
-      vendor: edge.node.vendor,
-      tags: edge.node.tags,
-      availableForSale: edge.node.availableForSale,
-      totalInventory: edge.node.totalInventory,
-      seo: edge.node.seo,
-      qtyPriceBreaks: edge.node.qtyPriceBreaks,
-      priceRange: edge.node.priceRange,
-      images: edge.node.images.edges.map((img) => img.node),
-      variants: edge.node.variants.edges.map((variant) => ({
-        ...variant.node,
-        qtyPriceBreaks: variant.node.qtyPriceBreaks,
-      })),
-    }));
+    const products = response.data.data.products.edges.map((edge) => {
+      // Check for HASTA keywords in title, description, or tags
+      const hastaKeywords = ['batch tested', 'batch test', 'batch-tested', 'batch-test', 'third party tested', 'third-party tested', 'lab tested', 'lab-tested', 'quality tested', 'quality-tested'];
+      const searchText = [
+        edge.node.title || '',
+        edge.node.description || '',
+        ...(edge.node.tags || [])
+      ].join(' ').toLowerCase();
+      
+      const hasHastaKeywords = hastaKeywords.some(keyword => 
+        searchText.includes(keyword.toLowerCase())
+      );
+      
+      return {
+        id: edge.node.id,
+        title: edge.node.title,
+        description: edge.node.description,
+        handle: edge.node.handle,
+        onlineStoreUrl: edge.node.onlineStoreUrl,
+        createdAt: edge.node.createdAt,
+        updatedAt: edge.node.updatedAt,
+        productType: edge.node.productType,
+        vendor: edge.node.vendor,
+        tags: edge.node.tags,
+        availableForSale: edge.node.availableForSale,
+        totalInventory: edge.node.totalInventory,
+        seo: edge.node.seo,
+        qtyPriceBreaks: edge.node.qtyPriceBreaks,
+        priceRange: edge.node.priceRange,
+        images: edge.node.images.edges.map((img) => img.node),
+        variants: edge.node.variants.edges.map((variant) => ({
+          ...variant.node,
+          qtyPriceBreaks: variant.node.qtyPriceBreaks,
+        })),
+        type: hasHastaKeywords ? 'HASTA' : null, // Add HASTA type for products with batch testing keywords
+      };
+    });
 
     res.json({
       success: true,
@@ -663,6 +678,18 @@ app.get("/api/products/:handle", async (req, res) => {
       });
     }
 
+    // Check for HASTA keywords in title, description, or tags
+    const hastaKeywords = ['batch tested', 'batch test', 'batch-tested', 'batch-test', 'third party tested', 'third-party tested', 'lab tested', 'lab-tested', 'quality tested', 'quality-tested'];
+    const searchText = [
+      product.title || '',
+      product.description || '',
+      ...(product.tags || [])
+    ].join(' ').toLowerCase();
+    
+    const hasHastaKeywords = hastaKeywords.some(keyword => 
+      searchText.includes(keyword.toLowerCase())
+    );
+
     const formattedProduct = {
       id: product.id,
       title: product.title,
@@ -684,6 +711,7 @@ app.get("/api/products/:handle", async (req, res) => {
         ...variant.node,
         qtyPriceBreaks: variant.node.qtyPriceBreaks,
       })),
+      type: hasHastaKeywords ? 'HASTA' : null, // Add HASTA type for products with batch testing keywords
     };
 
     res.json({
@@ -902,7 +930,26 @@ app.get("/api/products/markdown/:page", async (req, res) => {
 
     // Process each product
     products.forEach((product, index) => {
+      // Check for HASTA keywords in title, description, or tags
+       const hastaKeywords = ['batch tested', 'batch test', 'batch-tested', 'batch-test', 'third party tested', 'third-party tested', 'lab tested', 'lab-tested', 'quality tested', 'quality-tested'];
+       const searchText = [
+         product.title || '',
+         product.description || '',
+         ...(product.tags || [])
+       ].join(' ').toLowerCase();
+       
+       const hasHastaKeywords = hastaKeywords.some(keyword => 
+         searchText.includes(keyword.toLowerCase())
+       );
+      
+      const productType = hasHastaKeywords ? 'HASTA' : null;
+      
       markdown += `# ${index + 1}. [${product.title}](${product.onlineStoreUrl || `https://${SHOPIFY_STORE_DOMAIN}/products/${product.handle}`})\n\n`;
+      
+      // Add type indicator if HASTA
+      if (productType === 'HASTA') {
+        markdown += `**🏆 HASTA Certified Product** - Third-party tested for quality assurance\n\n`;
+      }
 
       // SEO Information
       if (product.seo && (product.seo.title || product.seo.description)) {
@@ -931,6 +978,9 @@ app.get("/api/products/markdown/:page", async (req, res) => {
       markdown += `## Product Details\n\n`;
       markdown += `- **Handle:** ${product.handle}\n`;
       markdown += `- **Product Type:** ${product.productType || "N/A"}\n`;
+      if (productType) {
+        markdown += `- **Type:** ${productType}\n`;
+      }
       markdown += `- **Vendor:** ${product.vendor || "N/A"}\n`;
       markdown += `- **Available for Sale:** ${
         product.availableForSale ? "Yes" : "No"

@@ -195,7 +195,7 @@ Hot Protein Delight VPA’s Hot Protein Delight is the ideal winter warmer for t
 - **Product Type:** Protein Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 978
+- **Total Inventory:** 969
 - **Created:** 6/2/2020
 - **Updated:** 8/5/2025
 
@@ -239,7 +239,7 @@ Muscle Gainer VPA Muscle Gainer is a comprehensive protein shake designed to hel
 
 - **Price:** AUD 34.0
 - **Available:** Yes
-- **Quantity Available:** -11203
+- **Quantity Available:** -11206
 - **Options:**
   - Flavour: Vanilla
 
@@ -249,7 +249,7 @@ Muscle Gainer VPA Muscle Gainer is a comprehensive protein shake designed to hel
 
 - **Price:** AUD 34.0
 - **Available:** Yes
-- **Quantity Available:** 4607
+- **Quantity Available:** 4604
 - **Options:**
   - Flavour: Banana
 
@@ -269,7 +269,7 @@ Muscle Gainer VPA Muscle Gainer is a comprehensive protein shake designed to hel
 
 - **Price:** AUD 34.0
 - **Available:** Yes
-- **Quantity Available:** 4212
+- **Quantity Available:** 4209
 - **Options:**
   - Flavour: Salted Caramel
 
@@ -401,7 +401,7 @@ Lean Shake Plus (Meal Replacement) Lean Shake Plus is a comprehensive meal repla
 - **Product Type:** Protein Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 57730
+- **Total Inventory:** 57728
 - **Created:** 6/2/2020
 - **Updated:** 8/5/2025
 
@@ -433,7 +433,7 @@ Micellar Casein Micellar Casein is a milk protein and is well know for is slow d
 
 - **Price:** AUD 55.0
 - **Available:** Yes
-- **Quantity Available:** 18863
+- **Quantity Available:** 18862
 - **Options:**
   - Flavour: Chocolate
 
@@ -443,7 +443,7 @@ Micellar Casein Micellar Casein is a milk protein and is well know for is slow d
 
 - **Price:** AUD 55.0
 - **Available:** Yes
-- **Quantity Available:** 18868
+- **Quantity Available:** 18867
 - **Options:**
   - Flavour: Vanilla
 
@@ -481,5 +481,5 @@ Micellar Casein Micellar Casein is a milk protein and is well know for is slow d
 - **Products shown:** 5
 - **Has next page:** Yes
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-05T09:35:48.876Z
+- **Generated:** 2025-08-05T14:11:20.527Z
 

@@ -12,6 +12,8 @@
 
 # 1. [[Batch-tested] Creatine Monohydrate](https://vpa-australia.myshopify.com/products/batch-tested-creatine-monohydrate)
 
+**🏆 HASTA Certified Product** - Third-party tested for quality assurance
+
 ## SEO Information
 
 **SEO Title:** Buy Creatine Monohydrate Powder Online | VPA Australia
@@ -42,6 +44,7 @@
 
 - **Handle:** batch-tested-creatine-monohydrate
 - **Product Type:** Amino Acid
+- **Type:** HASTA
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
 - **Total Inventory:** 49
@@ -75,6 +78,8 @@ VPA’s Creatine Monohydrate is a pure, high-quality supplement designed to supp
 
 # 2. [[Batch-tested] Collagen Pro® - Protein Powder](https://vpa-australia.myshopify.com/products/batch-tested-collagen-pro-r-protein-powder)
 
+**🏆 HASTA Certified Product** - Third-party tested for quality assurance
+
 ## SEO Information
 
 **SEO Title:** Buy Prebiotic Collagen Protein Powder Online | VPA Australia
@@ -105,6 +110,7 @@ VPA’s Creatine Monohydrate is a pure, high-quality supplement designed to supp
 
 - **Handle:** batch-tested-collagen-pro-r-protein-powder
 - **Product Type:** Health Supplement
+- **Type:** HASTA
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
 - **Total Inventory:** 205
@@ -146,6 +152,8 @@ VPA® Collagen PRO® is a premium collagen supplement combining high-quality Ger
 
 # 3. [[Batch-tested] BUSSIN INTRA (Flavoured BCAA)](https://vpa-australia.myshopify.com/products/batch-tested-bussin-intra-flavoured-bcaa)
 
+**🏆 HASTA Certified Product** - Third-party tested for quality assurance
+
 ## SEO Information
 
 **SEO Title:** Buy Batch-Tested BCAA Supplement Powder Online | VPA Australia
@@ -176,6 +184,7 @@ VPA® Collagen PRO® is a premium collagen supplement combining high-quality Ger
 
 - **Handle:** batch-tested-bussin-intra-flavoured-bcaa
 - **Product Type:** Amino Acid
+- **Type:** HASTA
 - **Vendor:** VPA Australia
 - **Available for Sale:** No
 - **Total Inventory:** N/A
@@ -249,9 +258,9 @@ VPA® Batch-Tested Bussin Intra is a premium intra-workout supplement formulated
 - **Product Type:** Accessories
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 86
+- **Total Inventory:** 85
 - **Created:** 2/13/2025
-- **Updated:** 8/4/2025
+- **Updated:** 8/5/2025
 
 **Tags:** brisbane_only, dispatch_only_Brisbane, NEW
 
@@ -271,7 +280,7 @@ description Designed for active lifestyles, the 610ml Insulated Squeeze Sports B
 
 - **Price:** AUD 25.0
 - **Available:** Yes
-- **Quantity Available:** 86
+- **Quantity Available:** 85
 - **Options:**
   - Title: Default Title
 
@@ -353,5 +362,5 @@ description Designed for active lifestyles, the 610ml Insulated Squeeze Sports B
 - **Products shown:** 5
 - **Has next page:** Yes
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-05T09:35:55.541Z
+- **Generated:** 2025-08-05T14:11:35.462Z
 

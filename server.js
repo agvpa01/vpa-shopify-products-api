@@ -26,6 +26,7 @@ const PRODUCTS_QUERY = `
           title
           description
           handle
+          onlineStoreUrl
           createdAt
           updatedAt
           productType
@@ -161,6 +162,7 @@ app.get("/api/products", async (req, res) => {
       title: edge.node.title,
       description: edge.node.description,
       handle: edge.node.handle,
+      onlineStoreUrl: edge.node.onlineStoreUrl,
       createdAt: edge.node.createdAt,
       updatedAt: edge.node.updatedAt,
       productType: edge.node.productType,
@@ -208,6 +210,7 @@ app.get("/api/products/:handle", async (req, res) => {
           title
           description
           handle
+          onlineStoreUrl
           createdAt
           updatedAt
           productType
@@ -317,6 +320,7 @@ app.get("/api/products/:handle", async (req, res) => {
       title: product.title,
       description: product.description,
       handle: product.handle,
+      onlineStoreUrl: product.onlineStoreUrl,
       createdAt: product.createdAt,
       updatedAt: product.updatedAt,
       productType: product.productType,
@@ -546,7 +550,7 @@ app.get("/api/products/markdown/:page", async (req, res) => {
 
     // Process each product
     products.forEach((product, index) => {
-      markdown += `# ${index + 1}. ${product.title}\n\n`;
+      markdown += `# ${index + 1}. [${product.title}](${product.onlineStoreUrl || `https://${SHOPIFY_STORE_DOMAIN}/products/${product.handle}`})\n\n`;
 
       // SEO Information
       if (product.seo && (product.seo.title || product.seo.description)) {
@@ -652,7 +656,7 @@ app.get("/api/products/markdown/:page", async (req, res) => {
 
         product.variants.edges.forEach((variant, varIndex) => {
           const v = variant.node;
-          markdown += `### Variant ${varIndex + 1}: ${v.title}\n\n`;
+          markdown += `### Variant ${varIndex + 1}: [${v.title}](${product.onlineStoreUrl || `https://${SHOPIFY_STORE_DOMAIN}/products/${product.handle}`})\n\n`;
 
           // Add variant image if available
           if (v.image && v.image.url) {
@@ -841,7 +845,7 @@ app.get("/api/products/:handle/markdown", async (req, res) => {
     }
 
     // Generate markdown content
-    let markdown = `# ${product.title}\n\n`;
+    let markdown = `# [${product.title}](${product.onlineStoreUrl || `https://${SHOPIFY_STORE_DOMAIN}/products/${product.handle}`})\n\n`;
 
     // SEO Information
     if (product.seo && (product.seo.title || product.seo.description)) {
@@ -942,7 +946,7 @@ app.get("/api/products/:handle/markdown", async (req, res) => {
 
       product.variants.edges.forEach((variant, index) => {
         const v = variant.node;
-        markdown += `### Variant ${index + 1}: ${v.title}\n\n`;
+        markdown += `### Variant ${index + 1}: [${v.title}](${product.onlineStoreUrl || `https://${SHOPIFY_STORE_DOMAIN}/products/${product.handle}`})\n\n`;
 
         // Add variant image if available
         if (v.image && v.image.url) {

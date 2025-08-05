@@ -57,15 +57,18 @@ GET /api/products
 ```
 
 **Query Parameters:**
+
 - `limit` (optional): Number of products to fetch (1-250, default: 10)
 - `cursor` (optional): Pagination cursor for next page
 
 **Example:**
+
 ```bash
 curl "http://localhost:3000/api/products?limit=5"
 ```
 
 **Response:**
+
 ```json
 {
   "success": true,
@@ -159,9 +162,11 @@ GET /api/products/:handle
 ```
 
 **Parameters:**
+
 - `handle`: Product handle (URL slug)
 
 **Example:**
+
 ```bash
 curl "http://localhost:3000/api/products/my-product-handle"
 ```
@@ -173,6 +178,7 @@ GET /api/products/markdown/:page
 ```
 
 **Parameters:**
+
 - `page`: Page number (starting from 1)
 
 **Description:** Retrieve products by page (5 products per page) formatted as a markdown document with all fields properly laid out including images
@@ -182,11 +188,13 @@ GET /api/products/markdown/:page
 **Content-Type:** `text/plain; charset=utf-8`
 
 **Example:**
+
 ```bash
 curl "http://localhost:3000/api/products/markdown/1"
 ```
 
 **Sample Paginated Markdown Output:**
+
 ```markdown
 # Products - Page 1
 
@@ -208,18 +216,21 @@ curl "http://localhost:3000/api/products/markdown/1"
 ## Product Images
 
 ### Image 1
+
 ![Sample Product](https://cdn.shopify.com/s/files/1/sample-image.jpg)
 
 - **Alt Text:** Sample product image
 - **Dimensions:** 800 x 800px
 
 ### Image 2
+
 ![Sample Product 2](https://cdn.shopify.com/s/files/1/sample-image-2.jpg)
 
 - **Alt Text:** Another product view
 - **Dimensions:** 800 x 800px
 
 ### Image 3
+
 ![Sample Product 3](https://cdn.shopify.com/s/files/1/sample-image-3.jpg)
 
 - **Alt Text:** Third product view
@@ -250,11 +261,11 @@ This is a detailed product description with all the features and benefits...
 **Raw Data:** `1:0;2:8.035714285714286;3:10.714285714285714;4:11.160714285714286`
 
 | Quantity | Discount % | Discounted Price | Total Price |
-|----------|------------|------------------|-------------|
-| 1 | 0.00% | USD 29.99 | USD 29.99 |
-| 2 | 8.04% | USD 27.58 | USD 55.16 |
-| 3 | 10.71% | USD 26.78 | USD 80.34 |
-| 4 | 11.16% | USD 26.64 | USD 106.56 |
+| -------- | ---------- | ---------------- | ----------- |
+| 1        | 0.00%      | USD 29.99        | USD 29.99   |
+| 2        | 8.04%      | USD 27.58        | USD 55.16   |
+| 3        | 10.71%     | USD 26.78        | USD 80.34   |
+| 4        | 11.16%     | USD 26.64        | USD 106.56  |
 
 ## Product Variants (3 variants)
 
@@ -323,6 +334,7 @@ GET /api/products/:handle/markdown
 ```
 
 **Parameters:**
+
 - `handle`: Product handle (URL slug)
 
 **Description:** Retrieve a specific product formatted as a markdown document with all fields properly laid out including images
@@ -332,11 +344,13 @@ GET /api/products/:handle/markdown
 **Content-Type:** `text/plain; charset=utf-8`
 
 **Example:**
+
 ```bash
 curl "http://localhost:3000/api/products/my-product-handle/markdown"
 ```
 
 **Sample Markdown Output:**
+
 ```markdown
 # Product Title
 
@@ -348,6 +362,7 @@ curl "http://localhost:3000/api/products/my-product-handle/markdown"
 ## Product Images
 
 ### Image 1
+
 ![Product Image](https://cdn.shopify.com/s/files/1/image.jpg)
 
 - **Alt Text:** Product main image
@@ -379,11 +394,11 @@ This is a detailed product description with all the features and benefits.
 **Raw Data:** `1:0;2:8.035714285714286;3:10.714285714285714;4:11.160714285714286`
 
 | Quantity | Discount % | Discounted Price | Total Price |
-|----------|------------|------------------|-------------|
-| 1 | 0.00% | USD 29.99 | USD 29.99 |
-| 2 | 8.04% | USD 27.58 | USD 55.16 |
-| 3 | 10.71% | USD 26.78 | USD 80.34 |
-| 4 | 11.16% | USD 26.64 | USD 106.56 |
+| -------- | ---------- | ---------------- | ----------- |
+| 1        | 0.00%      | USD 29.99        | USD 29.99   |
+| 2        | 8.04%      | USD 27.58        | USD 55.16   |
+| 3        | 10.71%     | USD 26.78        | USD 80.34   |
+| 4        | 11.16%     | USD 26.64        | USD 106.56  |
 
 ## Product Variants
 
@@ -416,6 +431,7 @@ GET /health
 ```
 
 **Response:**
+
 ```json
 {
   "status": "OK",
@@ -436,6 +452,7 @@ Returns API documentation and available endpoints.
 ### Shopify Storefront Access Token
 
 The API uses the provided Storefront Access Token:
+
 ```
 X-Shopify-Storefront-Access-Token: 00f83946d62e103ffba900196f9a8949
 ```
@@ -456,6 +473,7 @@ The API includes comprehensive error handling:
 - **500 Internal Server Error**: Server or network errors
 
 Error responses follow this format:
+
 ```json
 {
   "success": false,

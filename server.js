@@ -1423,6 +1423,124 @@ app.get("/api/static-links", async (req, res) => {
   }
 });
 
+// HTML sitemap endpoint for easier scraping
+app.get("/sitemap", async (req, res) => {
+  try {
+    const staticDir = path.join(__dirname, "static");
+    
+    // Check if static directory exists
+    if (!fs.existsSync(staticDir)) {
+      return res.send(`
+        <html>
+          <head><title>Static Files Sitemap</title></head>
+          <body>
+            <h1>Static Files Sitemap</h1>
+            <p>No static files found. Please generate them first using <a href="/api/generate-static">/api/generate-static</a></p>
+          </body>
+        </html>
+      `);
+    }
+
+    // Read all files in static directory
+    const files = fs.readdirSync(staticDir).filter(file => file.endsWith('.md'));
+    
+    // Generate full URLs for each file
+    const baseUrl = `${req.protocol}://${req.get('host')}`;
+    const links = files.map(file => ({
+      filename: file,
+      url: `${baseUrl}/static/${file}`,
+      type: file.includes('page-') ? 'product-page' : 
+            file === 'index.md' ? 'index' : 
+            file === 'products-overview.md' ? 'overview' : 'other'
+    }));
+
+    // Sort links for better organization
+    const sortedLinks = links.sort((a, b) => {
+      if (a.type === 'index') return -1;
+      if (b.type === 'index') return 1;
+      if (a.type === 'overview') return -1;
+      if (b.type === 'overview') return 1;
+      if (a.type === 'product-page' && b.type === 'product-page') {
+        const aNum = parseInt(a.filename.match(/page-(\d+)/)?.[1] || '0');
+        const bNum = parseInt(b.filename.match(/page-(\d+)/)?.[1] || '0');
+        return aNum - bNum;
+      }
+      return a.filename.localeCompare(b.filename);
+    });
+
+    // Generate HTML sitemap
+    const html = `
+      <!DOCTYPE html>
+      <html>
+        <head>
+          <title>Static Files Sitemap</title>
+          <meta charset="utf-8">
+          <style>
+            body { font-family: Arial, sans-serif; margin: 40px; }
+            h1 { color: #333; }
+            .stats { background: #f5f5f5; padding: 15px; border-radius: 5px; margin: 20px 0; }
+            .links { margin: 20px 0; }
+            .link-group { margin: 20px 0; }
+            .link-group h3 { color: #666; margin-bottom: 10px; }
+            a { display: block; padding: 5px 0; color: #0066cc; text-decoration: none; }
+            a:hover { text-decoration: underline; }
+            .url-list { background: #f9f9f9; padding: 15px; border-radius: 5px; margin: 20px 0; }
+            .url-list textarea { width: 100%; height: 200px; font-family: monospace; }
+          </style>
+        </head>
+        <body>
+          <h1>🗂️ Static Files Sitemap</h1>
+          
+          <div class="stats">
+            <strong>Total Files:</strong> ${files.length}<br>
+            <strong>Base URL:</strong> ${baseUrl}<br>
+            <strong>Generated:</strong> ${new Date().toISOString()}
+          </div>
+
+          <div class="links">
+            <div class="link-group">
+              <h3>📋 Index & Overview</h3>
+              ${sortedLinks.filter(link => link.type === 'index' || link.type === 'overview')
+                .map(link => `<a href="${link.url}" target="_blank">${link.filename}</a>`).join('')}
+            </div>
+            
+            <div class="link-group">
+              <h3>📄 Product Pages</h3>
+              ${sortedLinks.filter(link => link.type === 'product-page')
+                .map(link => `<a href="${link.url}" target="_blank">${link.filename}</a>`).join('')}
+            </div>
+          </div>
+
+          <div class="url-list">
+            <h3>📋 All URLs (Copy for Scraping)</h3>
+            <textarea readonly onclick="this.select()">${sortedLinks.map(link => link.url).join('\n')}</textarea>
+          </div>
+
+          <div style="margin-top: 30px; padding-top: 20px; border-top: 1px solid #ddd;">
+            <h3>🔗 API Endpoints</h3>
+            <a href="/api/static-links">JSON API - Static Links</a>
+            <a href="/api/generate-static">Generate Static Files</a>
+            <a href="/">API Documentation</a>
+          </div>
+        </body>
+      </html>
+    `;
+
+    res.send(html);
+  } catch (error) {
+    console.error("Error generating sitemap:", error.message);
+    res.status(500).send(`
+      <html>
+        <head><title>Error</title></head>
+        <body>
+          <h1>Error generating sitemap</h1>
+          <p>${error.message}</p>
+        </body>
+      </html>
+    `);
+  }
+});
+
 // Serve static markdown files
 app.use('/static', express.static(path.join(__dirname, 'static')));
 
@@ -1445,6 +1563,7 @@ app.get("/", (req, res) => {
       "GET /api/products/:handle/markdown": "Get a single product as markdown",
       "GET /api/generate-static": "Generate static markdown files for all products",
       "GET /api/static-links": "Get all static file URLs for scraping",
+      "GET /sitemap": "HTML sitemap with all static file links for visual browsing and scraping",
       "GET /static/:filename": "Access generated static markdown files",
       "GET /health": "Health check",
     },
@@ -1489,9 +1608,14 @@ app.get("/", (req, res) => {
         description: "Generate static markdown files for all products and pages",
       },
       "Static file links": {
-        url: "/api/static-links",
-        method: "GET",
-        description: "Get all static file URLs for easy scraping",
+        "url": "/api/static-links",
+        "method": "GET",
+        "description": "Get all static file URLs for easy scraping",
+      },
+      "HTML sitemap": {
+        "url": "/sitemap",
+        "method": "GET",
+        "description": "Visual HTML sitemap with all static file links for browsing and scraping",
       },
       "Static file access": {
         url: "/static/:filename",

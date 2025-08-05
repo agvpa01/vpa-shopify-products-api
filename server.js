@@ -1,6 +1,8 @@
 const express = require("express");
 const cors = require("cors");
 const axios = require("axios");
+const fs = require("fs");
+const path = require("path");
 require("dotenv").config();
 
 const app = express();
@@ -198,6 +200,134 @@ app.get("/api/products", async (req, res) => {
   }
 });
 
+// API endpoint to show all products organized by pages
+app.get("/api/products/pages", async (req, res) => {
+  try {
+    // Get total product count first
+    const totalProductCount = await getTotalProductCount();
+    const productsPerPage = 5;
+    const totalPages = Math.ceil(parseInt(totalProductCount) / productsPerPage);
+
+    // Fetch all products to organize them by pages
+    let allProducts = [];
+    let cursor = null;
+    let hasNextPage = true;
+    let iterations = 0;
+    const maxIterations = 20; // Prevent infinite loops
+
+    while (hasNextPage && iterations < maxIterations) {
+      const PRODUCTS_QUERY = `
+        query getProducts($first: Int!, $after: String) {
+          products(first: $first, after: $after, query: "status:active") {
+            edges {
+              node {
+                id
+                title
+                handle
+                onlineStoreUrl
+              }
+              cursor
+            }
+            pageInfo {
+              hasNextPage
+            }
+          }
+        }
+      `;
+
+      const variables = {
+        first: 250,
+        ...(cursor && { after: cursor }),
+      };
+
+      const response = await axios.post(
+        STOREFRONT_API_URL,
+        {
+          query: PRODUCTS_QUERY,
+          variables,
+        },
+        {
+          headers: {
+            "Content-Type": "application/json",
+            "X-Shopify-Storefront-Access-Token": SHOPIFY_STOREFRONT_TOKEN,
+          },
+        }
+      );
+
+      if (response.data.errors) {
+        return res.status(400).json({
+          success: false,
+          errors: response.data.errors,
+        });
+      }
+
+      const products = response.data.data.products;
+      allProducts = allProducts.concat(products.edges.map(edge => edge.node));
+      hasNextPage = products.pageInfo.hasNextPage;
+      cursor = products.edges.length > 0 ? products.edges[products.edges.length - 1].cursor : null;
+      iterations++;
+    }
+
+    // Generate markdown content
+    let markdown = `# All Products by Pages\n\n`;
+    markdown += `**Total Products in Store:** ${totalProductCount}\n\n`;
+    markdown += `**Products per Page:** ${productsPerPage}\n\n`;
+    markdown += `**Total Pages:** ${totalPages}\n\n`;
+    markdown += `---\n\n`;
+
+    // Organize products by pages
+    for (let page = 1; page <= totalPages; page++) {
+      const startIndex = (page - 1) * productsPerPage;
+      const endIndex = Math.min(startIndex + productsPerPage, allProducts.length);
+      const pageProducts = allProducts.slice(startIndex, endIndex);
+
+      if (pageProducts.length === 0) break;
+
+      markdown += `## [Page ${page}](/api/products/markdown/${page})\n\n`;
+      
+      pageProducts.forEach((product, index) => {
+        const productUrl = product.onlineStoreUrl || `https://${SHOPIFY_STORE_DOMAIN}/products/${product.handle}`;
+        markdown += `${startIndex + index + 1}. [${product.title}](${productUrl})\n`;
+      });
+      
+      markdown += `\n`;
+    }
+
+    // Navigation links
+    markdown += `---\n\n## Quick Navigation\n\n`;
+    for (let page = 1; page <= Math.min(totalPages, 10); page++) {
+      markdown += `[Page ${page}](/api/products/markdown/${page})`;
+      if (page < Math.min(totalPages, 10)) {
+        markdown += ` | `;
+      }
+    }
+    if (totalPages > 10) {
+      markdown += ` | ... | [Page ${totalPages}](/api/products/markdown/${totalPages})`;
+    }
+    markdown += `\n\n`;
+
+    // Technical Information
+    markdown += `## Technical Information\n\n`;
+    markdown += `- **Total Products:** ${totalProductCount}\n`;
+    markdown += `- **Products per Page:** ${productsPerPage}\n`;
+    markdown += `- **Total Pages:** ${totalPages}\n`;
+    markdown += `- **Products Fetched:** ${allProducts.length}\n`;
+    markdown += `- **Store Domain:** ${SHOPIFY_STORE_DOMAIN}\n`;
+    markdown += `- **Generated:** ${new Date().toISOString()}\n\n`;
+
+    // Set content type to text/plain for markdown
+    res.setHeader("Content-Type", "text/plain; charset=utf-8");
+    res.send(markdown);
+  } catch (error) {
+    console.error("Error generating products pages overview:", error.message);
+    res.status(500).json({
+      success: false,
+      error: "Failed to generate products pages overview",
+      message: error.message,
+    });
+  }
+});
+
 // API endpoint to get a single product by handle
 app.get("/api/products/:handle", async (req, res) => {
   try {
@@ -357,6 +487,9 @@ app.get("/api/products/markdown/:page", async (req, res) => {
   try {
     const page = parseInt(req.params.page) || 1;
     const productsPerPage = 5;
+
+    // Get total product count
+    const totalProductCount = await getTotalProductCount();
 
     // For proper pagination, we need to fetch from the beginning and skip to the desired page
     // This is a simplified approach - in production, you'd want to store cursors
@@ -535,6 +668,7 @@ app.get("/api/products/markdown/:page", async (req, res) => {
 
     // Generate markdown content
     let markdown = `# Products - Page ${page}\n\n`;
+    markdown += `**Total Products in Store:** ${totalProductCount}\n\n`;
     markdown += `**Showing ${products.length} products**\n\n`;
 
     // Navigation
@@ -728,10 +862,128 @@ app.get("/api/products/markdown/:page", async (req, res) => {
   }
 });
 
+// Function to get total product count
+async function getTotalProductCount() {
+  const TOTAL_COUNT_QUERY = `
+    query getTotalProductCount {
+      products(first: 1, query: "status:active") {
+        pageInfo {
+          hasNextPage
+        }
+      }
+    }
+  `;
+
+  try {
+    // First, try to get a rough estimate by fetching with a large number
+    const ESTIMATE_QUERY = `
+      query getProductCountEstimate {
+        products(first: 250, query: "status:active") {
+          edges {
+            node {
+              id
+            }
+          }
+          pageInfo {
+            hasNextPage
+          }
+        }
+      }
+    `;
+
+    const response = await axios.post(
+      STOREFRONT_API_URL,
+      {
+        query: ESTIMATE_QUERY,
+      },
+      {
+        headers: {
+          "Content-Type": "application/json",
+          "X-Shopify-Storefront-Access-Token": SHOPIFY_STOREFRONT_TOKEN,
+        },
+      }
+    );
+
+    if (response.data.errors) {
+      console.error("Error fetching product count:", response.data.errors);
+      return "Unknown";
+    }
+
+    const products = response.data.data.products;
+    let totalCount = products.edges.length;
+
+    // If there are more products, we need to paginate to get the exact count
+    if (products.pageInfo.hasNextPage) {
+      let cursor = products.edges[products.edges.length - 1]?.cursor;
+      let hasNextPage = true;
+
+      // Limit iterations to prevent infinite loops
+      let iterations = 0;
+      const maxIterations = 20; // This would handle up to 5000 products (250 * 20)
+
+      while (hasNextPage && cursor && iterations < maxIterations) {
+        const PAGINATED_QUERY = `
+          query getPaginatedProducts($after: String!) {
+            products(first: 250, after: $after, query: "status:active") {
+              edges {
+                cursor
+                node {
+                  id
+                }
+              }
+              pageInfo {
+                hasNextPage
+              }
+            }
+          }
+        `;
+
+        const paginatedResponse = await axios.post(
+          STOREFRONT_API_URL,
+          {
+            query: PAGINATED_QUERY,
+            variables: { after: cursor },
+          },
+          {
+            headers: {
+              "Content-Type": "application/json",
+              "X-Shopify-Storefront-Access-Token": SHOPIFY_STOREFRONT_TOKEN,
+            },
+          }
+        );
+
+        if (paginatedResponse.data.errors) {
+          console.error("Error in pagination:", paginatedResponse.data.errors);
+          break;
+        }
+
+        const paginatedProducts = paginatedResponse.data.data.products;
+        totalCount += paginatedProducts.edges.length;
+        hasNextPage = paginatedProducts.pageInfo.hasNextPage;
+        cursor = paginatedProducts.edges[paginatedProducts.edges.length - 1]?.cursor;
+        iterations++;
+      }
+
+      // If we hit the max iterations, indicate it's an estimate
+      if (iterations >= maxIterations) {
+        return `${totalCount}+`;
+      }
+    }
+
+    return totalCount.toString();
+  } catch (error) {
+    console.error("Error fetching total product count:", error.message);
+    return "Unknown";
+  }
+}
+
 // API endpoint to get product as markdown
 app.get("/api/products/:handle/markdown", async (req, res) => {
   try {
     const { handle } = req.params;
+
+    // Get total product count
+    const totalProductCount = await getTotalProductCount();
 
     const SINGLE_PRODUCT_QUERY = `
       query getProduct($handle: String!) {
@@ -846,6 +1098,9 @@ app.get("/api/products/:handle/markdown", async (req, res) => {
 
     // Generate markdown content
     let markdown = `# [${product.title}](${product.onlineStoreUrl || `https://${SHOPIFY_STORE_DOMAIN}/products/${product.handle}`})\n\n`;
+    
+    // Add total product count information
+    markdown += `**Total Products in Store:** ${totalProductCount}\n\n`;
 
     // SEO Information
     if (product.seo && (product.seo.title || product.seo.description)) {
@@ -998,6 +1253,118 @@ app.get("/api/products/:handle/markdown", async (req, res) => {
   }
 });
 
+// API endpoint to generate static markdown files
+app.get("/api/generate-static", async (req, res) => {
+  try {
+    const staticDir = path.join(__dirname, "static");
+    
+    // Create static directory if it doesn't exist
+    if (!fs.existsSync(staticDir)) {
+      fs.mkdirSync(staticDir, { recursive: true });
+    }
+
+    // Get total product count to determine how many pages to generate
+    const totalProductCount = await getTotalProductCount();
+    const productsPerPage = 5;
+    const totalPages = Math.ceil(parseInt(totalProductCount) / productsPerPage);
+
+    let generatedFiles = [];
+    let errors = [];
+
+    // Generate static files for each page
+    for (let page = 1; page <= totalPages; page++) {
+      try {
+        // Make internal request to the markdown endpoint
+        const response = await axios.get(`http://localhost:${PORT}/api/products/markdown/${page}`);
+        
+        const filename = `page-${page}.md`;
+        const filepath = path.join(staticDir, filename);
+        
+        // Write the markdown content to file
+        fs.writeFileSync(filepath, response.data, 'utf8');
+        
+        generatedFiles.push({
+          page: page,
+          filename: filename,
+          filepath: filepath,
+          size: Buffer.byteLength(response.data, 'utf8')
+        });
+      } catch (error) {
+        errors.push({
+          page: page,
+          error: error.message
+        });
+      }
+    }
+
+    // Generate overview page with all products
+    try {
+      const overviewResponse = await axios.get(`http://localhost:${PORT}/api/products/pages`);
+      const overviewFilename = 'products-overview.md';
+      const overviewFilepath = path.join(staticDir, overviewFilename);
+      
+      fs.writeFileSync(overviewFilepath, overviewResponse.data, 'utf8');
+      
+      generatedFiles.push({
+        page: 'overview',
+        filename: overviewFilename,
+        filepath: overviewFilepath,
+        size: Buffer.byteLength(overviewResponse.data, 'utf8')
+      });
+    } catch (error) {
+      errors.push({
+        page: 'overview',
+        error: error.message
+      });
+    }
+
+    // Generate index file with links to all static files
+    const indexContent = `# Static Markdown Files\n\n` +
+      `**Generated:** ${new Date().toISOString()}\n\n` +
+      `**Total Products:** ${totalProductCount}\n\n` +
+      `**Total Pages:** ${totalPages}\n\n` +
+      `**Files Generated:** ${generatedFiles.length}\n\n` +
+      `---\n\n` +
+      `## Available Files\n\n` +
+      generatedFiles.map(file => 
+        `- [${file.filename}](./static/${file.filename}) (${(file.size / 1024).toFixed(2)} KB)\n`
+      ).join('') +
+      `\n---\n\n` +
+      `## API Endpoints\n\n` +
+      `- [Products Overview](/api/products/pages)\n` +
+      generatedFiles.filter(f => f.page !== 'overview').map(file => 
+        `- [Page ${file.page}](/api/products/markdown/${file.page})\n`
+      ).join('');
+
+    const indexFilepath = path.join(staticDir, 'index.md');
+    fs.writeFileSync(indexFilepath, indexContent, 'utf8');
+
+    res.json({
+      success: true,
+      message: "Static markdown files generated successfully",
+      data: {
+        totalProductCount: totalProductCount,
+        totalPages: totalPages,
+        staticDirectory: staticDir,
+        filesGenerated: generatedFiles.length + 1, // +1 for index file
+        files: generatedFiles,
+        errors: errors,
+        indexFile: 'index.md'
+      }
+    });
+  } catch (error) {
+    console.error("Error generating static files:", error.message);
+    res.status(500).json({
+      success: false,
+      error: "Failed to generate static files",
+      message: error.message,
+    });
+  }
+});
+
+// Serve static markdown files
+app.use('/static', express.static(path.join(__dirname, 'static')));
+
 // Health check endpoint
 app.get("/health", (req, res) => {
   res.json({ status: "OK", timestamp: new Date().toISOString() });
@@ -1012,6 +1379,11 @@ app.get("/", (req, res) => {
       "GET /api/products":
         "Get all products (supports ?limit=10&cursor=xyz for pagination)",
       "GET /api/products/:handle": "Get a single product by handle",
+      "GET /api/products/pages": "Get all products organized by pages with product names as links",
+      "GET /api/products/markdown/:page": "Get products for a specific page as markdown",
+      "GET /api/products/:handle/markdown": "Get a single product as markdown",
+      "GET /api/generate-static": "Generate static markdown files for all products",
+      "GET /static/:filename": "Access generated static markdown files",
       "GET /health": "Health check",
     },
     documentation: {
@@ -1028,6 +1400,37 @@ app.get("/", (req, res) => {
         method: "GET",
         parameters: {
           handle: "Product handle (URL slug)",
+        },
+      },
+      "Products pages overview": {
+        url: "/api/products/pages",
+        method: "GET",
+        description: "Shows all products organized by pages with clickable product names",
+      },
+      "Paginated products markdown": {
+        url: "/api/products/markdown/:page",
+        method: "GET",
+        parameters: {
+          page: "Page number (default: 1)",
+        },
+      },
+      "Single product markdown": {
+        url: "/api/products/:handle/markdown",
+        method: "GET",
+        parameters: {
+          handle: "Product handle (URL slug)",
+        },
+      },
+      "Static file generation": {
+        url: "/api/generate-static",
+        method: "GET",
+        description: "Generate static markdown files for all products and pages",
+      },
+      "Static file access": {
+        url: "/static/:filename",
+        method: "GET",
+        parameters: {
+          filename: "Name of the static markdown file to access",
         },
       },
     },

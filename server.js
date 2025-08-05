@@ -1362,6 +1362,67 @@ app.get("/api/generate-static", async (req, res) => {
   }
 });
 
+// API endpoint to list all static file URLs for scraping
+app.get("/api/static-links", async (req, res) => {
+  try {
+    const staticDir = path.join(__dirname, "static");
+    
+    // Check if static directory exists
+    if (!fs.existsSync(staticDir)) {
+      return res.json({
+        success: false,
+        message: "Static directory not found. Please generate static files first using /api/generate-static",
+        links: []
+      });
+    }
+
+    // Read all files in static directory
+    const files = fs.readdirSync(staticDir).filter(file => file.endsWith('.md'));
+    
+    // Generate full URLs for each file
+    const baseUrl = `${req.protocol}://${req.get('host')}`;
+    const links = files.map(file => ({
+      filename: file,
+      url: `${baseUrl}/static/${file}`,
+      type: file.includes('page-') ? 'product-page' : 
+            file === 'index.md' ? 'index' : 
+            file === 'products-overview.md' ? 'overview' : 'other'
+    }));
+
+    // Sort links for better organization
+    const sortedLinks = links.sort((a, b) => {
+      if (a.type === 'index') return -1;
+      if (b.type === 'index') return 1;
+      if (a.type === 'overview') return -1;
+      if (b.type === 'overview') return 1;
+      if (a.type === 'product-page' && b.type === 'product-page') {
+        const aNum = parseInt(a.filename.match(/page-(\d+)/)?.[1] || '0');
+        const bNum = parseInt(b.filename.match(/page-(\d+)/)?.[1] || '0');
+        return aNum - bNum;
+      }
+      return a.filename.localeCompare(b.filename);
+    });
+
+    res.json({
+      success: true,
+      message: "Static file links retrieved successfully",
+      totalFiles: files.length,
+      baseUrl: baseUrl,
+      links: sortedLinks,
+      // Also provide just the URLs for easy scraping
+      urls: sortedLinks.map(link => link.url)
+    });
+  } catch (error) {
+    console.error("Error listing static files:", error.message);
+    res.status(500).json({
+      success: false,
+      error: "Failed to list static files",
+      message: error.message,
+      links: []
+    });
+  }
+});
+
 // Serve static markdown files
 app.use('/static', express.static(path.join(__dirname, 'static')));
 
@@ -1383,6 +1444,7 @@ app.get("/", (req, res) => {
       "GET /api/products/markdown/:page": "Get products for a specific page as markdown",
       "GET /api/products/:handle/markdown": "Get a single product as markdown",
       "GET /api/generate-static": "Generate static markdown files for all products",
+      "GET /api/static-links": "Get all static file URLs for scraping",
       "GET /static/:filename": "Access generated static markdown files",
       "GET /health": "Health check",
     },
@@ -1425,6 +1487,11 @@ app.get("/", (req, res) => {
         url: "/api/generate-static",
         method: "GET",
         description: "Generate static markdown files for all products and pages",
+      },
+      "Static file links": {
+        url: "/api/static-links",
+        method: "GET",
+        description: "Get all static file URLs for easy scraping",
       },
       "Static file access": {
         url: "/static/:filename",

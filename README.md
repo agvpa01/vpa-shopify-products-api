@@ -48,6 +48,17 @@ npm start
 
 The API will be available at `http://localhost:3000`
 
+## Node.js Compatibility
+
+This project requires Node.js >= 16.0.0. If you encounter errors related to `undici` package (especially `ReferenceError: File is not defined`), this is typically due to version compatibility issues in certain Node.js environments.
+
+**Solution Applied:**
+- Added `overrides` in `package.json` to use `undici@^5.28.4` instead of the newer version
+- Specified Node.js engine requirement in `package.json`
+
+**For Docker/Production Deployments:**
+Ensure your deployment environment uses Node.js 16+ and run `npm install` to apply the package overrides.
+
 ## API Endpoints
 
 ### Get All Products

@@ -20,6 +20,12 @@
   "devDependencies": {
     "nodemon": "^3.0.1"
   },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "overrides": {
+    "undici": "^5.28.4"
+  },
   "keywords": [
     "shopify",
     "api",

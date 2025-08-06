@@ -5,6 +5,8 @@ const fs = require("fs");
 const path = require("path");
 const TurndownService = require('turndown');
 const OpenAI = require('openai');
+const cheerio = require('cheerio');
+const { JSDOM } = require('jsdom');
 require("dotenv").config();
 
 const app = express();
@@ -2822,9 +2824,312 @@ app.get("/blog-sitemap", async (req, res) => {
   }
 });
 
+// URL Scraping endpoint
+app.post('/api/scrape-url', async (req, res) => {
+  try {
+    const { url, saveToStatic = false } = req.body;
+    
+    if (!url) {
+      return res.status(400).json({ 
+        error: 'URL is required',
+        usage: 'POST /api/scrape-url with JSON body: { "url": "https://example.com", "saveToStatic": true }'
+      });
+    }
+
+    // Validate URL format
+    let validUrl;
+    try {
+      validUrl = new URL(url);
+    } catch (error) {
+      return res.status(400).json({ 
+        error: 'Invalid URL format',
+        provided: url
+      });
+    }
+
+    console.log(`🔍 Scraping URL: ${validUrl.href}`);
+
+    // Fetch the webpage content
+    const response = await axios.get(validUrl.href, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+      },
+      timeout: 30000, // 30 second timeout
+      maxRedirects: 5
+    });
+
+    const html = response.data;
+    
+    // Parse HTML with Cheerio
+    const $ = cheerio.load(html);
+    
+    // Remove script and style elements
+    $('script, style, nav, footer, header, .advertisement, .ads, .sidebar').remove();
+    
+    // Extract main content (try common content selectors)
+    let mainContent = '';
+    const contentSelectors = [
+      'main',
+      'article', 
+      '.content',
+      '.main-content',
+      '.post-content',
+      '.entry-content',
+      '#content',
+      '.container',
+      'body'
+    ];
+    
+    for (const selector of contentSelectors) {
+      const element = $(selector).first();
+      if (element.length && element.text().trim().length > 100) {
+        mainContent = element.html();
+        break;
+      }
+    }
+    
+    // If no main content found, use body
+    if (!mainContent) {
+      mainContent = $('body').html();
+    }
+    
+    // Extract metadata
+    const title = $('title').text().trim() || $('h1').first().text().trim() || 'Untitled';
+    const description = $('meta[name="description"]').attr('content') || 
+                       $('meta[property="og:description"]').attr('content') || 
+                       '';
+    
+    // Process the HTML content using existing AI pipeline
+    const processedContent = await processHtmlContent(mainContent);
+    
+    // Generate filename from URL
+    const hostname = validUrl.hostname.replace(/^www\./, '');
+    const pathname = validUrl.pathname.replace(/\//g, '-').replace(/^-/, '').replace(/-$/, '') || 'index';
+    const timestamp = new Date().toISOString().replace(/[:.]/g, '-').split('T')[0];
+    const filename = `${hostname}-${pathname}-${timestamp}.md`;
+    
+    // Prepare response
+    const result = {
+      url: validUrl.href,
+      title: title,
+      description: description,
+      scrapedAt: new Date().toISOString(),
+      content: {
+        basicMarkdown: processedContent.markdown,
+        aiProcessedMarkdown: processedContent.cleansedMarkdown,
+        images: processedContent.images
+      },
+      metadata: {
+        contentLength: mainContent.length,
+        imageCount: processedContent.images.length,
+        processingTime: new Date().toISOString()
+      },
+      filename: saveToStatic ? filename : null
+    };
+    
+    // Save to static folder if requested
+    if (saveToStatic) {
+      const scrapedStaticDir = path.join(__dirname, 'scraped-static');
+      if (!fs.existsSync(scrapedStaticDir)) {
+        fs.mkdirSync(scrapedStaticDir, { recursive: true });
+      }
+      
+      const markdownContent = `# ${title}
+
+**Source:** [${validUrl.href}](${validUrl.href})  
+**Scraped:** ${new Date().toISOString()}  
+**Description:** ${description}
+
+---
+
+${processedContent.cleansedMarkdown}
+
+---
+
+## Images Found
+
+${processedContent.images.length > 0 
+  ? processedContent.images.map(img => `- ![${img.alt}](${img.url})`).join('\n')
+  : 'No images found in this content.'}
+
+## Metadata
+
+- **Content Length:** ${mainContent.length} characters
+- **Processing Time:** ${result.metadata.processingTime}
+- **Image Count:** ${processedContent.images.length}
+`;
+      
+      const filePath = path.join(scrapedStaticDir, filename);
+      fs.writeFileSync(filePath, markdownContent, 'utf8');
+      console.log(`💾 Saved scraped content to: ${filename}`);
+    }
+    
+    console.log(`✅ Successfully scraped and processed: ${title}`);
+    res.json(result);
+    
+  } catch (error) {
+    console.error('Error scraping URL:', error.message);
+    
+    if (error.code === 'ENOTFOUND' || error.code === 'ECONNREFUSED') {
+      return res.status(400).json({
+        error: 'Unable to reach the provided URL',
+        details: error.message
+      });
+    }
+    
+    if (error.code === 'ETIMEDOUT') {
+      return res.status(408).json({
+        error: 'Request timeout - the website took too long to respond',
+        details: error.message
+      });
+    }
+    
+    res.status(500).json({
+      error: 'Failed to scrape URL',
+      details: error.message
+    });
+  }
+});
+
+// API endpoint to get all scraped static file links
+app.get('/api/scraped-static-links', (req, res) => {
+  try {
+    const scrapedStaticDir = path.join(__dirname, 'scraped-static');
+    
+    if (!fs.existsSync(scrapedStaticDir)) {
+      return res.json({ links: [], message: 'No scraped files found' });
+    }
+    
+    const files = fs.readdirSync(scrapedStaticDir)
+      .filter(file => file.endsWith('.md'))
+      .map(file => ({
+        filename: file,
+        url: `http://localhost:${PORT}/scraped-static/${file}`,
+        path: `/scraped-static/${file}`,
+        lastModified: fs.statSync(path.join(scrapedStaticDir, file)).mtime
+      }))
+      .sort((a, b) => new Date(b.lastModified) - new Date(a.lastModified));
+    
+    res.json({
+      links: files,
+      count: files.length,
+      generatedAt: new Date().toISOString()
+    });
+  } catch (error) {
+    console.error('Error getting scraped static links:', error.message);
+    res.status(500).json({ error: 'Failed to get scraped static links' });
+  }
+});
+
+// HTML sitemap for scraped static files
+app.get('/scraped-sitemap', async (req, res) => {
+  try {
+    const scrapedStaticDir = path.join(__dirname, 'scraped-static');
+    
+    if (!fs.existsSync(scrapedStaticDir)) {
+      return res.send(`
+        <html>
+          <head><title>Scraped Content Sitemap</title></head>
+          <body>
+            <h1>No Scraped Content Found</h1>
+            <p>Use the <code>/api/scrape-url</code> endpoint with <code>saveToStatic: true</code> to create scraped content files.</p>
+            <a href="/">Back to API Documentation</a>
+          </body>
+        </html>
+      `);
+    }
+    
+    const files = fs.readdirSync(scrapedStaticDir)
+      .filter(file => file.endsWith('.md'))
+      .map(file => {
+        const stats = fs.statSync(path.join(scrapedStaticDir, file));
+        return {
+          filename: file,
+          url: `http://localhost:${PORT}/scraped-static/${file}`,
+          lastModified: stats.mtime,
+          size: stats.size
+        };
+      })
+      .sort((a, b) => new Date(b.lastModified) - new Date(a.lastModified));
+    
+    const html = `
+      <!DOCTYPE html>
+      <html>
+        <head>
+          <title>Scraped Content Sitemap</title>
+          <style>
+            body { font-family: Arial, sans-serif; margin: 40px; background: #f5f5f5; }
+            .container { max-width: 1200px; margin: 0 auto; background: white; padding: 30px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+            h1 { color: #333; border-bottom: 3px solid #007acc; padding-bottom: 10px; }
+            .stats { background: #e8f4fd; padding: 15px; border-radius: 5px; margin: 20px 0; }
+            .links { display: grid; gap: 15px; margin-top: 20px; }
+            .file-item { background: #f9f9f9; padding: 15px; border-radius: 5px; border-left: 4px solid #007acc; }
+            .file-item a { text-decoration: none; color: #007acc; font-weight: bold; font-size: 16px; }
+            .file-item a:hover { text-decoration: underline; }
+            .file-meta { color: #666; font-size: 14px; margin-top: 5px; }
+            .url-list { margin-top: 30px; }
+            .url-list textarea { width: 100%; height: 200px; font-family: monospace; font-size: 12px; padding: 10px; border: 1px solid #ddd; border-radius: 4px; }
+            .api-links { margin-top: 30px; padding-top: 20px; border-top: 1px solid #ddd; }
+            .api-links a { display: inline-block; margin-right: 20px; color: #007acc; text-decoration: none; }
+            .api-links a:hover { text-decoration: underline; }
+          </style>
+        </head>
+        <body>
+          <div class="container">
+            <h1>🌐 Scraped Content Sitemap</h1>
+            
+            <div class="stats">
+              <strong>📊 Statistics:</strong> ${files.length} scraped files available<br>
+              <strong>📅 Generated:</strong> ${new Date().toLocaleString()}<br>
+              <strong>💾 Total Size:</strong> ${(files.reduce((sum, f) => sum + f.size, 0) / 1024).toFixed(2)} KB
+            </div>
+
+            <div class="links">
+              ${files.map(file => `
+                <div class="file-item">
+                  <a href="${file.url}" target="_blank">${file.filename}</a>
+                  <div class="file-meta">
+                    📅 Modified: ${file.lastModified.toLocaleString()} | 
+                    📏 Size: ${(file.size / 1024).toFixed(2)} KB
+                  </div>
+                </div>
+              `).join('')}
+            </div>
+
+            <div class="url-list">
+              <h3>📋 All URLs (Copy for Scraping)</h3>
+              <textarea readonly onclick="this.select()">${files.map(file => file.url).join('\n')}</textarea>
+            </div>
+
+            <div class="api-links">
+              <h3>🔗 API Endpoints</h3>
+              <a href="/api/scraped-static-links">JSON API - Scraped Static Links</a>
+              <a href="/">API Documentation</a>
+            </div>
+          </div>
+        </body>
+      </html>
+    `;
+
+    res.send(html);
+  } catch (error) {
+    console.error("Error generating scraped sitemap:", error.message);
+    res.status(500).send(`
+      <html>
+        <head><title>Error</title></head>
+        <body>
+          <h1>Error generating scraped sitemap</h1>
+          <p>${error.message}</p>
+        </body>
+      </html>
+    `);
+  }
+});
+
 // Serve static markdown files
 app.use('/static', express.static(path.join(__dirname, 'static')));
 app.use('/blog-static', express.static(path.join(__dirname, 'blog-static')));
+app.use('/scraped-static', express.static(path.join(__dirname, 'scraped-static')));
 
 // Health check endpoint
 app.get("/health", (req, res) => {
@@ -2851,10 +3156,14 @@ app.get("/", (req, res) => {
       "GET /api/generate-blog-static": "Generate static markdown files for all blogs with cleansed content",
       "GET /api/static-links": "Get all static file URLs for scraping",
       "GET /api/blog-static-links": "Get all blog static file URLs for scraping",
+      "GET /api/scraped-static-links": "Get all scraped static file URLs for scraping",
       "GET /sitemap": "HTML sitemap with all static file links for visual browsing and scraping",
       "GET /blog-sitemap": "HTML sitemap with all blog static file links for visual browsing and scraping",
+      "GET /scraped-sitemap": "HTML sitemap with all scraped static file links for visual browsing and scraping",
+      "POST /api/scrape-url": "Scrape any URL and convert content to AI-processed markdown",
       "GET /static/:filename": "Access generated static markdown files",
       "GET /blog-static/*": "Access generated blog static markdown files",
+      "GET /scraped-static/*": "Access scraped static markdown files",
       "GET /health": "Health check",
     },
     documentation: {
@@ -2942,6 +3251,11 @@ app.get("/", (req, res) => {
         "method": "GET",
         "description": "Get all blog static file URLs for easy scraping",
       },
+      "Scraped static file links": {
+        "url": "/api/scraped-static-links",
+        "method": "GET",
+        "description": "Get all scraped static file URLs for easy scraping",
+      },
       "HTML sitemap": {
         "url": "/sitemap",
         "method": "GET",
@@ -2951,6 +3265,33 @@ app.get("/", (req, res) => {
         "url": "/blog-sitemap",
         "method": "GET",
         "description": "Visual HTML sitemap with all blog static file links for browsing and scraping",
+      },
+      "Scraped HTML sitemap": {
+        "url": "/scraped-sitemap",
+        "method": "GET",
+        "description": "Visual HTML sitemap with all scraped static file links for browsing and scraping",
+      },
+      "URL Scraping endpoint": {
+        url: "/api/scrape-url",
+        method: "POST",
+        description: "Scrape any URL and convert its content to AI-processed markdown",
+        requestBody: {
+          url: "The URL to scrape (required)",
+          saveToStatic: "Optional boolean - save the scraped content as a static markdown file"
+        },
+        response: {
+          url: "The scraped URL",
+          title: "Page title",
+          description: "Page meta description",
+          scrapedAt: "Timestamp of scraping",
+          content: {
+            basicMarkdown: "Basic HTML-to-markdown conversion",
+            aiProcessedMarkdown: "AI-cleansed and formatted markdown",
+            images: "Array of extracted images with URLs and alt text"
+          },
+          metadata: "Processing information and statistics",
+          filename: "Generated filename if saveToStatic is true"
+        }
       },
       "Static file access": {
         url: "/static/:filename",

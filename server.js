@@ -3000,11 +3000,16 @@ app.get('/api/scraped-static-links', (req, res) => {
       return res.json({ links: [], message: 'No scraped files found' });
     }
     
+    // Get the base URL from the request
+    const protocol = req.get('x-forwarded-proto') || req.protocol || 'http';
+    const host = req.get('host');
+    const baseUrl = `${protocol}://${host}`;
+    
     const files = fs.readdirSync(scrapedStaticDir)
       .filter(file => file.endsWith('.md'))
       .map(file => ({
         filename: file,
-        url: `http://localhost:${PORT}/scraped-static/${file}`,
+        url: `${baseUrl}/scraped-static/${file}`,
         path: `/scraped-static/${file}`,
         lastModified: fs.statSync(path.join(scrapedStaticDir, file)).mtime
       }))
@@ -3039,13 +3044,18 @@ app.get('/scraped-sitemap', async (req, res) => {
       `);
     }
     
+    // Get the base URL from the request
+    const protocol = req.get('x-forwarded-proto') || req.protocol || 'http';
+    const host = req.get('host');
+    const baseUrl = `${protocol}://${host}`;
+    
     const files = fs.readdirSync(scrapedStaticDir)
       .filter(file => file.endsWith('.md'))
       .map(file => {
         const stats = fs.statSync(path.join(scrapedStaticDir, file));
         return {
           filename: file,
-          url: `http://localhost:${PORT}/scraped-static/${file}`,
+          url: `${baseUrl}/scraped-static/${file}`,
           lastModified: stats.mtime,
           size: stats.size
         };

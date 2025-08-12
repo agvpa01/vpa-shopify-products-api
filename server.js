@@ -432,6 +432,106 @@ app.get("/api/products", async (req, res) => {
   }
 });
 
+// API endpoint to get all products with simplified data (title, productType, onlineStoreUrl)
+app.get("/api/products/simple", async (req, res) => {
+  try {
+    let allProducts = [];
+    let cursor = null;
+    let hasNextPage = true;
+    let iterations = 0;
+    const maxIterations = 20; // Prevent infinite loops
+
+    // Simple GraphQL query for minimal product data
+    const SIMPLE_PRODUCTS_QUERY = `
+      query getProducts($first: Int!, $after: String) {
+        products(first: $first, after: $after, query: "status:active") {
+          edges {
+            node {
+              id
+              title
+              productType
+              onlineStoreUrl
+            }
+            cursor
+          }
+          pageInfo {
+            hasNextPage
+          }
+        }
+      }
+    `;
+
+    // Fetch all products in batches
+    while (hasNextPage && iterations < maxIterations) {
+      const variables = {
+        first: 250, // Maximum allowed by Shopify
+        ...(cursor && { after: cursor }),
+      };
+
+      const response = await axios.post(
+        STOREFRONT_API_URL,
+        {
+          query: SIMPLE_PRODUCTS_QUERY,
+          variables,
+        },
+        {
+          headers: {
+            "Content-Type": "application/json",
+            "X-Shopify-Storefront-Access-Token": SHOPIFY_STOREFRONT_TOKEN,
+          },
+        }
+      );
+
+      if (response.data.errors) {
+        return res.status(400).json({
+          success: false,
+          errors: response.data.errors,
+        });
+      }
+
+      const products = response.data.data.products;
+      
+      // Map products to include only the required fields and filter out empty slugs
+      const simplifiedProducts = products.edges
+        .map((edge) => {
+          // Extract product slug from onlineStoreUrl (last segment after final slash)
+          const productSlug = edge.node.onlineStoreUrl ? 
+            edge.node.onlineStoreUrl.split('/').pop() : '';
+          
+          return {
+            title: edge.node.title,
+            productType: edge.node.productType,
+            onlineStoreUrl: productSlug,
+          };
+        })
+        .filter((product) => product.onlineStoreUrl && product.onlineStoreUrl.trim() !== '');
+      
+      allProducts = allProducts.concat(simplifiedProducts);
+      hasNextPage = products.pageInfo.hasNextPage;
+      cursor =
+        products.edges.length > 0
+          ? products.edges[products.edges.length - 1].cursor
+          : null;
+      iterations++;
+    }
+
+    res.json({
+      success: true,
+      data: {
+        products: allProducts,
+        totalCount: allProducts.length,
+      },
+    });
+  } catch (error) {
+    console.error("Error fetching simplified products:", error.message);
+    res.status(500).json({
+      success: false,
+      error: "Failed to fetch simplified products",
+      message: error.message,
+    });
+  }
+});
+
 // API endpoint to show all products organized by pages
 app.get("/api/products/pages", async (req, res) => {
   try {

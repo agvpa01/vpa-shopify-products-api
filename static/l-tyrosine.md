@@ -1,6 +1,6 @@
 # [L-Tyrosine](https://vpa-australia.myshopify.com/products/l-tyrosine)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -37,9 +37,9 @@
 - **Product Type:** Amino Acid
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 19609
+- **Total Inventory:** 19592
 - **Created:** 9/12/2023
-- **Updated:** 8/10/2025
+- **Updated:** 8/19/2025
 
 **Tags:** amino acids, NEW
 
@@ -57,7 +57,7 @@ PRODUCT INFORMATION HOW L-TYROSINE OPTIMISES YOU L-Tyrosine is an amino acid tha
 
 - **Price:** AUD 16.0
 - **Available:** Yes
-- **Quantity Available:** 19609
+- **Quantity Available:** 19592
 - **Options:**
   - Title: Default Title
 
@@ -65,5 +65,5 @@ PRODUCT INFORMATION HOW L-TYROSINE OPTIMISES YOU L-Tyrosine is an amino acid tha
 
 - **Product ID:** `gid://shopify/Product/6833130111031`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:23.341Z
+- **Generated:** 2025-08-19T12:12:26.562Z
 

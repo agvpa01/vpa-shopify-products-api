@@ -2,7 +2,7 @@
 
 **Type:** HASTA
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -53,9 +53,9 @@
 - **Product Type:** Amino Acid
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 38
+- **Total Inventory:** 18
 - **Created:** 10/30/2024
-- **Updated:** 8/10/2025
+- **Updated:** 8/18/2025
 
 **Tags:** creapure, creatine, dispatch_only_Brisbane, foodtech_product_shopbyingredient: Creatine, foodtech_product_shopbyingredient: Creatine Monohydrate, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegan, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: performance and endurance, vpa australia
 
@@ -74,7 +74,7 @@ HASTA - VPA’s Creatine Monohydrate is a pure, high-quality supplement designed
 - **Price:** AUD 25.0
 - **Compare at Price:** AUD 0.0
 - **Available:** Yes
-- **Quantity Available:** 38
+- **Quantity Available:** 18
 - **Options:**
   - Size: 200g bottle
 
@@ -82,5 +82,5 @@ HASTA - VPA’s Creatine Monohydrate is a pure, high-quality supplement designed
 
 - **Product ID:** `gid://shopify/Product/7188436647991`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:28.353Z
+- **Generated:** 2025-08-19T12:12:32.586Z
 

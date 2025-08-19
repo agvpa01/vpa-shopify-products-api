@@ -1,6 +1,6 @@
 # [Maca Powder](https://vpa-australia.myshopify.com/products/maca-powder)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -30,9 +30,9 @@
 - **Product Type:** Other Supplements
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 197
+- **Total Inventory:** 159
 - **Created:** 9/11/2023
-- **Updated:** 8/7/2025
+- **Updated:** 8/18/2025
 
 ## Description
 
@@ -48,7 +48,7 @@ VPA’s Maca Powder is a nutrient-rich superfood known for its natural adaptogen
 
 - **Price:** AUD 20.0
 - **Available:** Yes
-- **Quantity Available:** 197
+- **Quantity Available:** 159
 - **Options:**
   - Title: Default Title
 
@@ -56,5 +56,5 @@ VPA’s Maca Powder is a nutrient-rich superfood known for its natural adaptogen
 
 - **Product ID:** `gid://shopify/Product/6832099688503`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:21.238Z
+- **Generated:** 2025-08-19T12:12:23.222Z
 

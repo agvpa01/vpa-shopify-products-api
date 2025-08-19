@@ -1,6 +1,6 @@
 # [Taurine](https://vpa-australia.myshopify.com/products/taurine)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -37,9 +37,9 @@
 - **Product Type:** Amino Acid
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 29147
+- **Total Inventory:** 29131
 - **Created:** 9/11/2023
-- **Updated:** 8/8/2025
+- **Updated:** 8/18/2025
 
 **Tags:** amino acids, eaas, essential amino acids
 
@@ -57,7 +57,7 @@ PRODUCT INFORMATION HOW TAURINE OPTIMISES YOU Taurine is a highly valuable essen
 
 - **Price:** AUD 12.0
 - **Available:** Yes
-- **Quantity Available:** 29147
+- **Quantity Available:** 29131
 - **Options:**
   - Title: Default Title
 
@@ -65,5 +65,5 @@ PRODUCT INFORMATION HOW TAURINE OPTIMISES YOU Taurine is a highly valuable essen
 
 - **Product ID:** `gid://shopify/Product/6832105848887`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:22.126Z
+- **Generated:** 2025-08-19T12:12:24.844Z
 

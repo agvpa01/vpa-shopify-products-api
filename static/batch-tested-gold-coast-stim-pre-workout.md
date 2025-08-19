@@ -2,7 +2,7 @@
 
 **Type:** HASTA
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -67,9 +67,9 @@
 - **Product Type:** Pre-Workout
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 8
+- **Total Inventory:** 6
 - **Created:** 10/30/2024
-- **Updated:** 8/9/2025
+- **Updated:** 8/15/2025
 
 **Tags:** dispatch_only_Brisbane, foodtech_product_shopbyingredient: AAKG, foodtech_product_shopbyingredient: Beta Alanine, foodtech_product_shopbyingredient: Citruline Malate, foodtech_product_shopbyingredient: Creatine Monohydrate, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegan, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: performance and endurance, ghost, new_flavour, pre 30, preworkout, vpa australia
 
@@ -83,12 +83,12 @@ HASTA - Gold Coast Stim Pre-Workout is a high-performance supplement formulated 
 
 ## Quantity Price Breaks
 
-**Raw Data:** `1:0;2:4`
+**VPA Bundles Data for Product ID:** 7188435959863
 
-| Quantity | Discount % | Discounted Price | Total Price |
-|----------|------------|------------------|-------------|
-| 1 | 0.00% | AUD 47.00 | AUD 47.00 |
-| 2 | 4.00% | AUD 45.12 | AUD 90.24 |
+| Quantity | Discount Amount | Unit Price | Total Price |
+|----------|----------------|------------|-------------|
+| 1 | AUD 0.00 | AUD 47.00 | AUD 47.00 |
+| 2 | AUD 4.00 | AUD 43.00 | AUD 86.00 |
 
 ## Product Variants
 
@@ -104,7 +104,7 @@ HASTA - Gold Coast Stim Pre-Workout is a high-performance supplement formulated 
 
 - **Price:** AUD 47.0
 - **Available:** Yes
-- **Quantity Available:** 8
+- **Quantity Available:** 6
 - **Options:**
   - Flavours: Blue Razzleberry
 
@@ -112,5 +112,5 @@ HASTA - Gold Coast Stim Pre-Workout is a high-performance supplement formulated 
 
 - **Product ID:** `gid://shopify/Product/7188435959863`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:27.047Z
+- **Generated:** 2025-08-19T12:12:30.987Z
 

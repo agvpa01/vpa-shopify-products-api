@@ -1,6 +1,6 @@
 # [WHEY ISOLATE - MYSTERY FLAVOUR](https://vpa-australia.myshopify.com/products/1kg-whey-isolate-mystery-flavour)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -37,7 +37,7 @@ PRODUCT INFORMATION Ingredients Grass fed Whey Protein Isolate, Flavour, Cocoa*,
 
 **Price:** AUD 56.0
 
-## Quantity Price Breaks
+## Quantity Price Breaks (Fallback)
 
 **Raw Data:** `1:0;2:4.5;3:6;4:6.25`
 
@@ -62,5 +62,5 @@ PRODUCT INFORMATION Ingredients Grass fed Whey Protein Isolate, Flavour, Cocoa*,
 
 - **Product ID:** `gid://shopify/Product/6796017696823`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:19.083Z
+- **Generated:** 2025-08-19T12:12:19.968Z
 

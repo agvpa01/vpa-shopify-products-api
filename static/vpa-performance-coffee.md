@@ -1,6 +1,6 @@
 # [zzVPA Performance Coffee](https://vpa-australia.myshopify.com/products/vpa-performance-coffee)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -38,5 +38,5 @@
 
 - **Product ID:** `gid://shopify/Product/4547001286711`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:10.912Z
+- **Generated:** 2025-08-19T12:12:07.367Z
 

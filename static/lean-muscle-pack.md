@@ -1,6 +1,6 @@
 # [Lean Muscle Pack](https://vpa-australia.myshopify.com/products/lean-muscle-pack)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -25,7 +25,7 @@
 - **Available for Sale:** Yes
 - **Total Inventory:** 9999
 - **Created:** 2/22/2021
-- **Updated:** 7/21/2025
+- **Updated:** 8/16/2025
 
 **Tags:** group_bundle
 
@@ -52,5 +52,5 @@ LEAN MUSCLE PACK If you are after Lean Muscle, we have done the work for you and
 
 - **Product ID:** `gid://shopify/Product/4679184154679`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:16.088Z
+- **Generated:** 2025-08-19T12:12:15.178Z
 

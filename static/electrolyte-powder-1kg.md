@@ -1,6 +1,6 @@
 # [Electrolyte Powder](https://vpa-australia.myshopify.com/products/electrolyte-powder-1kg)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -58,9 +58,9 @@
 - **Product Type:** Carbohydrate Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 57024
+- **Total Inventory:** 56894
 - **Created:** 7/5/2023
-- **Updated:** 8/10/2025
+- **Updated:** 8/19/2025
 
 **Tags:** new_flavour
 
@@ -78,7 +78,7 @@ VPA Electrolyte Powder is a fast-absorbing hydration supplement formulated to he
 
 - **Price:** AUD 19.0
 - **Available:** Yes
-- **Quantity Available:** 18736
+- **Quantity Available:** 18699
 - **Options:**
   - Flavour: Tropical Breeze
 
@@ -86,7 +86,7 @@ VPA Electrolyte Powder is a fast-absorbing hydration supplement formulated to he
 
 - **Price:** AUD 19.0
 - **Available:** Yes
-- **Quantity Available:** 18919
+- **Quantity Available:** 18867
 - **Options:**
   - Flavour: Berrylicious Blast
 
@@ -94,7 +94,7 @@ VPA Electrolyte Powder is a fast-absorbing hydration supplement formulated to he
 
 - **Price:** AUD 19.0
 - **Available:** Yes
-- **Quantity Available:** 19369
+- **Quantity Available:** 19328
 - **Options:**
   - Flavour: Fruity Fiesta
 
@@ -102,5 +102,5 @@ VPA Electrolyte Powder is a fast-absorbing hydration supplement formulated to he
 
 - **Product ID:** `gid://shopify/Product/6813084778551`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:19.421Z
+- **Generated:** 2025-08-19T12:12:20.394Z
 

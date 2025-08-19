@@ -1,6 +1,6 @@
 # [Premium Plant Sample Vegan Pack](https://vpa-australia.myshopify.com/products/premium-plant-sample-vegan-pack-12-flavour-samples)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -23,9 +23,9 @@
 - **Product Type:** Protein Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 193
+- **Total Inventory:** 191
 - **Created:** 6/2/2020
-- **Updated:** 8/9/2025
+- **Updated:** 8/17/2025
 
 **Tags:** foodtech_product_shopbyingredient: Pea Protein Isolate, foodtech_product_shopbyingredient: Pumpkin protein, foodtech_product_shopbyingredient: Rice Protein, foodtech_product_shopbyingredient: Sacha Inchi, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegan, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: muscle gain, vpa australia
 
@@ -43,7 +43,7 @@ Premium Plant Sample Vegan Pack For vegans, one of the biggest challenges has al
 
 - **Price:** AUD 29.0
 - **Available:** Yes
-- **Quantity Available:** 193
+- **Quantity Available:** 191
 - **Options:**
   - Title: Default Title
 
@@ -51,5 +51,5 @@ Premium Plant Sample Vegan Pack For vegans, one of the biggest challenges has al
 
 - **Product ID:** `gid://shopify/Product/4546998730807`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:10.299Z
+- **Generated:** 2025-08-19T12:12:06.508Z
 

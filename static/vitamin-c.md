@@ -1,6 +1,6 @@
 # [Vitamin C](https://vpa-australia.myshopify.com/products/vitamin-c)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -37,9 +37,9 @@
 - **Product Type:** Health Supplement
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 258
+- **Total Inventory:** 192
 - **Created:** 9/11/2023
-- **Updated:** 8/7/2025
+- **Updated:** 8/17/2025
 
 ## Description
 
@@ -55,7 +55,7 @@ VPA® Vitamin C is a pure L-ascorbic acid supplement, the highly bioavailable an
 
 - **Price:** AUD 18.0
 - **Available:** Yes
-- **Quantity Available:** 258
+- **Quantity Available:** 192
 - **Options:**
   - Title: Default Title
 
@@ -63,5 +63,5 @@ VPA® Vitamin C is a pure L-ascorbic acid supplement, the highly bioavailable an
 
 - **Product ID:** `gid://shopify/Product/6832106668087`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:22.429Z
+- **Generated:** 2025-08-19T12:12:25.268Z
 

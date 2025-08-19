@@ -2,7 +2,7 @@
 
 **Type:** HASTA
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -76,12 +76,12 @@ HASTA - VPA® Batch-Tested Bussin Intra is a premium intra-workout supplement fo
 
 ## Quantity Price Breaks
 
-**Raw Data:** `1:0;2:2.5`
+**VPA Bundles Data for Product ID:** 7188436910135
 
-| Quantity | Discount % | Discounted Price | Total Price |
-|----------|------------|------------------|-------------|
-| 1 | 0.00% | AUD 44.00 | AUD 44.00 |
-| 2 | 2.50% | AUD 42.90 | AUD 85.80 |
+| Quantity | Discount Amount | Unit Price | Total Price |
+|----------|----------------|------------|-------------|
+| 1 | AUD 0.00 | AUD 44.00 | AUD 44.00 |
+| 2 | AUD 2.50 | AUD 41.50 | AUD 83.00 |
 
 ## Product Variants
 
@@ -97,5 +97,5 @@ HASTA - VPA® Batch-Tested Bussin Intra is a premium intra-workout supplement fo
 
 - **Product ID:** `gid://shopify/Product/7188436910135`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:29.213Z
+- **Generated:** 2025-08-19T12:12:33.449Z
 

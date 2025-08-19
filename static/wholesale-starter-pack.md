@@ -1,6 +1,6 @@
 # [Wholesale Starter Pack](https://vpa-australia.myshopify.com/products/wholesale-starter-pack)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -77,5 +77,5 @@
 
 - **Product ID:** `gid://shopify/Product/4547007217719`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:12.756Z
+- **Generated:** 2025-08-19T12:12:10.014Z
 

@@ -1,6 +1,6 @@
 # [Muscle Gainer](https://vpa-australia.myshopify.com/products/muscle-gainer)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -86,9 +86,9 @@
 - **Product Type:** Protein Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 812
+- **Total Inventory:** 561
 - **Created:** 6/2/2020
-- **Updated:** 8/8/2025
+- **Updated:** 8/19/2025
 
 **Tags:** foodtech_product_allergen: milk, foodtech_product_allergen: soy, foodtech_product_shopbyingredient: Creatine, foodtech_product_shopbyingredient: Creatine Monohydrate, foodtech_product_shopbyingredient: WPC, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: muscle gain, vpa australia
 
@@ -102,15 +102,15 @@ Muscle Gainer VPA Muscle Gainer is a comprehensive protein shake designed to hel
 
 ## Quantity Price Breaks
 
-**Raw Data:** `1:0;2:8.088235294117647;3:7.8431372549019605;4:7.536764705882352;5:6.11764705882353`
+**VPA Bundles Data for Product ID:** 4546975399991
 
-| Quantity | Discount % | Discounted Price | Total Price |
-|----------|------------|------------------|-------------|
-| 1 | 0.00% | AUD 34.00 | AUD 34.00 |
-| 2 | 8.09% | AUD 31.25 | AUD 62.50 |
-| 3 | 7.84% | AUD 31.33 | AUD 94.00 |
-| 4 | 7.54% | AUD 31.44 | AUD 125.75 |
-| 5 | 6.12% | AUD 31.92 | AUD 159.60 |
+| Quantity | Discount Amount | Unit Price | Total Price |
+|----------|----------------|------------|-------------|
+| 1 | AUD 0.00 | AUD 34.00 | AUD 34.00 |
+| 2 | AUD 5.50 | AUD 28.50 | AUD 57.00 |
+| 3 | AUD 8.00 | AUD 26.00 | AUD 78.00 |
+| 4 | AUD 10.25 | AUD 23.75 | AUD 95.00 |
+| 5 | AUD 10.40 | AUD 23.60 | AUD 118.00 |
 
 ## Product Variants
 
@@ -118,7 +118,7 @@ Muscle Gainer VPA Muscle Gainer is a comprehensive protein shake designed to hel
 
 - **Price:** AUD 34.0
 - **Available:** Yes
-- **Quantity Available:** 3311
+- **Quantity Available:** 3194
 - **Options:**
   - Flavour: Chocolate
 
@@ -126,7 +126,7 @@ Muscle Gainer VPA Muscle Gainer is a comprehensive protein shake designed to hel
 
 - **Price:** AUD 34.0
 - **Available:** Yes
-- **Quantity Available:** -11245
+- **Quantity Available:** -11329
 - **Options:**
   - Flavour: Vanilla
 
@@ -134,7 +134,7 @@ Muscle Gainer VPA Muscle Gainer is a comprehensive protein shake designed to hel
 
 - **Price:** AUD 34.0
 - **Available:** Yes
-- **Quantity Available:** 4584
+- **Quantity Available:** 4554
 - **Options:**
   - Flavour: Banana
 
@@ -150,7 +150,7 @@ Muscle Gainer VPA Muscle Gainer is a comprehensive protein shake designed to hel
 
 - **Price:** AUD 34.0
 - **Available:** Yes
-- **Quantity Available:** 4170
+- **Quantity Available:** 4150
 - **Options:**
   - Flavour: Salted Caramel
 
@@ -158,5 +158,5 @@ Muscle Gainer VPA Muscle Gainer is a comprehensive protein shake designed to hel
 
 - **Product ID:** `gid://shopify/Product/4546975399991`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:02.053Z
+- **Generated:** 2025-08-19T12:11:54.719Z
 

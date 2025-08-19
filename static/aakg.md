@@ -1,6 +1,6 @@
 # [AAKG](https://vpa-australia.myshopify.com/products/aakg)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -23,9 +23,9 @@
 - **Product Type:** Other Supplements
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 501
+- **Total Inventory:** 497
 - **Created:** 6/2/2020
-- **Updated:** 8/10/2025
+- **Updated:** 8/18/2025
 
 **Tags:** foodtech_product_shopbyingredient: AAKG, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegan, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: performance and endurance, NEW, vpa australia
 
@@ -43,7 +43,7 @@ What is AAKG? L-Arginine Alpha-Ketoglutarate or AAKG is an amino acid that can d
 
 - **Price:** AUD 27.0
 - **Available:** Yes
-- **Quantity Available:** 501
+- **Quantity Available:** 497
 - **Options:**
   - Title: Default Title
 
@@ -51,5 +51,5 @@ What is AAKG? L-Arginine Alpha-Ketoglutarate or AAKG is an amino acid that can d
 
 - **Product ID:** `gid://shopify/Product/4546981593143`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:03.947Z
+- **Generated:** 2025-08-19T12:11:57.144Z
 

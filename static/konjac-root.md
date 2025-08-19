@@ -1,6 +1,6 @@
 # [Konjac Root](https://vpa-australia.myshopify.com/products/konjac-root)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -37,9 +37,9 @@
 - **Product Type:** Health Supplement
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 147
+- **Total Inventory:** 134
 - **Created:** 9/11/2023
-- **Updated:** 8/8/2025
+- **Updated:** 8/18/2025
 
 ## Description
 
@@ -55,7 +55,7 @@ VPA’s Konjac Root Powder is a natural, plant-based supplement rich in glucoman
 
 - **Price:** AUD 28.0
 - **Available:** Yes
-- **Quantity Available:** 147
+- **Quantity Available:** 134
 - **Options:**
   - Title: Default Title
 
@@ -63,5 +63,5 @@ VPA’s Konjac Root Powder is a natural, plant-based supplement rich in glucoman
 
 - **Product ID:** `gid://shopify/Product/6832108175415`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:22.740Z
+- **Generated:** 2025-08-19T12:12:25.709Z
 

@@ -1,6 +1,6 @@
 # [Protein Water](https://vpa-australia.myshopify.com/products/protein-water)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -72,9 +72,9 @@
 - **Product Type:** Protein Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 20743
+- **Total Inventory:** 20693
 - **Created:** 6/2/2020
-- **Updated:** 8/7/2025
+- **Updated:** 8/19/2025
 
 **Tags:** foodtech_product_allergen: milk, foodtech_product_allergen: soy, foodtech_product_shopbyingredient: Collagen hydrolysate, foodtech_product_shopbyingredient: WPI, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybygoal: muscle gain, vpa australia
 
@@ -88,12 +88,12 @@ WHAT IS PROTEIN WATER? Protein Water is a muscle recovery and hydration drink th
 
 ## Quantity Price Breaks
 
-**Raw Data:** `1:0;2:3.985507246376811`
+**VPA Bundles Data for Product ID:** 4546998829111
 
-| Quantity | Discount % | Discounted Price | Total Price |
-|----------|------------|------------------|-------------|
-| 1 | 0.00% | AUD 69.00 | AUD 69.00 |
-| 2 | 3.99% | AUD 66.25 | AUD 132.50 |
+| Quantity | Discount Amount | Unit Price | Total Price |
+|----------|----------------|------------|-------------|
+| 1 | AUD 0.00 | AUD 69.00 | AUD 69.00 |
+| 2 | AUD 5.50 | AUD 63.50 | AUD 127.00 |
 
 ## Product Variants
 
@@ -101,7 +101,7 @@ WHAT IS PROTEIN WATER? Protein Water is a muscle recovery and hydration drink th
 
 - **Price:** AUD 69.0
 - **Available:** Yes
-- **Quantity Available:** -2516
+- **Quantity Available:** -2526
 - **Options:**
   - Flavour: Grape Bubblegum
 
@@ -109,7 +109,7 @@ WHAT IS PROTEIN WATER? Protein Water is a muscle recovery and hydration drink th
 
 - **Price:** AUD 69.0
 - **Available:** Yes
-- **Quantity Available:** 26157
+- **Quantity Available:** 26135
 - **Options:**
   - Flavour: Sour Worms
 
@@ -117,7 +117,7 @@ WHAT IS PROTEIN WATER? Protein Water is a muscle recovery and hydration drink th
 
 - **Price:** AUD 69.0
 - **Available:** Yes
-- **Quantity Available:** -2898
+- **Quantity Available:** -2916
 - **Options:**
   - Flavour: Peach Green Tea
 
@@ -125,5 +125,5 @@ WHAT IS PROTEIN WATER? Protein Water is a muscle recovery and hydration drink th
 
 - **Product ID:** `gid://shopify/Product/4546998829111`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:10.613Z
+- **Generated:** 2025-08-19T12:12:06.931Z
 

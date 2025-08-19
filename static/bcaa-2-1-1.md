@@ -1,6 +1,6 @@
 # [BCAA 2:1:1](https://vpa-australia.myshopify.com/products/bcaa-2-1-1)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -23,9 +23,9 @@
 - **Product Type:** Amino Acid
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** -2817
+- **Total Inventory:** -2838
 - **Created:** 6/2/2020
-- **Updated:** 8/7/2025
+- **Updated:** 8/18/2025
 
 **Tags:** foodtech_product_shopbyingredient: BCAA, foodtech_product_shopbyingredient: L-Leucine, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegan, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: muscle gain, foodtech_product_shopybygoal: performance and endurance, vpa australia
 
@@ -43,7 +43,7 @@ What is BCAA 2:1:1? Branched Chain Amino Acids or BCAA’s are a group of three 
 
 - **Price:** AUD 27.0
 - **Available:** Yes
-- **Quantity Available:** -2817
+- **Quantity Available:** -2838
 - **Options:**
   - Title: Default Title
 
@@ -51,5 +51,5 @@ What is BCAA 2:1:1? Branched Chain Amino Acids or BCAA’s are a group of three 
 
 - **Product ID:** `gid://shopify/Product/4546981789751`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:04.235Z
+- **Generated:** 2025-08-19T12:11:57.570Z
 

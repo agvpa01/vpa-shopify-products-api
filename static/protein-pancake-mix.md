@@ -1,6 +1,6 @@
 # [Protein Pancake Mix](https://vpa-australia.myshopify.com/products/protein-pancake-mix)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -51,9 +51,9 @@
 - **Product Type:** Protein Snack
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** -3529
+- **Total Inventory:** -3566
 - **Created:** 4/8/2022
-- **Updated:** 8/6/2025
+- **Updated:** 8/19/2025
 
 ## Description
 
@@ -65,12 +65,12 @@ VPA® Protein Pancake Mix HIGH PROTEIN PANCAKE MIX Want to whip up a quick break
 
 ## Quantity Price Breaks
 
-**Raw Data:** `1:0;2:2.5510204081632653`
+**VPA Bundles Data for Product ID:** 6653952720951
 
-| Quantity | Discount % | Discounted Price | Total Price |
-|----------|------------|------------------|-------------|
-| 1 | 0.00% | AUD 49.00 | AUD 49.00 |
-| 2 | 2.55% | AUD 47.75 | AUD 95.50 |
+| Quantity | Discount Amount | Unit Price | Total Price |
+|----------|----------------|------------|-------------|
+| 1 | AUD 0.00 | AUD 49.00 | AUD 49.00 |
+| 2 | AUD 0.03 | AUD 48.98 | AUD 97.95 |
 
 ## Product Variants
 
@@ -78,7 +78,7 @@ VPA® Protein Pancake Mix HIGH PROTEIN PANCAKE MIX Want to whip up a quick break
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** 526
+- **Quantity Available:** 512
 - **Options:**
   - Flavour: Chocolate
 
@@ -86,7 +86,7 @@ VPA® Protein Pancake Mix HIGH PROTEIN PANCAKE MIX Want to whip up a quick break
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** -4055
+- **Quantity Available:** -4078
 - **Options:**
   - Flavour: Buttermilk
 
@@ -94,5 +94,5 @@ VPA® Protein Pancake Mix HIGH PROTEIN PANCAKE MIX Want to whip up a quick break
 
 - **Product ID:** `gid://shopify/Product/6653952720951`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:18.451Z
+- **Generated:** 2025-08-19T12:12:18.954Z
 

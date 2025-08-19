@@ -1,6 +1,6 @@
 # [Glycine](https://vpa-australia.myshopify.com/products/glycine)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -37,9 +37,9 @@
 - **Product Type:** Amino Acid
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 29078
+- **Total Inventory:** 29057
 - **Created:** 9/11/2023
-- **Updated:** 8/6/2025
+- **Updated:** 8/19/2025
 
 **Tags:** amino acids, NEW
 
@@ -57,7 +57,7 @@ PRODUCT INFORMATION HOW VPA'S GLYCINE OPTIMISES YOU Glycine is an amino acid tha
 
 - **Price:** AUD 9.5
 - **Available:** Yes
-- **Quantity Available:** 29078
+- **Quantity Available:** 29057
 - **Options:**
   - Title: Default Title
 
@@ -65,5 +65,5 @@ PRODUCT INFORMATION HOW VPA'S GLYCINE OPTIMISES YOU Glycine is an amino acid tha
 
 - **Product ID:** `gid://shopify/Product/6832084385847`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:20.351Z
+- **Generated:** 2025-08-19T12:12:21.734Z
 

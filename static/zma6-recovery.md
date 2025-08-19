@@ -1,6 +1,6 @@
 # [ZMA6 Recovery](https://vpa-australia.myshopify.com/products/zma6-recovery)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -18,18 +18,32 @@
 - **URL:** [https://cdn.shopify.com/s/files/1/0268/9279/5959/files/vpa-zma-6-powder-for-recovery.webp?v=1747275758](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/vpa-zma-6-powder-for-recovery.webp?v=1747275758)
 
 ### Image 2
-![hide](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/zma6-mango-melon-flavour.webp?v=1747275761)
+![ZMA6 Recovery](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/zma6-reds-rugby_f0c38f1d-4af6-443e-bb9c-a2a1ba2f2254.webp?v=1755057467)
+
+- **Alt Text:** N/A
+- **Dimensions:** 1200 x 1200px
+- **URL:** [https://cdn.shopify.com/s/files/1/0268/9279/5959/files/zma6-reds-rugby_f0c38f1d-4af6-443e-bb9c-a2a1ba2f2254.webp?v=1755057467](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/zma6-reds-rugby_f0c38f1d-4af6-443e-bb9c-a2a1ba2f2254.webp?v=1755057467)
+
+### Image 3
+![ZMA6 Recovery](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/zma6_12b86bea-4bd5-4c1a-9bb4-ce1a25057f27.webp?v=1755057467)
+
+- **Alt Text:** N/A
+- **Dimensions:** 1200 x 1200px
+- **URL:** [https://cdn.shopify.com/s/files/1/0268/9279/5959/files/zma6_12b86bea-4bd5-4c1a-9bb4-ce1a25057f27.webp?v=1755057467](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/zma6_12b86bea-4bd5-4c1a-9bb4-ce1a25057f27.webp?v=1755057467)
+
+### Image 4
+![hide](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/zma6-mango-melon-flavour.webp?v=1755057467)
 
 - **Alt Text:** hide
 - **Dimensions:** 600 x 600px
-- **URL:** [https://cdn.shopify.com/s/files/1/0268/9279/5959/files/zma6-mango-melon-flavour.webp?v=1747275761](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/zma6-mango-melon-flavour.webp?v=1747275761)
+- **URL:** [https://cdn.shopify.com/s/files/1/0268/9279/5959/files/zma6-mango-melon-flavour.webp?v=1755057467](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/zma6-mango-melon-flavour.webp?v=1755057467)
 
-### Image 3
-![HASTA ZMA6 Recovery](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/zma6-recovery-apple-raspberry-vpa-australia-2.webp?v=1747275824)
+### Image 5
+![hide](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/zma6-recovery-apple-raspberry-vpa-australia-2.webp?v=1755057467)
 
-- **Alt Text:** HASTA ZMA6 Recovery
+- **Alt Text:** hide
 - **Dimensions:** 600 x 600px
-- **URL:** [https://cdn.shopify.com/s/files/1/0268/9279/5959/files/zma6-recovery-apple-raspberry-vpa-australia-2.webp?v=1747275824](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/zma6-recovery-apple-raspberry-vpa-australia-2.webp?v=1747275824)
+- **URL:** [https://cdn.shopify.com/s/files/1/0268/9279/5959/files/zma6-recovery-apple-raspberry-vpa-australia-2.webp?v=1755057467](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/zma6-recovery-apple-raspberry-vpa-australia-2.webp?v=1755057467)
 
 ## Product Details
 
@@ -37,9 +51,9 @@
 - **Product Type:** Amino Acid
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** -2532
+- **Total Inventory:** -2590
 - **Created:** 3/3/2021
-- **Updated:** 8/7/2025
+- **Updated:** 8/18/2025
 
 **Tags:** foodtech_product_shopybygoal: rest and relaxtion
 
@@ -57,7 +71,7 @@ ZMA6 Recovery – Nighttime Recovery Support Supplement ZMA6 Recovery is a premi
 
 - **Price:** AUD 47.0
 - **Available:** Yes
-- **Quantity Available:** -4045
+- **Quantity Available:** -4077
 - **Options:**
   - Flavour: Apple Raspberry
 
@@ -65,7 +79,7 @@ ZMA6 Recovery – Nighttime Recovery Support Supplement ZMA6 Recovery is a premi
 
 - **Price:** AUD 47.0
 - **Available:** Yes
-- **Quantity Available:** 1513
+- **Quantity Available:** 1487
 - **Options:**
   - Flavour: Mango Melon
 
@@ -73,5 +87,5 @@ ZMA6 Recovery – Nighttime Recovery Support Supplement ZMA6 Recovery is a premi
 
 - **Product ID:** `gid://shopify/Product/6537114026039`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:16.986Z
+- **Generated:** 2025-08-19T12:12:16.504Z
 

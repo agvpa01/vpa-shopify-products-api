@@ -1,6 +1,6 @@
 # [L Glutamine](https://vpa-australia.myshopify.com/products/l-glutamine)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -23,9 +23,9 @@
 - **Product Type:** Amino Acid
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 18164
+- **Total Inventory:** 18122
 - **Created:** 6/2/2020
-- **Updated:** 8/10/2025
+- **Updated:** 8/19/2025
 
 **Tags:** foodtech_product_shopbyingredient: L-Glutamine, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegan, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: general health, foodtech_product_shopybygoal: performance and endurance, vpa australia
 
@@ -43,7 +43,7 @@ L GLUTAMINE L Glutamine is one of the most abundant and important amino acids in
 
 - **Price:** AUD 27.0
 - **Available:** Yes
-- **Quantity Available:** 18164
+- **Quantity Available:** 18122
 - **Options:**
   - Title: Default Title
 
@@ -51,5 +51,5 @@ L GLUTAMINE L Glutamine is one of the most abundant and important amino acids in
 
 - **Product ID:** `gid://shopify/Product/4546983133239`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:06.696Z
+- **Generated:** 2025-08-19T12:12:01.098Z
 

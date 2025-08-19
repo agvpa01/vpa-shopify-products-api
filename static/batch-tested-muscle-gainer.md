@@ -2,7 +2,7 @@
 
 **Type:** HASTA
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -74,9 +74,9 @@
 - **Product Type:** Protein Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 355
+- **Total Inventory:** 353
 - **Created:** 10/30/2024
-- **Updated:** 7/31/2025
+- **Updated:** 8/18/2025
 
 **Tags:** dispatch_only_Brisbane, foodtech_product_allergen: milk, foodtech_product_allergen: soy, foodtech_product_shopbyingredient: Creatine, foodtech_product_shopbyingredient: Creatine Monohydrate, foodtech_product_shopbyingredient: WPC, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: muscle gain, vpa australia
 
@@ -90,15 +90,15 @@ HASTA - VPA® Muscle Gainer is a high-calorie, high-protein supplement specifica
 
 ## Quantity Price Breaks
 
-**Raw Data:** `1:0;2:5.5;3:8;4:10.25;5:10.4`
+**VPA Bundles Data for Product ID:** 7188435304503
 
-| Quantity | Discount % | Discounted Price | Total Price |
-|----------|------------|------------------|-------------|
-| 1 | 0.00% | AUD 39.00 | AUD 39.00 |
-| 2 | 5.50% | AUD 36.85 | AUD 73.71 |
-| 3 | 8.00% | AUD 35.88 | AUD 107.64 |
-| 4 | 10.25% | AUD 35.00 | AUD 140.01 |
-| 5 | 10.40% | AUD 34.94 | AUD 174.72 |
+| Quantity | Discount Amount | Unit Price | Total Price |
+|----------|----------------|------------|-------------|
+| 1 | AUD 0.00 | AUD 39.00 | AUD 39.00 |
+| 2 | AUD 5.50 | AUD 33.50 | AUD 67.00 |
+| 3 | AUD 8.00 | AUD 31.00 | AUD 93.00 |
+| 4 | AUD 10.25 | AUD 28.75 | AUD 115.00 |
+| 5 | AUD 10.40 | AUD 28.60 | AUD 143.00 |
 
 ## Product Variants
 
@@ -122,7 +122,7 @@ HASTA - VPA® Muscle Gainer is a high-calorie, high-protein supplement specifica
 
 - **Price:** AUD 39.0
 - **Available:** Yes
-- **Quantity Available:** 213
+- **Quantity Available:** 211
 - **Options:**
   - Flavour: Salted Caramel
 
@@ -130,5 +130,5 @@ HASTA - VPA® Muscle Gainer is a high-calorie, high-protein supplement specifica
 
 - **Product ID:** `gid://shopify/Product/7188435304503`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:26.736Z
+- **Generated:** 2025-08-19T12:12:30.543Z
 

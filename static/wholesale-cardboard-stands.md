@@ -1,6 +1,6 @@
 # [VPA Display Stands](https://vpa-australia.myshopify.com/products/wholesale-cardboard-stands)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -48,5 +48,5 @@
 
 - **Product ID:** `gid://shopify/Product/6565420630071`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:17.277Z
+- **Generated:** 2025-08-19T12:12:16.948Z
 

@@ -1,6 +1,6 @@
 # [Breakfast Shake](https://vpa-australia.myshopify.com/products/breakfast-shake)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -79,9 +79,9 @@
 - **Product Type:** Protein Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 114494
+- **Total Inventory:** 114359
 - **Created:** 6/2/2020
-- **Updated:** 8/10/2025
+- **Updated:** 8/19/2025
 
 **Tags:** foodtech_product_allergen: milk, foodtech_product_allergen: soy, foodtech_product_allergen: wheat, foodtech_product_shopbyingredient: Oat flour, foodtech_product_shopbyingredient: WPC, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: general health, foodtech_product_shopybygoal: muscle gain, vpa australia
 
@@ -95,13 +95,13 @@ WHAT IS BREAKFAST SHAKE? VPA Breakfast Shake is a comprehensive morning shake de
 
 ## Quantity Price Breaks
 
-**Raw Data:** `1:0;2:1.0416666666666665;3:2.548611111111111`
+**VPA Bundles Data for Product ID:** 4546971369527
 
-| Quantity | Discount % | Discounted Price | Total Price |
-|----------|------------|------------------|-------------|
-| 1 | 0.00% | AUD 48.00 | AUD 48.00 |
-| 2 | 1.04% | AUD 47.50 | AUD 95.00 |
-| 3 | 2.55% | AUD 46.78 | AUD 140.33 |
+| Quantity | Discount Amount | Unit Price | Total Price |
+|----------|----------------|------------|-------------|
+| 1 | AUD 0.00 | AUD 48.00 | AUD 48.00 |
+| 2 | AUD 1.00 | AUD 47.00 | AUD 94.00 |
+| 3 | AUD 3.67 | AUD 44.33 | AUD 132.99 |
 
 ## Product Variants
 
@@ -109,7 +109,7 @@ WHAT IS BREAKFAST SHAKE? VPA Breakfast Shake is a comprehensive morning shake de
 
 - **Price:** AUD 48.0
 - **Available:** Yes
-- **Quantity Available:** 28488
+- **Quantity Available:** 28446
 - **Options:**
   - Flavour: Chocolate
 
@@ -117,7 +117,7 @@ WHAT IS BREAKFAST SHAKE? VPA Breakfast Shake is a comprehensive morning shake de
 
 - **Price:** AUD 48.0
 - **Available:** Yes
-- **Quantity Available:** 28568
+- **Quantity Available:** 28523
 - **Options:**
   - Flavour: Vanilla
 
@@ -125,7 +125,7 @@ WHAT IS BREAKFAST SHAKE? VPA Breakfast Shake is a comprehensive morning shake de
 
 - **Price:** AUD 48.0
 - **Available:** Yes
-- **Quantity Available:** 28927
+- **Quantity Available:** 28906
 - **Options:**
   - Flavour: Banana
 
@@ -133,7 +133,7 @@ WHAT IS BREAKFAST SHAKE? VPA Breakfast Shake is a comprehensive morning shake de
 
 - **Price:** AUD 48.0
 - **Available:** Yes
-- **Quantity Available:** 28511
+- **Quantity Available:** 28484
 - **Options:**
   - Flavour: Iced Coffee
 
@@ -141,5 +141,5 @@ WHAT IS BREAKFAST SHAKE? VPA Breakfast Shake is a comprehensive morning shake de
 
 - **Product ID:** `gid://shopify/Product/4546971369527`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:00.200Z
+- **Generated:** 2025-08-19T12:11:51.794Z
 

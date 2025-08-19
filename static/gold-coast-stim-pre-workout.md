@@ -1,6 +1,6 @@
 # [Gold Coast Stim Pre-workout](https://vpa-australia.myshopify.com/products/gold-coast-stim-pre-workout)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -86,9 +86,9 @@
 - **Product Type:** Pre-Workout
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** -5404
+- **Total Inventory:** -5477
 - **Created:** 6/2/2020
-- **Updated:** 8/8/2025
+- **Updated:** 8/19/2025
 
 **Tags:** foodtech_product_shopbyingredient: AAKG, foodtech_product_shopbyingredient: Beta Alanine, foodtech_product_shopbyingredient: Citruline Malate, foodtech_product_shopbyingredient: Creatine Monohydrate, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegan, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: performance and endurance, ghost, new_flavour, pre 30, preworkout, vpa australia
 
@@ -102,12 +102,12 @@ Pre-workout PRE-30 V2 Pre-workout PRE-30 V2. THE ORIGINAL WORKOUT FUEL, NOW WITH
 
 ## Quantity Price Breaks
 
-**Raw Data:** `1:0;2:5.952380952380952`
+**VPA Bundles Data for Product ID:** 4546988900407
 
-| Quantity | Discount % | Discounted Price | Total Price |
-|----------|------------|------------------|-------------|
-| 1 | 0.00% | AUD 42.00 | AUD 42.00 |
-| 2 | 5.95% | AUD 39.50 | AUD 79.00 |
+| Quantity | Discount Amount | Unit Price | Total Price |
+|----------|----------------|------------|-------------|
+| 1 | AUD 0.00 | AUD 42.00 | AUD 42.00 |
+| 2 | AUD 0.05 | AUD 41.95 | AUD 83.90 |
 
 ## Product Variants
 
@@ -115,7 +115,7 @@ Pre-workout PRE-30 V2 Pre-workout PRE-30 V2. THE ORIGINAL WORKOUT FUEL, NOW WITH
 
 - **Price:** AUD 42.0
 - **Available:** Yes
-- **Quantity Available:** -877
+- **Quantity Available:** -889
 - **Options:**
   - Flavours: Fairy Floss
 
@@ -131,7 +131,7 @@ Pre-workout PRE-30 V2 Pre-workout PRE-30 V2. THE ORIGINAL WORKOUT FUEL, NOW WITH
 
 - **Price:** AUD 42.0
 - **Available:** Yes
-- **Quantity Available:** -2110
+- **Quantity Available:** -2143
 - **Options:**
   - Flavours: Mango Passionfruit
 
@@ -139,7 +139,7 @@ Pre-workout PRE-30 V2 Pre-workout PRE-30 V2. THE ORIGINAL WORKOUT FUEL, NOW WITH
 
 - **Price:** AUD 42.0
 - **Available:** Yes
-- **Quantity Available:** -1004
+- **Quantity Available:** -1011
 - **Options:**
   - Flavours: Rainbow Candy
 
@@ -147,7 +147,7 @@ Pre-workout PRE-30 V2 Pre-workout PRE-30 V2. THE ORIGINAL WORKOUT FUEL, NOW WITH
 
 - **Price:** AUD 42.0
 - **Available:** Yes
-- **Quantity Available:** -1413
+- **Quantity Available:** -1434
 - **Options:**
   - Flavours: Blue Razzleberry
 
@@ -155,5 +155,5 @@ Pre-workout PRE-30 V2 Pre-workout PRE-30 V2. THE ORIGINAL WORKOUT FUEL, NOW WITH
 
 - **Product ID:** `gid://shopify/Product/4546988900407`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:08.311Z
+- **Generated:** 2025-08-19T12:12:03.304Z
 

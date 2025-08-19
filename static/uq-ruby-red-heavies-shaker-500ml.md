@@ -1,6 +1,6 @@
 # [UQ Ruby Red Heavies Shaker - 500ml](https://vpa-australia.myshopify.com/products/uq-ruby-red-heavies-shaker-500ml)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -65,5 +65,5 @@ description Show your support for the UQ Rugby Red Heavies with our Limited Edit
 
 - **Product ID:** `gid://shopify/Product/7075485777975`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:24.244Z
+- **Generated:** 2025-08-19T12:12:27.895Z
 

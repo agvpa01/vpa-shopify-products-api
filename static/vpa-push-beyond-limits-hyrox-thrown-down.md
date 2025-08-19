@@ -1,10 +1,12 @@
 # [VPA PUSH BEYOND LIMITS - HYROX THROWN DOWN](https://vpa-australia.myshopify.com/products/vpa-push-beyond-limits-hyrox-thrown-down)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
 **SEO Title:** VPA PUSH BEYOND LIMITS - HYROX THROWN DOWN
+
+**SEO Description:** VPA PUSH BEYOND LIMITS - HYROX THROWN DOWN is VPA Australia’s ultimate fitness challenge. Secure your spot now and push beyond your limits!
 
 ## Product Images
 
@@ -21,9 +23,9 @@
 - **Product Type:** Event
 - **Vendor:** Event
 - **Available for Sale:** Yes
-- **Total Inventory:** 94
+- **Total Inventory:** 9
 - **Created:** 7/25/2025
-- **Updated:** 8/6/2025
+- **Updated:** 8/19/2025
 
 **Tags:** NEW, push beyond limits hyrox event 2025
 
@@ -37,7 +39,7 @@
 
 - **Price:** AUD 100.0
 - **Available:** Yes
-- **Quantity Available:** 94
+- **Quantity Available:** 9
 - **Options:**
   - Ticket Type: Team Ticket (4 x MMFF)
 
@@ -45,5 +47,5 @@
 
 - **Product ID:** `gid://shopify/Product/7319474012215`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:30.110Z
+- **Generated:** 2025-08-19T12:12:34.704Z
 

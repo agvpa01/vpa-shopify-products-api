@@ -1,6 +1,6 @@
 # [Egg White Powder](https://vpa-australia.myshopify.com/products/egg-protein)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -23,9 +23,9 @@
 - **Product Type:** Protein Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 89
+- **Total Inventory:** 67
 - **Created:** 6/2/2020
-- **Updated:** 8/10/2025
+- **Updated:** 8/19/2025
 
 **Tags:** foodtech_product_allergen: eggs, foodtech_product_shopbyingredient: Egg Albumen, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: muscle gain, vpa australia
 
@@ -39,13 +39,13 @@ EGG PROTEIN With the highest biological value of 100, VPA’s Egg White Protein 
 
 ## Quantity Price Breaks
 
-**Raw Data:** `1:0;2:4;3:4.222222222222222`
+**VPA Bundles Data for Product ID:** 4546974548023
 
-| Quantity | Discount % | Discounted Price | Total Price |
-|----------|------------|------------------|-------------|
-| 1 | 0.00% | AUD 75.00 | AUD 75.00 |
-| 2 | 4.00% | AUD 72.00 | AUD 144.00 |
-| 3 | 4.22% | AUD 71.83 | AUD 215.50 |
+| Quantity | Discount Amount | Unit Price | Total Price |
+|----------|----------------|------------|-------------|
+| 1 | AUD 0.00 | AUD 75.00 | AUD 75.00 |
+| 2 | AUD 0.10 | AUD 74.91 | AUD 149.81 |
+| 3 | AUD 0.11 | AUD 74.89 | AUD 224.66 |
 
 ## Product Variants
 
@@ -53,7 +53,7 @@ EGG PROTEIN With the highest biological value of 100, VPA’s Egg White Protein 
 
 - **Price:** AUD 75.0
 - **Available:** Yes
-- **Quantity Available:** 89
+- **Quantity Available:** 67
 - **Options:**
   - Title: Default Title
 
@@ -61,5 +61,5 @@ EGG PROTEIN With the highest biological value of 100, VPA’s Egg White Protein 
 
 - **Product ID:** `gid://shopify/Product/4546974548023`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:01.439Z
+- **Generated:** 2025-08-19T12:11:53.606Z
 

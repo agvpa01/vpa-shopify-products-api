@@ -1,6 +1,6 @@
 # [Hot Protein Delight (500g)](https://vpa-australia.myshopify.com/products/hot-protein-delight)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -86,9 +86,9 @@
 - **Product Type:** Protein Snack
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** -43
+- **Total Inventory:** -69
 - **Created:** 6/2/2020
-- **Updated:** 8/7/2025
+- **Updated:** 8/19/2025
 
 **Tags:** foodtech_product_allergen: milk, foodtech_product_allergen: soy, foodtech_product_shopbyingredient: Casein, foodtech_product_shopbyingredient: WPC, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: general health, foodtech_product_shopybygoal: rest and relaxtion, vpa australia
 
@@ -102,12 +102,12 @@ Hot Protein Delight VPA’s Hot Protein Delight is the ideal winter warmer for t
 
 ## Quantity Price Breaks
 
-**Raw Data:** `1:0;2:4.166666666666666`
+**VPA Bundles Data for Product ID:** 4546975203383
 
-| Quantity | Discount % | Discounted Price | Total Price |
-|----------|------------|------------------|-------------|
-| 1 | 0.00% | AUD 36.00 | AUD 36.00 |
-| 2 | 4.17% | AUD 34.50 | AUD 69.00 |
+| Quantity | Discount Amount | Unit Price | Total Price |
+|----------|----------------|------------|-------------|
+| 1 | AUD 0.00 | AUD 36.00 | AUD 36.00 |
+| 2 | AUD 3.00 | AUD 33.00 | AUD 66.00 |
 
 ## Product Variants
 
@@ -115,7 +115,7 @@ Hot Protein Delight VPA’s Hot Protein Delight is the ideal winter warmer for t
 
 - **Price:** AUD 36.0
 - **Available:** Yes
-- **Quantity Available:** -10
+- **Quantity Available:** -17
 - **Options:**
   - Flavour: Rocky Road
 
@@ -123,7 +123,7 @@ Hot Protein Delight VPA’s Hot Protein Delight is the ideal winter warmer for t
 
 - **Price:** AUD 36.0
 - **Available:** Yes
-- **Quantity Available:** 835
+- **Quantity Available:** 826
 - **Options:**
   - Flavour: Choc Malt
 
@@ -131,7 +131,7 @@ Hot Protein Delight VPA’s Hot Protein Delight is the ideal winter warmer for t
 
 - **Price:** AUD 36.0
 - **Available:** Yes
-- **Quantity Available:** -868
+- **Quantity Available:** -878
 - **Options:**
   - Flavour: Salted Caramel
 
@@ -139,5 +139,5 @@ Hot Protein Delight VPA’s Hot Protein Delight is the ideal winter warmer for t
 
 - **Product ID:** `gid://shopify/Product/4546975203383`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:01.743Z
+- **Generated:** 2025-08-19T12:11:54.037Z
 

@@ -1,6 +1,6 @@
 # [Vegan Lean Pack](https://vpa-australia.myshopify.com/products/vegan-lean-pack)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -52,5 +52,5 @@ VEGAN LEAN PACK If you are a vegan or plant-based athlete you know how hard it c
 
 - **Product ID:** `gid://shopify/Product/4679180812343`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:15.495Z
+- **Generated:** 2025-08-19T12:12:14.328Z
 

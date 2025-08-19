@@ -1,6 +1,6 @@
 # [Leucine](https://vpa-australia.myshopify.com/products/leucine)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -23,9 +23,9 @@
 - **Product Type:** Amino Acid
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 69
+- **Total Inventory:** 60
 - **Created:** 6/2/2020
-- **Updated:** 8/10/2025
+- **Updated:** 8/19/2025
 
 **Tags:** foodtech_product_shopbyingredient: Leucine, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegan, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: muscle gain, vpa australia
 
@@ -43,7 +43,7 @@ Leucine Leucine is recognised as the primary amino acid in charge of muscle grow
 
 - **Price:** AUD 27.0
 - **Available:** Yes
-- **Quantity Available:** 69
+- **Quantity Available:** 60
 - **Options:**
   - Title: Default Title
 
@@ -51,5 +51,5 @@ Leucine Leucine is recognised as the primary amino acid in charge of muscle grow
 
 - **Product ID:** `gid://shopify/Product/4546982969399`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:06.405Z
+- **Generated:** 2025-08-19T12:12:00.667Z
 

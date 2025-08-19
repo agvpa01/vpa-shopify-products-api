@@ -1,6 +1,6 @@
 # [Electrolyte Blend](https://vpa-australia.myshopify.com/products/electrolyte-blend)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -37,9 +37,9 @@
 - **Product Type:** Other Supplements
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 16
+- **Total Inventory:** 287
 - **Created:** 9/11/2023
-- **Updated:** 8/10/2025
+- **Updated:** 8/19/2025
 
 **Tags:** Electrolytes, NEW
 
@@ -57,7 +57,7 @@ VPA® Electrolyte Blend is a premium hydration supplement formulated with a bala
 
 - **Price:** AUD 20.0
 - **Available:** Yes
-- **Quantity Available:** 16
+- **Quantity Available:** 287
 - **Options:**
   - Title: Default Title
 
@@ -65,5 +65,5 @@ VPA® Electrolyte Blend is a premium hydration supplement formulated with a bala
 
 - **Product ID:** `gid://shopify/Product/6832028319799`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:20.022Z
+- **Generated:** 2025-08-19T12:12:21.303Z
 

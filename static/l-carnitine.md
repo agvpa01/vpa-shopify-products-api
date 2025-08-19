@@ -1,6 +1,6 @@
 # [L-Carnitine](https://vpa-australia.myshopify.com/products/l-carnitine)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -30,9 +30,9 @@
 - **Product Type:** Amino Acid
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 26714
+- **Total Inventory:** 26655
 - **Created:** 6/2/2020
-- **Updated:** 8/8/2025
+- **Updated:** 8/18/2025
 
 **Tags:** foodtech_product_shopbygoal: weight loss, foodtech_product_shopbyingredient: L-Carnitine Tartrate, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegan, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: general health, foodtech_product_shopybygoal: weight loss, vpa australia
 
@@ -50,7 +50,7 @@ L-carnitine L-carnitine is a strong fat metabolizer as it works hard in your bod
 
 - **Price:** AUD 27.0
 - **Available:** Yes
-- **Quantity Available:** 26714
+- **Quantity Available:** 26655
 - **Options:**
   - Title: Default Title
 
@@ -58,5 +58,5 @@ L-carnitine L-carnitine is a strong fat metabolizer as it works hard in your bod
 
 - **Product ID:** `gid://shopify/Product/4546982772791`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:06.004Z
+- **Generated:** 2025-08-19T12:12:00.238Z
 

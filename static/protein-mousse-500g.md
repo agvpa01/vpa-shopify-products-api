@@ -1,6 +1,6 @@
 # [Protein Mousse](https://vpa-australia.myshopify.com/products/protein-mousse-500g)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -44,15 +44,15 @@
 - **Product Type:** Protein Snack
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 449
+- **Total Inventory:** 335
 - **Created:** 6/2/2020
-- **Updated:** 8/10/2025
+- **Updated:** 8/19/2025
 
 **Tags:** foodtech_product_allergen: milk, foodtech_product_allergen: soy, foodtech_product_shopbyingredient: Micellar Casein, foodtech_product_shopbyingredient: WPC, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: general health, vpa australia
 
 ## Description
 
-WHAT IS PROTEIN MOUSSE? Got a sweet tooth? Looking for a dessert option that won't ruin your diet? Our new Protein Mousse is just for you! Protein Mousse is high in protein (27.1g), low in carbohydrates (4.1g), low in fat (3.8g) and comes in three delicious flavours. Simply mix a sachet with 75ml water and refrigerate for 2 hours. Weight Management -Our Protein Mousse is ideal to assist you in managing your weight loss or fitness goals with its premium protein concentration. VPA’s Protein Mousse is perfect for any person wanting to keep their fitness and health goals nutritionally balanced. Got a sweet tooth? Looking for a dessert option that won't ruin your diet? Our new Protein Mousse is just for you! Protein Mousse is high in protein (27.1g), low in carbohydrates (4.1g), low in fat (3.8g) and comes in three delicious flavours. Simply mix a sachet with 75ml water and refrigerate for 2 hours. Weight Management -Our Protein Mousse is ideal to assist you in managing your weight loss or fitness goals with its premium protein concentration. VPA’s Protein Mousse is perfect for any person wanting to keep their fitness and health goals nutritionally balanced. Short-dated stock – still fresh, just cheaper. Choc Coconut flavour is near it's best before date, but still good to go. Stock up while it lasts! (BB: 18/08/2025)
+WHAT IS PROTEIN MOUSSE? Got a sweet tooth? Looking for a dessert option that won't ruin your diet? Our new Protein Mousse is just for you! Protein Mousse is high in protein (27.1g), low in carbohydrates (4.1g), low in fat (3.8g) and comes in three delicious flavours. Simply mix a sachet with 75ml water and refrigerate for 2 hours. Weight Management -Our Protein Mousse is ideal to assist you in managing your weight loss or fitness goals with its premium protein concentration. VPA’s Protein Mousse is perfect for any person wanting to keep their fitness and health goals nutritionally balanced. Got a sweet tooth? Looking for a dessert option that won't ruin your diet? Our new Protein Mousse is just for you! Protein Mousse is high in protein (27.1g), low in carbohydrates (4.1g), low in fat (3.8g) and comes in three delicious flavours. Simply mix a sachet with 75ml water and refrigerate for 2 hours. Weight Management -Our Protein Mousse is ideal to assist you in managing your weight loss or fitness goals with its premium protein concentration. VPA’s Protein Mousse is perfect for any person wanting to keep their fitness and health goals nutritionally balanced.
 
 ## Pricing
 
@@ -64,7 +64,7 @@ WHAT IS PROTEIN MOUSSE? Got a sweet tooth? Looking for a dessert option that won
 
 - **Price:** AUD 36.0
 - **Available:** Yes
-- **Quantity Available:** 174
+- **Quantity Available:** 157
 - **Options:**
   - Flavour: Chocolate
   - Size: 500g
@@ -73,7 +73,7 @@ WHAT IS PROTEIN MOUSSE? Got a sweet tooth? Looking for a dessert option that won
 
 - **Price:** AUD 36.0
 - **Available:** Yes
-- **Quantity Available:** 187
+- **Quantity Available:** 179
 - **Options:**
   - Flavour: Salted Caramel
   - Size: 500g
@@ -82,8 +82,8 @@ WHAT IS PROTEIN MOUSSE? Got a sweet tooth? Looking for a dessert option that won
 
 - **Price:** AUD 14.5
 - **Compare at Price:** AUD 36.0
-- **Available:** Yes
-- **Quantity Available:** 88
+- **Available:** No
+- **Quantity Available:** -1
 - **Options:**
   - Flavour: Choc Coconut
   - Size: 500g
@@ -92,5 +92,5 @@ WHAT IS PROTEIN MOUSSE? Got a sweet tooth? Looking for a dessert option that won
 
 - **Product ID:** `gid://shopify/Product/4547001778231`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:11.221Z
+- **Generated:** 2025-08-19T12:12:07.813Z
 

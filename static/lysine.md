@@ -1,6 +1,6 @@
 # [Lysine](https://vpa-australia.myshopify.com/products/lysine)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -37,9 +37,9 @@
 - **Product Type:** Amino Acid
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 106
+- **Total Inventory:** 102
 - **Created:** 9/11/2023
-- **Updated:** 8/6/2025
+- **Updated:** 8/18/2025
 
 **Tags:** eaas, NEW
 
@@ -57,7 +57,7 @@ VPA’s Lysine is a high-quality essential amino acid supplement that supports i
 
 - **Price:** AUD 11.0
 - **Available:** Yes
-- **Quantity Available:** 106
+- **Quantity Available:** 102
 - **Options:**
   - Title: Default Title
 
@@ -65,5 +65,5 @@ VPA’s Lysine is a high-quality essential amino acid supplement that supports i
 
 - **Product ID:** `gid://shopify/Product/6832095658039`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:20.917Z
+- **Generated:** 2025-08-19T12:12:22.807Z
 

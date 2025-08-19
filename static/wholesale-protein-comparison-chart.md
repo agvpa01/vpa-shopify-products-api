@@ -1,6 +1,6 @@
 # [Wholesale Protein Comparison Chart](https://vpa-australia.myshopify.com/products/wholesale-protein-comparison-chart)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -23,7 +23,7 @@
 - **Product Type:** Wholesale
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** -219
+- **Total Inventory:** -221
 - **Created:** 6/2/2020
 - **Updated:** 7/21/2025
 
@@ -39,7 +39,7 @@
 
 - **Price:** AUD 7.0
 - **Available:** Yes
-- **Quantity Available:** -219
+- **Quantity Available:** -221
 - **Options:**
   - Title: Default Title
 
@@ -47,5 +47,5 @@
 
 - **Product ID:** `gid://shopify/Product/4547008036919`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:13.362Z
+- **Generated:** 2025-08-19T12:12:11.237Z
 

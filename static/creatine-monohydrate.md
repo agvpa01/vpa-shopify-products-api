@@ -1,6 +1,6 @@
 # [Creatine Monohydrate Powder](https://vpa-australia.myshopify.com/products/creatine-monohydrate)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -51,9 +51,9 @@
 - **Product Type:** Amino Acid
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 40539
+- **Total Inventory:** 39835
 - **Created:** 6/2/2020
-- **Updated:** 8/10/2025
+- **Updated:** 8/19/2025
 
 **Tags:** creapure, creatine, foodtech_product_shopbyingredient: Creatine, foodtech_product_shopbyingredient: Creatine Monohydrate, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegan, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: performance and endurance, vpa australia
 
@@ -71,7 +71,7 @@ What is creatine monohydrate? Creatine monohydrate is the most effective form of
 
 - **Price:** AUD 20.0
 - **Available:** Yes
-- **Quantity Available:** 18420
+- **Quantity Available:** 17983
 - **Options:**
   - Size: 200g bottle
 
@@ -79,7 +79,7 @@ What is creatine monohydrate? Creatine monohydrate is the most effective form of
 
 - **Price:** AUD 50.0
 - **Available:** Yes
-- **Quantity Available:** 22119
+- **Quantity Available:** 21852
 - **Options:**
   - Size: 1kg bag
 
@@ -87,5 +87,5 @@ What is creatine monohydrate? Creatine monohydrate is the most effective form of
 
 - **Product ID:** `gid://shopify/Product/4546982150199`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:05.114Z
+- **Generated:** 2025-08-19T12:11:58.837Z
 

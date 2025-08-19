@@ -1,6 +1,6 @@
 # [Endurance Pack](https://vpa-australia.myshopify.com/products/endurance-pack)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -52,5 +52,5 @@ ENDURANCE PACK If you are pushing your body, challenging your athletic capacity,
 
 - **Product ID:** `gid://shopify/Product/4679084703799`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:14.888Z
+- **Generated:** 2025-08-19T12:12:13.447Z
 

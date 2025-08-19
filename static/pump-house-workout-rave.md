@@ -1,6 +1,6 @@
 # [Pump House - Workout Rave](https://vpa-australia.myshopify.com/products/pump-house-workout-rave)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -23,9 +23,9 @@
 - **Product Type:** Event
 - **Vendor:** Event
 - **Available for Sale:** Yes
-- **Total Inventory:** 4
+- **Total Inventory:** 3
 - **Created:** 5/16/2025
-- **Updated:** 7/21/2025
+- **Updated:** 8/18/2025
 
 ## Pricing
 
@@ -53,7 +53,7 @@
 
 - **Price:** AUD 0.0
 - **Available:** Yes
-- **Quantity Available:** 4
+- **Quantity Available:** 3
 - **Options:**
   - Ticket Type: Final Release
 
@@ -61,5 +61,5 @@
 
 - **Product ID:** `gid://shopify/Product/7282051186743`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:29.811Z
+- **Generated:** 2025-08-19T12:12:34.277Z
 

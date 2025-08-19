@@ -90,6 +90,34 @@ async function cleanseContentWithChatGPT(content) {
   }
 }
 
+// Helper function to fetch VPA bundles data from API
+async function fetchVPABundles(productId) {
+  try {
+    // Extract numeric ID from Shopify GID format (gid://shopify/Product/ID)
+    const numericId = productId.split('/').pop();
+    
+    const bundlesApiUrl = `https://bundles.vpa.com.au/api/bundles/product/${numericId}?api_token=rhmjKLGodhlpTolmNBVTH45GHJKLyujhGFRhgstJK`;
+    
+    console.log(`Fetching VPA bundles for product ID: ${numericId}`);
+    
+    const response = await axios.get(bundlesApiUrl, {
+      timeout: 10000, // 10 second timeout
+      headers: {
+        'User-Agent': 'VPA-Shopify-API/1.0'
+      }
+    });
+    
+    if (response.data && response.data.product && response.data.product.bundles) {
+      return response.data.product;
+    }
+    
+    return null;
+  } catch (error) {
+    console.error(`Error fetching VPA bundles for product ${productId}:`, error.message);
+    return null;
+  }
+}
+
 // Helper function to convert HTML content to markdown with image extraction and AI cleansing
 async function processHtmlContent(htmlContent) {
   if (!htmlContent) {
@@ -1769,35 +1797,65 @@ app.get("/api/products/:handle/markdown", async (req, res) => {
       markdown += `**Price Range:** ${minPrice.currencyCode} ${minPrice.amount} - ${maxPrice.currencyCode} ${maxPrice.amount}\n\n`;
     }
 
-    // Quantity Price Breaks
-    if (product.qtyPriceBreaks && product.qtyPriceBreaks.value) {
+    // Quantity Price Breaks from VPA Bundles API
+    const vpaBundles = await fetchVPABundles(product.id);
+    if (vpaBundles && vpaBundles.bundles && vpaBundles.bundles.length > 0) {
       markdown += `## Quantity Price Breaks\n\n`;
-      markdown += `**Raw Data:** \`${product.qtyPriceBreaks.value}\`\n\n`;
+      markdown += `**VPA Bundles Data for Product ID:** ${vpaBundles.id}\n\n`;
+      
+      markdown += `| Quantity | Discount Amount | Unit Price | Total Price |\n`;
+      markdown += `|----------|----------------|------------|-------------|\n`;
 
-      // Try to parse the price breaks data
-      const priceBreaksData = product.qtyPriceBreaks.value.split(";");
-      if (priceBreaksData.length >= 2) {
-        markdown += `| Quantity | Discount % | Discounted Price | Total Price |\n`;
-        markdown += `|----------|------------|------------------|-------------|\n`;
+      const basePrice = parseFloat(product.priceRange.minVariantPrice.amount);
+      const currencyCode = product.priceRange.minVariantPrice.currencyCode;
 
-        const basePrice = parseFloat(product.priceRange.minVariantPrice.amount);
+      vpaBundles.bundles.forEach((bundle) => {
+        const quantity = bundle.quantity;
+        let discountAmount = bundle.discount;
+        
+        // Convert discount to decimal (last two digits as decimals) unless discount is 0
+        if (discountAmount !== 0) {
+          discountAmount = discountAmount / 100;
+        }
+        
+        // Calculate discounted price using formula: price - discount = unit_discounted_price
+         const discountedPrice = basePrice - discountAmount;
+         const totalPrice = quantity * discountedPrice;
 
-        priceBreaksData.forEach((priceBreak) => {
-          const parts = priceBreak.split(":");
-          if (parts.length === 2) {
-            const quantity = parseInt(parts[0].trim());
-            const discountPercent = parseFloat(parts[1].trim());
-            const discountedPrice = basePrice * (1 - discountPercent / 100);
-            const totalPrice = quantity * discountedPrice;
+        markdown += `| ${quantity} | ${currencyCode} ${discountAmount.toFixed(2)} | ${currencyCode} ${discountedPrice.toFixed(2)} | ${currencyCode} ${totalPrice.toFixed(2)} |\n`;
+      });
+      markdown += `\n`;
+    } else {
+      // Fallback to original quantity price breaks if VPA bundles not available
+      if (product.qtyPriceBreaks && product.qtyPriceBreaks.value) {
+        markdown += `## Quantity Price Breaks (Fallback)\n\n`;
+        markdown += `**Raw Data:** \`${product.qtyPriceBreaks.value}\`\n\n`;
 
-            markdown += `| ${quantity} | ${discountPercent.toFixed(2)}% | ${
-              product.priceRange.minVariantPrice.currencyCode
-            } ${discountedPrice.toFixed(2)} | ${
-              product.priceRange.minVariantPrice.currencyCode
-            } ${totalPrice.toFixed(2)} |\n`;
-          }
-        });
-        markdown += `\n`;
+        // Try to parse the price breaks data
+        const priceBreaksData = product.qtyPriceBreaks.value.split(";");
+        if (priceBreaksData.length >= 2) {
+          markdown += `| Quantity | Discount % | Discounted Price | Total Price |\n`;
+          markdown += `|----------|------------|------------------|-------------|\n`;
+
+          const basePrice = parseFloat(product.priceRange.minVariantPrice.amount);
+
+          priceBreaksData.forEach((priceBreak) => {
+            const parts = priceBreak.split(":");
+            if (parts.length === 2) {
+              const quantity = parseInt(parts[0].trim());
+              const discountPercent = parseFloat(parts[1].trim());
+              const discountedPrice = basePrice * (1 - discountPercent / 100);
+              const totalPrice = quantity * discountedPrice;
+
+              markdown += `| ${quantity} | ${discountPercent.toFixed(2)}% | ${
+                product.priceRange.minVariantPrice.currencyCode
+              } ${discountedPrice.toFixed(2)} | ${
+                product.priceRange.minVariantPrice.currencyCode
+              } ${totalPrice.toFixed(2)} |\n`;
+            }
+          });
+          markdown += `\n`;
+        }
       }
     }
 

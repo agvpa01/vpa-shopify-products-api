@@ -1,6 +1,6 @@
 # [Colostrum](https://vpa-australia.myshopify.com/products/colostrum)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -23,9 +23,9 @@
 - **Product Type:** Protein Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 29446
+- **Total Inventory:** 29439
 - **Created:** 6/2/2020
-- **Updated:** 8/10/2025
+- **Updated:** 8/19/2025
 
 **Tags:** foodtech_product_allergen: milk, foodtech_product_allergen: soy, foodtech_product_shopbyingredient: Colostrum, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: general health, foodtech_product_shopybygoal: muscle gain, vpa australia
 
@@ -43,7 +43,7 @@ HOW VPA'S COLOSTRUM OPTIMISES YOU VPA Bovine Colostrum is a rich source of many 
 
 - **Price:** AUD 122.0
 - **Available:** Yes
-- **Quantity Available:** 29446
+- **Quantity Available:** 29439
 - **Options:**
   - Title: Default Title
 
@@ -51,5 +51,5 @@ HOW VPA'S COLOSTRUM OPTIMISES YOU VPA Bovine Colostrum is a rich source of many 
 
 - **Product ID:** `gid://shopify/Product/4546972024887`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:01.125Z
+- **Generated:** 2025-08-19T12:11:53.183Z
 

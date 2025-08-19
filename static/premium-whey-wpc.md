@@ -1,6 +1,6 @@
 # [Premium Whey (WPC)](https://vpa-australia.myshopify.com/products/premium-whey-wpc)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -86,9 +86,9 @@
 - **Product Type:** Protein Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 48497
+- **Total Inventory:** 46516
 - **Created:** 6/2/2020
-- **Updated:** 8/8/2025
+- **Updated:** 8/19/2025
 
 **Tags:** foodtech_product_allergen: milk, foodtech_product_allergen: soy, foodtech_product_shopbyingredient: WPC, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: muscle gain, new_flavour, vpa australia
 
@@ -102,14 +102,14 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 ## Quantity Price Breaks
 
-**Raw Data:** `1:0;2:2.5510204081632653;3:2.0408163265306123;4:2.1683673469387754`
+**VPA Bundles Data for Product ID:** 4546987032631
 
-| Quantity | Discount % | Discounted Price | Total Price |
-|----------|------------|------------------|-------------|
-| 1 | 0.00% | AUD 49.00 | AUD 49.00 |
-| 2 | 2.55% | AUD 47.75 | AUD 95.50 |
-| 3 | 2.04% | AUD 48.00 | AUD 144.00 |
-| 4 | 2.17% | AUD 47.94 | AUD 191.75 |
+| Quantity | Discount Amount | Unit Price | Total Price |
+|----------|----------------|------------|-------------|
+| 1 | AUD 0.00 | AUD 49.00 | AUD 49.00 |
+| 2 | AUD 2.50 | AUD 46.50 | AUD 93.00 |
+| 3 | AUD 3.00 | AUD 46.00 | AUD 138.00 |
+| 4 | AUD 4.25 | AUD 44.75 | AUD 179.00 |
 
 ## Product Variants
 
@@ -117,7 +117,7 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** 31062
+- **Quantity Available:** 30690
 - **Options:**
   - Flavour: Chocolate
 
@@ -125,7 +125,7 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** 8429
+- **Quantity Available:** 7984
 - **Options:**
   - Flavour: Vanilla
 
@@ -133,7 +133,7 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** -3018
+- **Quantity Available:** -3106
 - **Options:**
   - Flavour: Banana
 
@@ -141,7 +141,7 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** 8357
+- **Quantity Available:** 8267
 - **Options:**
   - Flavour: Strawberry
 
@@ -149,7 +149,7 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** 2532
+- **Quantity Available:** 2466
 - **Options:**
   - Flavour: Natural
 
@@ -157,7 +157,7 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** -3831
+- **Quantity Available:** -3904
 - **Options:**
   - Flavour: Iced Coffee
 
@@ -165,7 +165,7 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** 7579
+- **Quantity Available:** 7542
 - **Options:**
   - Flavour: Rainbow Ice Cream
 
@@ -173,7 +173,7 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** 12021
+- **Quantity Available:** 11894
 - **Options:**
   - Flavour: Salted Caramel
 
@@ -181,7 +181,7 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** 756
+- **Quantity Available:** 683
 - **Options:**
   - Flavour: Choc Peanut Butter Cup
 
@@ -189,7 +189,7 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** 534
+- **Quantity Available:** 524
 - **Options:**
   - Flavour: Fruity Cereal
 
@@ -197,7 +197,7 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** -967
+- **Quantity Available:** -1036
 - **Options:**
   - Flavour: Choc Hazelnut
 
@@ -205,7 +205,7 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** -993
+- **Quantity Available:** -1048
 - **Options:**
   - Flavour: Caramel White Milk
 
@@ -213,7 +213,7 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** -2443
+- **Quantity Available:** -2496
 - **Options:**
   - Flavour: Choc Honeycomb
 
@@ -221,7 +221,7 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** -3478
+- **Quantity Available:** -3554
 - **Options:**
   - Flavour: Dark Chocolate
 
@@ -229,7 +229,7 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** -4065
+- **Quantity Available:** -4190
 - **Options:**
   - Flavour: Caramel Biscuit Shake
 
@@ -237,7 +237,7 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** -1305
+- **Quantity Available:** -1331
 - **Options:**
   - Flavour: Birthday Cake
 
@@ -245,7 +245,7 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** -1428
+- **Quantity Available:** -1485
 - **Options:**
   - Flavour: Choc Coconut
 
@@ -253,7 +253,7 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** -1021
+- **Quantity Available:** -1086
 - **Options:**
   - Flavour: White Choc Raspberry
 
@@ -261,7 +261,7 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** -224
+- **Quantity Available:** -298
 - **Options:**
   - Flavour: Rich Mocha
 
@@ -269,5 +269,5 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Product ID:** `gid://shopify/Product/4546987032631`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:08.007Z
+- **Generated:** 2025-08-19T12:12:02.851Z
 

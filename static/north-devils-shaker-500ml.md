@@ -1,6 +1,6 @@
 # [Norths Devils Shaker - 500ml](https://vpa-australia.myshopify.com/products/north-devils-shaker-500ml)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -44,9 +44,9 @@
 - **Product Type:** Accessories
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 19745
+- **Total Inventory:** 19740
 - **Created:** 5/22/2024
-- **Updated:** 8/10/2025
+- **Updated:** 8/19/2025
 
 **Tags:** brisbane_only, dispatch_only_Brisbane
 
@@ -64,7 +64,7 @@ description Celebrate your support for the Norths Devils Rugby Club with this st
 
 - **Price:** AUD 15.0
 - **Available:** Yes
-- **Quantity Available:** 19745
+- **Quantity Available:** 19740
 - **Options:**
   - Size: 500mL
 
@@ -72,5 +72,5 @@ description Celebrate your support for the Norths Devils Rugby Club with this st
 
 - **Product ID:** `gid://shopify/Product/7075482566711`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:23.954Z
+- **Generated:** 2025-08-19T12:12:27.471Z
 

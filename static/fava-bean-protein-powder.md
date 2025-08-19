@@ -1,6 +1,6 @@
 # [Fava Bean Protein Powder](https://vpa-australia.myshopify.com/products/fava-bean-protein-powder)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -37,9 +37,9 @@
 - **Product Type:** Protein Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 168
+- **Total Inventory:** 163
 - **Created:** 9/11/2023
-- **Updated:** 8/2/2025
+- **Updated:** 8/19/2025
 
 **Tags:** foodtech_product_shopybydiet: vegan, foodtech_product_shopybydiet: vegetarian
 
@@ -53,7 +53,7 @@
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** 168
+- **Quantity Available:** 163
 - **Options:**
   - Size: Natural - 1KG
 
@@ -61,5 +61,5 @@
 
 - **Product ID:** `gid://shopify/Product/6832110043191`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:23.036Z
+- **Generated:** 2025-08-19T12:12:26.129Z
 

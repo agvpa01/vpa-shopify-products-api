@@ -1,6 +1,6 @@
 # [Dextrose Monohydrate](https://vpa-australia.myshopify.com/products/dextrose-monohydrate)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -23,9 +23,9 @@
 - **Product Type:** Carbohydrate Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 29552
+- **Total Inventory:** 29540
 - **Created:** 6/2/2020
-- **Updated:** 8/8/2025
+- **Updated:** 8/19/2025
 
 **Tags:** foodtech_product_shopbyingredient: Dextrose Monohydrate, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegan, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: performance and endurance, vpa australia
 
@@ -39,12 +39,12 @@ What is Dextrose Monohydrate? Dextrose Monohydrate is a form of single chain car
 
 ## Quantity Price Breaks
 
-**Raw Data:** `1:0;2:12.5`
+**VPA Bundles Data for Product ID:** 4546971533367
 
-| Quantity | Discount % | Discounted Price | Total Price |
-|----------|------------|------------------|-------------|
-| 1 | 0.00% | AUD 20.00 | AUD 20.00 |
-| 2 | 12.50% | AUD 17.50 | AUD 35.00 |
+| Quantity | Discount Amount | Unit Price | Total Price |
+|----------|----------------|------------|-------------|
+| 1 | AUD 0.00 | AUD 20.00 | AUD 20.00 |
+| 2 | AUD 0.05 | AUD 19.95 | AUD 39.90 |
 
 ## Product Variants
 
@@ -52,7 +52,7 @@ What is Dextrose Monohydrate? Dextrose Monohydrate is a form of single chain car
 
 - **Price:** AUD 20.0
 - **Available:** Yes
-- **Quantity Available:** 29552
+- **Quantity Available:** 29540
 - **Options:**
   - Title: Default Title
 
@@ -60,5 +60,5 @@ What is Dextrose Monohydrate? Dextrose Monohydrate is a form of single chain car
 
 - **Product ID:** `gid://shopify/Product/4546971533367`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:00.492Z
+- **Generated:** 2025-08-19T12:11:52.263Z
 

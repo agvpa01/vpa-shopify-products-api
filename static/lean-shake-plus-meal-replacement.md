@@ -1,6 +1,6 @@
 # [Lean Shake Plus (Meal Replacement)](https://vpa-australia.myshopify.com/products/lean-shake-plus-meal-replacement)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -72,9 +72,9 @@
 - **Product Type:** Protein Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 36596
+- **Total Inventory:** 36512
 - **Created:** 6/2/2020
-- **Updated:** 8/10/2025
+- **Updated:** 8/19/2025
 
 **Tags:** foodtech_product_allergen: milk, foodtech_product_allergen: soy, foodtech_product_allergen: wheat, foodtech_product_shopbygoal: weight loss, foodtech_product_shopbyingredient: Maltodextrin, foodtech_product_shopbyingredient: SMP, foodtech_product_shopbyingredient: WPC, foodtech_product_shopbyingredient: WPI, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: general health, vpa australia
 
@@ -88,13 +88,13 @@ Lean Shake Plus (Meal Replacement) Lean Shake Plus is a comprehensive meal repla
 
 ## Quantity Price Breaks
 
-**Raw Data:** `1:0;2:1.0204081632653061;3:1.5850340136054422`
+**VPA Bundles Data for Product ID:** 4546976219191
 
-| Quantity | Discount % | Discounted Price | Total Price |
-|----------|------------|------------------|-------------|
-| 1 | 0.00% | AUD 49.00 | AUD 49.00 |
-| 2 | 1.02% | AUD 48.50 | AUD 97.00 |
-| 3 | 1.59% | AUD 48.22 | AUD 144.67 |
+| Quantity | Discount Amount | Unit Price | Total Price |
+|----------|----------------|------------|-------------|
+| 1 | AUD 0.00 | AUD 49.00 | AUD 49.00 |
+| 2 | AUD 1.00 | AUD 48.00 | AUD 96.00 |
+| 3 | AUD 2.33 | AUD 46.67 | AUD 140.01 |
 
 ## Product Variants
 
@@ -102,7 +102,7 @@ Lean Shake Plus (Meal Replacement) Lean Shake Plus is a comprehensive meal repla
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** 18203
+- **Quantity Available:** 18178
 - **Options:**
   - Flavour: Chocolate
 
@@ -110,7 +110,7 @@ Lean Shake Plus (Meal Replacement) Lean Shake Plus is a comprehensive meal repla
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** 18187
+- **Quantity Available:** 18144
 - **Options:**
   - Flavour: Vanilla
 
@@ -118,7 +118,7 @@ Lean Shake Plus (Meal Replacement) Lean Shake Plus is a comprehensive meal repla
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** 206
+- **Quantity Available:** 190
 - **Options:**
   - Flavour: Strawberry
 
@@ -126,5 +126,5 @@ Lean Shake Plus (Meal Replacement) Lean Shake Plus is a comprehensive meal repla
 
 - **Product ID:** `gid://shopify/Product/4546976219191`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:02.367Z
+- **Generated:** 2025-08-19T12:11:55.135Z
 

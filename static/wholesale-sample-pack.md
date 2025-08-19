@@ -1,6 +1,6 @@
 # [Wholesale Sample Pack](https://vpa-australia.myshopify.com/products/wholesale-sample-pack)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -42,5 +42,5 @@ Wholesale Sample Pack
 
 - **Product ID:** `gid://shopify/Product/4679047970871`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:14.598Z
+- **Generated:** 2025-08-19T12:12:13.032Z
 

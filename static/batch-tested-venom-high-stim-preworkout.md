@@ -2,7 +2,7 @@
 
 **Type:** HASTA
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -117,5 +117,5 @@ HASTA - VPA’s Batch-Tested Venom® Pre-Workout is a high-performance supplemen
 
 - **Product ID:** `gid://shopify/Product/7188436549687`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:28.054Z
+- **Generated:** 2025-08-19T12:12:32.165Z
 

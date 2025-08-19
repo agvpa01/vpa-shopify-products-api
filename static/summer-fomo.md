@@ -1,10 +1,10 @@
-# [Summer FOMO™ - Thermogenic Formula](https://vpa-australia.myshopify.com/products/summer-fomo)
+# [Summer FOMO - Thermogenic Formula](https://vpa-australia.myshopify.com/products/summer-fomo)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
-**SEO Title:** Summer FOMO™ - Thermogenic Formula
+**SEO Title:** Summer FOMO - Thermogenic Formula
 
 **SEO Description:** Power up with VPA's thermogenic fat burner pre-workout supplement, designed to enhance metabolism, increase energy & control hunger.
 
@@ -51,9 +51,9 @@
 - **Product Type:** Pre-Workout
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 17174
+- **Total Inventory:** 17122
 - **Created:** 6/2/2020
-- **Updated:** 8/10/2025
+- **Updated:** 8/19/2025
 
 **Tags:** foodtech_product_shopbygoal: weight loss, foodtech_product_shopbyingredient: Acacia Fibre, foodtech_product_shopbyingredient: L-Glutamine, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegan, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: general health, foodtech_product_shopybygoal: weight loss, hyperburn, vpa australia
 
@@ -71,7 +71,7 @@ Summer FOMO Summer FOMO. As both a thermogenic and an energy booster, Summer FOM
 
 - **Price:** AUD 46.0
 - **Available:** Yes
-- **Quantity Available:** 17174
+- **Quantity Available:** 17122
 - **Options:**
   - Flavour: Mango Passionfruit
 
@@ -79,5 +79,5 @@ Summer FOMO Summer FOMO. As both a thermogenic and an energy booster, Summer FOM
 
 - **Product ID:** `gid://shopify/Product/4546996633655`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:08.951Z
+- **Generated:** 2025-08-19T12:12:04.187Z
 

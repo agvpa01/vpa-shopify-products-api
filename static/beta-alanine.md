@@ -1,6 +1,6 @@
 # [Beta Alanine](https://vpa-australia.myshopify.com/products/beta-alanine)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -30,9 +30,9 @@
 - **Product Type:** Amino Acid
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 29308
+- **Total Inventory:** 29285
 - **Created:** 6/2/2020
-- **Updated:** 8/10/2025
+- **Updated:** 8/19/2025
 
 **Tags:** foodtech_product_shopbyingredient: Beta Alanine, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegan, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: muscle gain, foodtech_product_shopybygoal: performance and endurance, vpa australia
 
@@ -50,7 +50,7 @@ What is Beta Alanine? Beta alanine is a version of the amino acid alanine. Beta 
 
 - **Price:** AUD 27.0
 - **Available:** Yes
-- **Quantity Available:** 29308
+- **Quantity Available:** 29285
 - **Options:**
   - Title: Default Title
 
@@ -58,5 +58,5 @@ What is Beta Alanine? Beta alanine is a version of the amino acid alanine. Beta 
 
 - **Product ID:** `gid://shopify/Product/4546981953591`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:04.534Z
+- **Generated:** 2025-08-19T12:11:57.989Z
 

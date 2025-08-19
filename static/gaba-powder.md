@@ -1,6 +1,6 @@
 # [GABA Powder](https://vpa-australia.myshopify.com/products/gaba-powder)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -23,9 +23,9 @@
 - **Product Type:** Amino Acid
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 19060
+- **Total Inventory:** 19046
 - **Created:** 6/2/2020
-- **Updated:** 8/10/2025
+- **Updated:** 8/19/2025
 
 **Tags:** foodtech_product_shopbyingredient: GABA, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegan, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: general health, foodtech_product_shopybygoal: muscle gain, foodtech_product_shopybygoal: rest and relaxtion, vpa australia
 
@@ -43,7 +43,7 @@ What is GABA powder? GABA powder is Gamma-Aminobutyric Acid in powdered form. GA
 
 - **Price:** AUD 27.0
 - **Available:** Yes
-- **Quantity Available:** 19060
+- **Quantity Available:** 19046
 - **Options:**
   - Title: Default Title
 
@@ -51,5 +51,5 @@ What is GABA powder? GABA powder is Gamma-Aminobutyric Acid in powdered form. GA
 
 - **Product ID:** `gid://shopify/Product/4546982248503`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:05.409Z
+- **Generated:** 2025-08-19T12:11:59.273Z
 

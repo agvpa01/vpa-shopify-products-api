@@ -1,6 +1,6 @@
 # [Essential Amino Acids (EAAs)](https://vpa-australia.myshopify.com/products/essential-amino-acids)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -37,9 +37,9 @@
 - **Product Type:** Amino Acid
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 28577
+- **Total Inventory:** 28468
 - **Created:** 9/8/2023
-- **Updated:** 8/7/2025
+- **Updated:** 8/15/2025
 
 **Tags:** amino acids, eaas, essential amino acids
 
@@ -57,7 +57,7 @@ product Information What Are Essential Amino Acids (EAAs)? Essential Amino Acids
 
 - **Price:** AUD 16.0
 - **Available:** Yes
-- **Quantity Available:** 28577
+- **Quantity Available:** 28468
 - **Options:**
   - Title: Default Title
 
@@ -65,5 +65,5 @@ product Information What Are Essential Amino Acids (EAAs)? Essential Amino Acids
 
 - **Product ID:** `gid://shopify/Product/6829993197623`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:19.718Z
+- **Generated:** 2025-08-19T12:12:20.820Z
 

@@ -1,6 +1,6 @@
 # [Medium Chain Triglycerides (MCT)](https://vpa-australia.myshopify.com/products/medium-chain-triglycerides-mct)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -25,7 +25,7 @@
 - **Available for Sale:** Yes
 - **Total Inventory:** 441
 - **Created:** 6/2/2020
-- **Updated:** 8/3/2025
+- **Updated:** 8/17/2025
 
 **Tags:** foodtech_product_shopbyingredient: MCT, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegan, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: general health, foodtech_product_shopybygoal: performance and endurance, vpa australia
 
@@ -51,5 +51,5 @@ Medium Chain Triglycerides (MCT) VPA’s MCT or Medium Chain Triglycerides are a
 
 - **Product ID:** `gid://shopify/Product/4546983264311`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:07.068Z
+- **Generated:** 2025-08-19T12:12:01.538Z
 

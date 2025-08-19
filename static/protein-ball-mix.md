@@ -1,6 +1,6 @@
 # [Protein Ball Mix](https://vpa-australia.myshopify.com/products/protein-ball-mix)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -51,9 +51,9 @@
 - **Product Type:** Protein Snack
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 333
+- **Total Inventory:** 323
 - **Created:** 6/2/2020
-- **Updated:** 8/7/2025
+- **Updated:** 8/19/2025
 
 **Tags:** foodtech_product_allergen: milk, foodtech_product_allergen: soy, foodtech_product_shopbyingredient: Desiccated Coconut, foodtech_product_shopbyingredient: Pea Protein Isolate, foodtech_product_shopbyingredient: WPC, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: general health, vpa australia
 
@@ -71,7 +71,7 @@ PROTEIN BALL MIX VPA Protein Ball Mix is a convenient way to create tasty and he
 
 - **Price:** AUD 38.0
 - **Available:** Yes
-- **Quantity Available:** 151
+- **Quantity Available:** 147
 - **Options:**
   - Flavour: Coconut Vanilla
 
@@ -79,7 +79,7 @@ PROTEIN BALL MIX VPA Protein Ball Mix is a convenient way to create tasty and he
 
 - **Price:** AUD 38.0
 - **Available:** Yes
-- **Quantity Available:** 182
+- **Quantity Available:** 176
 - **Options:**
   - Flavour: Choc Coconut Caramel
 
@@ -87,5 +87,5 @@ PROTEIN BALL MIX VPA Protein Ball Mix is a convenient way to create tasty and he
 
 - **Product ID:** `gid://shopify/Product/4547008102455`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:13.669Z
+- **Generated:** 2025-08-19T12:12:11.697Z
 

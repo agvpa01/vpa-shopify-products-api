@@ -1,6 +1,6 @@
 # [Micellar Casein](https://vpa-australia.myshopify.com/products/micellar-casein)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -72,9 +72,9 @@
 - **Product Type:** Protein Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 57705
+- **Total Inventory:** 57597
 - **Created:** 6/2/2020
-- **Updated:** 8/9/2025
+- **Updated:** 8/19/2025
 
 **Tags:** foodtech_product_shopbyingredient: Micellar Casein, foodtech_product_shopbyingredient: WPC, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: muscle gain, foodtech_product_shopybygoal: rest and relaxtion, vpa australia
 
@@ -88,13 +88,13 @@ Micellar Casein Micellar Casein is a milk protein and is well know for is slow d
 
 ## Quantity Price Breaks
 
-**Raw Data:** `1:0;2:5;3:4.242424242424243`
+**VPA Bundles Data for Product ID:** 4546978086967
 
-| Quantity | Discount % | Discounted Price | Total Price |
-|----------|------------|------------------|-------------|
-| 1 | 0.00% | AUD 55.00 | AUD 55.00 |
-| 2 | 5.00% | AUD 52.25 | AUD 104.50 |
-| 3 | 4.24% | AUD 52.67 | AUD 158.00 |
+| Quantity | Discount Amount | Unit Price | Total Price |
+|----------|----------------|------------|-------------|
+| 1 | AUD 0.00 | AUD 55.00 | AUD 55.00 |
+| 2 | AUD 5.50 | AUD 49.50 | AUD 99.00 |
+| 3 | AUD 7.00 | AUD 48.00 | AUD 144.00 |
 
 ## Product Variants
 
@@ -102,7 +102,7 @@ Micellar Casein Micellar Casein is a milk protein and is well know for is slow d
 
 - **Price:** AUD 55.0
 - **Available:** Yes
-- **Quantity Available:** 18853
+- **Quantity Available:** 18820
 - **Options:**
   - Flavour: Chocolate
 
@@ -110,7 +110,7 @@ Micellar Casein Micellar Casein is a milk protein and is well know for is slow d
 
 - **Price:** AUD 55.0
 - **Available:** Yes
-- **Quantity Available:** 18857
+- **Quantity Available:** 18842
 - **Options:**
   - Flavour: Vanilla
 
@@ -118,7 +118,7 @@ Micellar Casein Micellar Casein is a milk protein and is well know for is slow d
 
 - **Price:** AUD 55.0
 - **Available:** Yes
-- **Quantity Available:** 191
+- **Quantity Available:** 142
 - **Options:**
   - Flavour: Banana
 
@@ -126,7 +126,7 @@ Micellar Casein Micellar Casein is a milk protein and is well know for is slow d
 
 - **Price:** AUD 55.0
 - **Available:** Yes
-- **Quantity Available:** 19804
+- **Quantity Available:** 19793
 - **Options:**
   - Flavour: Iced Coffee
 
@@ -134,5 +134,5 @@ Micellar Casein Micellar Casein is a milk protein and is well know for is slow d
 
 - **Product ID:** `gid://shopify/Product/4546978086967`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:02.650Z
+- **Generated:** 2025-08-19T12:11:55.556Z
 

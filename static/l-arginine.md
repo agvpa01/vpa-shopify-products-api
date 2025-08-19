@@ -1,6 +1,6 @@
 # [L-Arginine](https://vpa-australia.myshopify.com/products/l-arginine)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -37,9 +37,9 @@
 - **Product Type:** Amino Acid
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 12
+- **Total Inventory:** N/A
 - **Created:** 9/11/2023
-- **Updated:** 8/6/2025
+- **Updated:** 8/18/2025
 
 **Tags:** amino acids
 
@@ -57,7 +57,7 @@ LArginine L-Arginine is an amino acid that regulates blood flow and maintains he
 
 - **Price:** AUD 16.0
 - **Available:** Yes
-- **Quantity Available:** 12
+- **Quantity Available:** N/A
 - **Options:**
   - Title: Default Title
 
@@ -65,5 +65,5 @@ LArginine L-Arginine is an amino acid that regulates blood flow and maintains he
 
 - **Product ID:** `gid://shopify/Product/6832090447927`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:20.631Z
+- **Generated:** 2025-08-19T12:12:22.205Z
 

@@ -1,6 +1,6 @@
 # [Whey Protein Isolate](https://vpa-australia.myshopify.com/products/whey-isolate-protein-powder)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -18,67 +18,67 @@
 - **URL:** [https://cdn.shopify.com/s/files/1/0268/9279/5959/files/vpa-whey-isolate-wpi-protein-powder.webp?v=1747271972](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/vpa-whey-isolate-wpi-protein-powder.webp?v=1747271972)
 
 ### Image 2
-![Whey Protein Isolate](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/whey_isolate_birthday_cake_flavour_protein_wpi.webp?v=1747271975)
+![Whey Protein Isolate](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/athletic-man-caramel-white-milk-caramilk-flavoured-wpi-whey-isolate-protein-powder-vpa-australia.webp?v=1755130157)
 
-- **Alt Text:** N/A
+- **Alt Text:** Whey Protein Isolate
 - **Dimensions:** 900 x 900px
-- **URL:** [https://cdn.shopify.com/s/files/1/0268/9279/5959/files/whey_isolate_birthday_cake_flavour_protein_wpi.webp?v=1747271975](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/whey_isolate_birthday_cake_flavour_protein_wpi.webp?v=1747271975)
+- **URL:** [https://cdn.shopify.com/s/files/1/0268/9279/5959/files/athletic-man-caramel-white-milk-caramilk-flavoured-wpi-whey-isolate-protein-powder-vpa-australia.webp?v=1755130157](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/athletic-man-caramel-white-milk-caramilk-flavoured-wpi-whey-isolate-protein-powder-vpa-australia.webp?v=1755130157)
 
 ### Image 3
-![Whey Protein Isolate](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/Artboard3_a8d24330-8d3c-4fcb-acef-6eaab3a407f6.webp?v=1747271979)
+![Whey Protein Isolate](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/Artboard3_a8d24330-8d3c-4fcb-acef-6eaab3a407f6.webp?v=1755130157)
 
 - **Alt Text:** Whey Protein Isolate
 - **Dimensions:** 900 x 900px
-- **URL:** [https://cdn.shopify.com/s/files/1/0268/9279/5959/files/Artboard3_a8d24330-8d3c-4fcb-acef-6eaab3a407f6.webp?v=1747271979](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/Artboard3_a8d24330-8d3c-4fcb-acef-6eaab3a407f6.webp?v=1747271979)
+- **URL:** [https://cdn.shopify.com/s/files/1/0268/9279/5959/files/Artboard3_a8d24330-8d3c-4fcb-acef-6eaab3a407f6.webp?v=1755130157](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/Artboard3_a8d24330-8d3c-4fcb-acef-6eaab3a407f6.webp?v=1755130157)
 
 ### Image 4
-![Whey Protein Isolate](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/dark_chocolate_whey_isolate_wpi_flavour.webp?v=1747271983)
+![Whey Protein Isolate](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/whey_isolate_birthday_cake_flavour_protein_wpi.webp?v=1755130187)
 
 - **Alt Text:** N/A
 - **Dimensions:** 900 x 900px
-- **URL:** [https://cdn.shopify.com/s/files/1/0268/9279/5959/files/dark_chocolate_whey_isolate_wpi_flavour.webp?v=1747271983](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/dark_chocolate_whey_isolate_wpi_flavour.webp?v=1747271983)
+- **URL:** [https://cdn.shopify.com/s/files/1/0268/9279/5959/files/whey_isolate_birthday_cake_flavour_protein_wpi.webp?v=1755130187](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/whey_isolate_birthday_cake_flavour_protein_wpi.webp?v=1755130187)
 
 ### Image 5
-![Whey Protein Isolate](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/athletic-man-caramel-white-milk-caramilk-flavoured-wpi-whey-isolate-protein-powder-vpa-australia.webp?v=1747271986)
-
-- **Alt Text:** Whey Protein Isolate
-- **Dimensions:** 900 x 900px
-- **URL:** [https://cdn.shopify.com/s/files/1/0268/9279/5959/files/athletic-man-caramel-white-milk-caramilk-flavoured-wpi-whey-isolate-protein-powder-vpa-australia.webp?v=1747271986](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/athletic-man-caramel-white-milk-caramilk-flavoured-wpi-whey-isolate-protein-powder-vpa-australia.webp?v=1747271986)
-
-### Image 6
-![Whey Protein Isolate](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/whey_isolate_-_wpi_caramel_biscuit_flavour.webp?v=1747271989)
+![Whey Protein Isolate](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/dark_chocolate_whey_isolate_wpi_flavour.webp?v=1755130187)
 
 - **Alt Text:** N/A
 - **Dimensions:** 900 x 900px
-- **URL:** [https://cdn.shopify.com/s/files/1/0268/9279/5959/files/whey_isolate_-_wpi_caramel_biscuit_flavour.webp?v=1747271989](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/whey_isolate_-_wpi_caramel_biscuit_flavour.webp?v=1747271989)
+- **URL:** [https://cdn.shopify.com/s/files/1/0268/9279/5959/files/dark_chocolate_whey_isolate_wpi_flavour.webp?v=1755130187](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/dark_chocolate_whey_isolate_wpi_flavour.webp?v=1755130187)
+
+### Image 6
+![Whey Protein Isolate](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/whey_isolate_-_wpi_caramel_biscuit_flavour.webp?v=1755130187)
+
+- **Alt Text:** N/A
+- **Dimensions:** 900 x 900px
+- **URL:** [https://cdn.shopify.com/s/files/1/0268/9279/5959/files/whey_isolate_-_wpi_caramel_biscuit_flavour.webp?v=1755130187](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/whey_isolate_-_wpi_caramel_biscuit_flavour.webp?v=1755130187)
 
 ### Image 7
-![Whey Protein Isolate](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/wpi-fruity-cereal-vpa-australia-2.webp?v=1747271993)
+![Whey Protein Isolate](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/wpi-fruity-cereal-vpa-australia-2.webp?v=1755130187)
 
 - **Alt Text:** Whey Protein Isolate
 - **Dimensions:** 900 x 900px
-- **URL:** [https://cdn.shopify.com/s/files/1/0268/9279/5959/files/wpi-fruity-cereal-vpa-australia-2.webp?v=1747271993](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/wpi-fruity-cereal-vpa-australia-2.webp?v=1747271993)
+- **URL:** [https://cdn.shopify.com/s/files/1/0268/9279/5959/files/wpi-fruity-cereal-vpa-australia-2.webp?v=1755130187](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/wpi-fruity-cereal-vpa-australia-2.webp?v=1755130187)
 
 ### Image 8
-![Whey Protein Isolate](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/Artboard1.webp?v=1747271996)
+![Whey Protein Isolate](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/Artboard1.webp?v=1755130187)
 
 - **Alt Text:** Whey Protein Isolate
 - **Dimensions:** 900 x 900px
-- **URL:** [https://cdn.shopify.com/s/files/1/0268/9279/5959/files/Artboard1.webp?v=1747271996](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/Artboard1.webp?v=1747271996)
+- **URL:** [https://cdn.shopify.com/s/files/1/0268/9279/5959/files/Artboard1.webp?v=1755130187](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/Artboard1.webp?v=1755130187)
 
 ### Image 9
-![Whey Protein Isolate](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/female-athlete-drinking-caramel-white-milk-caramilk-flavoured-wpi-whey-isolate-protein-powder-vpa-australia.webp?v=1747271999)
+![Whey Protein Isolate](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/female-athlete-drinking-caramel-white-milk-caramilk-flavoured-wpi-whey-isolate-protein-powder-vpa-australia.webp?v=1755130187)
 
 - **Alt Text:** Whey Protein Isolate
 - **Dimensions:** 900 x 900px
-- **URL:** [https://cdn.shopify.com/s/files/1/0268/9279/5959/files/female-athlete-drinking-caramel-white-milk-caramilk-flavoured-wpi-whey-isolate-protein-powder-vpa-australia.webp?v=1747271999](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/female-athlete-drinking-caramel-white-milk-caramilk-flavoured-wpi-whey-isolate-protein-powder-vpa-australia.webp?v=1747271999)
+- **URL:** [https://cdn.shopify.com/s/files/1/0268/9279/5959/files/female-athlete-drinking-caramel-white-milk-caramilk-flavoured-wpi-whey-isolate-protein-powder-vpa-australia.webp?v=1755130187](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/female-athlete-drinking-caramel-white-milk-caramilk-flavoured-wpi-whey-isolate-protein-powder-vpa-australia.webp?v=1755130187)
 
 ### Image 10
-![Whey Protein Isolate](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/wpi-fruity-cereal-vpa-australia.webp?v=1747272003)
+![Whey Protein Isolate](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/wpi-fruity-cereal-vpa-australia.webp?v=1755130187)
 
 - **Alt Text:** Whey Protein Isolate
 - **Dimensions:** 900 x 900px
-- **URL:** [https://cdn.shopify.com/s/files/1/0268/9279/5959/files/wpi-fruity-cereal-vpa-australia.webp?v=1747272003](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/wpi-fruity-cereal-vpa-australia.webp?v=1747272003)
+- **URL:** [https://cdn.shopify.com/s/files/1/0268/9279/5959/files/wpi-fruity-cereal-vpa-australia.webp?v=1755130187](https://cdn.shopify.com/s/files/1/0268/9279/5959/files/wpi-fruity-cereal-vpa-australia.webp?v=1755130187)
 
 ## Product Details
 
@@ -86,9 +86,9 @@
 - **Product Type:** Protein Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 121052
+- **Total Inventory:** 137064
 - **Created:** 6/2/2020
-- **Updated:** 8/10/2025
+- **Updated:** 8/19/2025
 
 **Tags:** foodtech_product_allergen: milk, foodtech_product_allergen: soy, foodtech_product_shopbygoal: weight loss, foodtech_product_shopbyingredient: WPI, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: muscle gain, foodtech_product_shopybygoal: weight loss, new_flavour, vpa australia
 
@@ -102,14 +102,14 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 ## Quantity Price Breaks
 
-**Raw Data:** `1:0;2:3.75;3:3.3333333333333335;4:2.7083333333333335`
+**VPA Bundles Data for Product ID:** 4546979921975
 
-| Quantity | Discount % | Discounted Price | Total Price |
-|----------|------------|------------------|-------------|
-| 1 | 0.00% | AUD 60.00 | AUD 60.00 |
-| 2 | 3.75% | AUD 57.75 | AUD 115.50 |
-| 3 | 3.33% | AUD 58.00 | AUD 174.00 |
-| 4 | 2.71% | AUD 58.38 | AUD 233.50 |
+| Quantity | Discount Amount | Unit Price | Total Price |
+|----------|----------------|------------|-------------|
+| 1 | AUD 0.00 | AUD 60.00 | AUD 60.00 |
+| 2 | AUD 4.50 | AUD 55.50 | AUD 111.00 |
+| 3 | AUD 6.00 | AUD 54.00 | AUD 162.00 |
+| 4 | AUD 6.50 | AUD 53.50 | AUD 214.00 |
 
 ## Product Variants
 
@@ -117,7 +117,7 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Price:** AUD 60.0
 - **Available:** Yes
-- **Quantity Available:** 2788
+- **Quantity Available:** 2216
 - **Options:**
   - Flavours: Chocolate
 
@@ -125,7 +125,7 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Price:** AUD 60.0
 - **Available:** Yes
-- **Quantity Available:** 367
+- **Quantity Available:** 18835
 - **Options:**
   - Flavours: Vanilla
 
@@ -133,7 +133,7 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Price:** AUD 60.0
 - **Available:** Yes
-- **Quantity Available:** 8399
+- **Quantity Available:** 8264
 - **Options:**
   - Flavours: Strawberry
 
@@ -141,7 +141,7 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Price:** AUD 60.0
 - **Available:** Yes
-- **Quantity Available:** 8102
+- **Quantity Available:** 7946
 - **Options:**
   - Flavours: Banana
 
@@ -149,7 +149,7 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Price:** AUD 60.0
 - **Available:** Yes
-- **Quantity Available:** 8053
+- **Quantity Available:** 7907
 - **Options:**
   - Flavours: Natural
 
@@ -157,7 +157,7 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Price:** AUD 60.0
 - **Available:** Yes
-- **Quantity Available:** 7928
+- **Quantity Available:** 7811
 - **Options:**
   - Flavours: Iced Coffee
 
@@ -165,7 +165,7 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Price:** AUD 60.0
 - **Available:** Yes
-- **Quantity Available:** 9279
+- **Quantity Available:** 9216
 - **Options:**
   - Flavours: Rainbow Ice Cream
 
@@ -173,7 +173,7 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Price:** AUD 60.0
 - **Available:** Yes
-- **Quantity Available:** 7548
+- **Quantity Available:** 7342
 - **Options:**
   - Flavours: Salted Caramel
 
@@ -181,7 +181,7 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Price:** AUD 60.0
 - **Available:** Yes
-- **Quantity Available:** 8328
+- **Quantity Available:** 8197
 - **Options:**
   - Flavours: Choc Peanut Butter Cup
 
@@ -189,7 +189,7 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Price:** AUD 60.0
 - **Available:** Yes
-- **Quantity Available:** 9645
+- **Quantity Available:** 9611
 - **Options:**
   - Flavours: Fruity Cereal
 
@@ -197,7 +197,7 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Price:** AUD 60.0
 - **Available:** Yes
-- **Quantity Available:** 8568
+- **Quantity Available:** 8466
 - **Options:**
   - Flavours: Choc Hazelnut
 
@@ -205,7 +205,7 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Price:** AUD 60.0
 - **Available:** Yes
-- **Quantity Available:** 8767
+- **Quantity Available:** 8682
 - **Options:**
   - Flavours: Caramel White Milk
 
@@ -213,7 +213,7 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Price:** AUD 60.0
 - **Available:** Yes
-- **Quantity Available:** 8690
+- **Quantity Available:** 8578
 - **Options:**
   - Flavours: Choc Honeycomb
 
@@ -221,7 +221,7 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Price:** AUD 60.0
 - **Available:** Yes
-- **Quantity Available:** 7676
+- **Quantity Available:** 7529
 - **Options:**
   - Flavours: Dark Chocolate
 
@@ -229,7 +229,7 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Price:** AUD 60.0
 - **Available:** Yes
-- **Quantity Available:** 7811
+- **Quantity Available:** 7675
 - **Options:**
   - Flavours: Caramel Biscuit Shake
 
@@ -237,7 +237,7 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Price:** AUD 60.0
 - **Available:** Yes
-- **Quantity Available:** 9540
+- **Quantity Available:** 9513
 - **Options:**
   - Flavours: Birthday Cake
 
@@ -245,7 +245,7 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Price:** AUD 60.0
 - **Available:** Yes
-- **Quantity Available:** 191
+- **Quantity Available:** 100
 - **Options:**
   - Flavours: Choc Coconut
 
@@ -253,7 +253,7 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Price:** AUD 60.0
 - **Available:** Yes
-- **Quantity Available:** -234
+- **Quantity Available:** -338
 - **Options:**
   - Flavours: White Choc Raspberry
 
@@ -261,7 +261,7 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Price:** AUD 60.0
 - **Available:** Yes
-- **Quantity Available:** -394
+- **Quantity Available:** -486
 - **Options:**
   - Flavours: Rich Mocha
 
@@ -269,5 +269,5 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Product ID:** `gid://shopify/Product/4546979921975`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:03.594Z
+- **Generated:** 2025-08-19T12:11:56.634Z
 

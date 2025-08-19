@@ -1,6 +1,6 @@
 # [Pea Protein Isolate](https://vpa-australia.myshopify.com/products/pea-protein-isolate)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -44,9 +44,9 @@
 - **Product Type:** Protein Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** -1564
+- **Total Inventory:** -1646
 - **Created:** 6/2/2020
-- **Updated:** 8/8/2025
+- **Updated:** 8/19/2025
 
 **Tags:** foodtech_product_shopbyingredient: Pea Protein Isolate, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegan, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: muscle gain, vpa australia
 
@@ -60,14 +60,14 @@ Pea Protein Isolate Pea Protein Isolate. VPA’s Vegan, dairy free Pea Protein i
 
 ## Quantity Price Breaks
 
-**Raw Data:** `1:0;2:8.333333333333332;3:7.101851851851852;4:5.555555555555555`
+**VPA Bundles Data for Product ID:** 4546979135543
 
-| Quantity | Discount % | Discounted Price | Total Price |
-|----------|------------|------------------|-------------|
-| 1 | 0.00% | AUD 36.00 | AUD 36.00 |
-| 2 | 8.33% | AUD 33.00 | AUD 66.00 |
-| 3 | 7.10% | AUD 33.44 | AUD 100.33 |
-| 4 | 5.56% | AUD 34.00 | AUD 136.00 |
+| Quantity | Discount Amount | Unit Price | Total Price |
+|----------|----------------|------------|-------------|
+| 1 | AUD 0.00 | AUD 36.00 | AUD 36.00 |
+| 2 | AUD 0.06 | AUD 35.94 | AUD 71.88 |
+| 3 | AUD 0.08 | AUD 35.92 | AUD 107.77 |
+| 4 | AUD 0.08 | AUD 35.92 | AUD 143.68 |
 
 ## Product Variants
 
@@ -75,7 +75,7 @@ Pea Protein Isolate Pea Protein Isolate. VPA’s Vegan, dairy free Pea Protein i
 
 - **Price:** AUD 36.0
 - **Available:** Yes
-- **Quantity Available:** 634
+- **Quantity Available:** 601
 - **Options:**
   - Flavour: Chocolate
 
@@ -83,7 +83,7 @@ Pea Protein Isolate Pea Protein Isolate. VPA’s Vegan, dairy free Pea Protein i
 
 - **Price:** AUD 36.0
 - **Available:** Yes
-- **Quantity Available:** -2198
+- **Quantity Available:** -2247
 - **Options:**
   - Flavour: Natural
 
@@ -91,5 +91,5 @@ Pea Protein Isolate Pea Protein Isolate. VPA’s Vegan, dairy free Pea Protein i
 
 - **Product ID:** `gid://shopify/Product/4546979135543`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:03.277Z
+- **Generated:** 2025-08-19T12:11:56.024Z
 

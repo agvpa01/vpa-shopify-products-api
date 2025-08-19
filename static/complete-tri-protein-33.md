@@ -1,6 +1,6 @@
 # [Complete Tri-Protein](https://vpa-australia.myshopify.com/products/complete-tri-protein-33)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -72,9 +72,9 @@
 - **Product Type:** Protein Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** -11583
+- **Total Inventory:** -11820
 - **Created:** 6/2/2020
-- **Updated:** 8/10/2025
+- **Updated:** 8/19/2025
 
 **Tags:** foodtech_product_allergen: milk, foodtech_product_allergen: soy, foodtech_product_shopbyingredient: WPC, foodtech_product_shopbyingredient: WPI, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: general health, foodtech_product_shopybygoal: muscle gain, vpa australia
 
@@ -88,15 +88,15 @@ Complete Tri-Protein Complete Tri-Protein. With an even ratio of WPI, WPC and Mi
 
 ## Quantity Price Breaks
 
-**Raw Data:** `1:0;2:6.018518518518518;3:4.734567901234568;4:5.555555555555555;5:4.592592592592593`
+**VPA Bundles Data for Product ID:** 4546970746935
 
-| Quantity | Discount % | Discounted Price | Total Price |
-|----------|------------|------------------|-------------|
-| 1 | 0.00% | AUD 54.00 | AUD 54.00 |
-| 2 | 6.02% | AUD 50.75 | AUD 101.50 |
-| 3 | 4.73% | AUD 51.44 | AUD 154.33 |
-| 4 | 5.56% | AUD 51.00 | AUD 204.00 |
-| 5 | 4.59% | AUD 51.52 | AUD 257.60 |
+| Quantity | Discount Amount | Unit Price | Total Price |
+|----------|----------------|------------|-------------|
+| 1 | AUD 0.00 | AUD 54.00 | AUD 54.00 |
+| 2 | AUD 6.50 | AUD 47.50 | AUD 95.00 |
+| 3 | AUD 7.66 | AUD 46.34 | AUD 139.02 |
+| 4 | AUD 12.00 | AUD 42.00 | AUD 168.00 |
+| 5 | AUD 12.40 | AUD 41.60 | AUD 208.00 |
 
 ## Product Variants
 
@@ -104,7 +104,7 @@ Complete Tri-Protein Complete Tri-Protein. With an even ratio of WPI, WPC and Mi
 
 - **Price:** AUD 54.0
 - **Available:** Yes
-- **Quantity Available:** -5374
+- **Quantity Available:** -5431
 - **Options:**
   - Flavour: Chocolate
 
@@ -112,7 +112,7 @@ Complete Tri-Protein Complete Tri-Protein. With an even ratio of WPI, WPC and Mi
 
 - **Price:** AUD 54.0
 - **Available:** Yes
-- **Quantity Available:** -5367
+- **Quantity Available:** -5427
 - **Options:**
   - Flavour: Vanilla
 
@@ -120,7 +120,7 @@ Complete Tri-Protein Complete Tri-Protein. With an even ratio of WPI, WPC and Mi
 
 - **Price:** AUD 54.0
 - **Available:** Yes
-- **Quantity Available:** -2050
+- **Quantity Available:** -2070
 - **Options:**
   - Flavour: Banana
 
@@ -128,7 +128,7 @@ Complete Tri-Protein Complete Tri-Protein. With an even ratio of WPI, WPC and Mi
 
 - **Price:** AUD 54.0
 - **Available:** Yes
-- **Quantity Available:** 185
+- **Quantity Available:** 176
 - **Options:**
   - Flavour: Iced Coffee
 
@@ -136,7 +136,7 @@ Complete Tri-Protein Complete Tri-Protein. With an even ratio of WPI, WPC and Mi
 
 - **Price:** AUD 54.0
 - **Available:** Yes
-- **Quantity Available:** 1023
+- **Quantity Available:** 932
 - **Options:**
   - Flavour: Strawberry
 
@@ -144,5 +144,5 @@ Complete Tri-Protein Complete Tri-Protein. With an even ratio of WPI, WPC and Mi
 
 - **Product ID:** `gid://shopify/Product/4546970746935`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:48:59.850Z
+- **Generated:** 2025-08-19T12:11:51.131Z
 

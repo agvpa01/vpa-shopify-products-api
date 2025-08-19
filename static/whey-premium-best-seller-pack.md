@@ -1,6 +1,6 @@
 # [Whey Premium Best Seller Pack](https://vpa-australia.myshopify.com/products/whey-premium-best-seller-pack)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -48,5 +48,5 @@
 
 - **Product ID:** `gid://shopify/Product/7144688353335`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:25.438Z
+- **Generated:** 2025-08-19T12:12:29.179Z
 

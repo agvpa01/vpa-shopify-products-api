@@ -1,6 +1,6 @@
 # [Midnight Blue Shaker - 500mL](https://vpa-australia.myshopify.com/products/midnight-shaker-500ml)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -44,9 +44,9 @@
 - **Product Type:** Shakers
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 67
+- **Total Inventory:** 30
 - **Created:** 7/3/2024
-- **Updated:** 8/10/2025
+- **Updated:** 8/19/2025
 
 **Tags:** NEW
 
@@ -64,7 +64,7 @@ description Introducing our sleek and stylish Midnight Shaker! Crafted in a stri
 
 - **Price:** AUD 8.0
 - **Available:** Yes
-- **Quantity Available:** 67
+- **Quantity Available:** 30
 - **Options:**
   - Size: 500ML
 
@@ -72,5 +72,5 @@ description Introducing our sleek and stylish Midnight Shaker! Crafted in a stri
 
 - **Product ID:** `gid://shopify/Product/7123664109623`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:25.129Z
+- **Generated:** 2025-08-19T12:12:28.767Z
 

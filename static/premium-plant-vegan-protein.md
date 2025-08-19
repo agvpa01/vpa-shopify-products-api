@@ -1,6 +1,6 @@
 # [Premium Plant Vegan Protein](https://vpa-australia.myshopify.com/products/premium-plant-vegan-protein)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -86,9 +86,9 @@
 - **Product Type:** Protein Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 90885
+- **Total Inventory:** 90680
 - **Created:** 6/2/2020
-- **Updated:** 8/10/2025
+- **Updated:** 8/19/2025
 
 **Tags:** foodtech_product_shopbyingredient: Pea Protein Isolate, foodtech_product_shopbyingredient: Pumpkin protein, foodtech_product_shopbyingredient: Rice Protein, foodtech_product_shopbyingredient: Sacha Inchi, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegan, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: muscle gain, vpa australia
 
@@ -102,13 +102,13 @@ Premium Plant Vegan Protein Premium Plant Vegan Protein. For vegans, one of the 
 
 ## Quantity Price Breaks
 
-**Raw Data:** `1:0;2:3.431372549019608;3:3.0457516339869284`
+**VPA Bundles Data for Product ID:** 4546992832567
 
-| Quantity | Discount % | Discounted Price | Total Price |
-|----------|------------|------------------|-------------|
-| 1 | 0.00% | AUD 51.00 | AUD 51.00 |
-| 2 | 3.43% | AUD 49.25 | AUD 98.50 |
-| 3 | 3.05% | AUD 49.45 | AUD 148.34 |
+| Quantity | Discount Amount | Unit Price | Total Price |
+|----------|----------------|------------|-------------|
+| 1 | AUD 0.00 | AUD 51.00 | AUD 51.00 |
+| 2 | AUD 3.50 | AUD 47.50 | AUD 95.00 |
+| 3 | AUD 4.66 | AUD 46.34 | AUD 139.02 |
 
 ## Product Variants
 
@@ -116,7 +116,7 @@ Premium Plant Vegan Protein Premium Plant Vegan Protein. For vegans, one of the 
 
 - **Price:** AUD 51.0
 - **Available:** Yes
-- **Quantity Available:** 17634
+- **Quantity Available:** 17576
 - **Options:**
   - Flavour: Chocolate
 
@@ -124,7 +124,7 @@ Premium Plant Vegan Protein Premium Plant Vegan Protein. For vegans, one of the 
 
 - **Price:** AUD 51.0
 - **Available:** Yes
-- **Quantity Available:** 18000
+- **Quantity Available:** 17959
 - **Options:**
   - Flavour: Salted Caramel
 
@@ -132,7 +132,7 @@ Premium Plant Vegan Protein Premium Plant Vegan Protein. For vegans, one of the 
 
 - **Price:** AUD 51.0
 - **Available:** Yes
-- **Quantity Available:** 16871
+- **Quantity Available:** 16796
 - **Options:**
   - Flavour: Vanilla
 
@@ -140,7 +140,7 @@ Premium Plant Vegan Protein Premium Plant Vegan Protein. For vegans, one of the 
 
 - **Price:** AUD 51.0
 - **Available:** Yes
-- **Quantity Available:** 19281
+- **Quantity Available:** 19263
 - **Options:**
   - Flavour: Choc Caramel
 
@@ -148,7 +148,7 @@ Premium Plant Vegan Protein Premium Plant Vegan Protein. For vegans, one of the 
 
 - **Price:** AUD 51.0
 - **Available:** Yes
-- **Quantity Available:** 19102
+- **Quantity Available:** 19089
 - **Options:**
   - Flavour: Banana
 
@@ -164,5 +164,5 @@ Premium Plant Vegan Protein Premium Plant Vegan Protein. For vegans, one of the 
 
 - **Product ID:** `gid://shopify/Product/4546992832567`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:08.633Z
+- **Generated:** 2025-08-19T12:12:03.726Z
 

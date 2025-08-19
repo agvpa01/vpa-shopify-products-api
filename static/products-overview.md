@@ -1,10 +1,10 @@
 # All Products by Pages
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 **Products per Page:** 5
 
-**Total Pages:** 20
+**Total Pages:** 19
 
 ---
 
@@ -53,7 +53,7 @@
 26. [Premium Whey (WPC)](https://www.vpa.com.au/products/premium-whey-wpc)
 27. [Gold Coast Stim Pre-workout](https://www.vpa.com.au/products/gold-coast-stim-pre-workout)
 28. [Premium Plant Vegan Protein](https://www.vpa.com.au/products/premium-plant-vegan-protein)
-29. [Summer FOMO™ - Thermogenic Formula](https://www.vpa.com.au/products/summer-fomo)
+29. [Summer FOMO - Thermogenic Formula](https://www.vpa.com.au/products/summer-fomo)
 30. [Premium Whey (WPC) Sample Pack](https://www.vpa.com.au/products/premium-whey-wpc-sample-pack-14-samples)
 
 ## [Page 7](/api/products/markdown/7)
@@ -134,48 +134,43 @@
 77. [Shelf Wobbler](https://vpa-australia.myshopify.com/products/shelf-wobbler)
 78. [Norths Devils Shaker - 500ml](https://www.vpa.com.au/products/north-devils-shaker-500ml)
 79. [UQ Ruby Red Heavies Shaker - 500ml](https://www.vpa.com.au/products/uq-ruby-red-heavies-shaker-500ml)
-80. [Meg's Hybrid Plant Based Stack](https://www.vpa.com.au/products/megs-hybrid-plant-based-stack)
+80. [Hybrid Athlete Stack](https://www.vpa.com.au/products/hybrid-athlete-stack)
 
 ## [Page 17](/api/products/markdown/17)
 
-81. [Meg's Hybrid Stack](https://www.vpa.com.au/products/megs-hybrid-stack)
-82. [Midnight Blue Shaker - 500mL](https://www.vpa.com.au/products/midnight-shaker-500ml)
-83. [Whey Premium Best Seller Pack](https://www.vpa.com.au/products/whey-premium-best-seller-pack)
-84. [Whey Isolate Best Seller Pack](https://www.vpa.com.au/products/whey-isolate-best-seller-pack)
-85. [1L SS Insulated Drink Bottle](https://www.vpa.com.au/products/1l-insulated-drink-bottle-2)
+81. [Midnight Blue Shaker - 500mL](https://www.vpa.com.au/products/midnight-shaker-500ml)
+82. [Whey Premium Best Seller Pack](https://www.vpa.com.au/products/whey-premium-best-seller-pack)
+83. [Whey Isolate Best Seller Pack](https://www.vpa.com.au/products/whey-isolate-best-seller-pack)
+84. [Running Cap](https://www.vpa.com.au/products/running-cap)
+85. [[Batch-tested] Muscle Gainer](https://www.vpa.com.au/products/batch-tested-muscle-gainer)
 
 ## [Page 18](/api/products/markdown/18)
 
-86. [Running Cap](https://www.vpa.com.au/products/running-cap)
-87. [[Batch-tested] Muscle Gainer](https://www.vpa.com.au/products/batch-tested-muscle-gainer)
-88. [[Batch-tested] Gold Coast Stim Pre-workout](https://www.vpa.com.au/products/batch-tested-gold-coast-stim-pre-workout)
-89. [Batch-Tested Whey Protein Isolate](https://www.vpa.com.au/products/batch-tested-whey-protein-isolate-protein-powder)
-90. [[Batch-tested] Venom - High Stim Preworkout](https://www.vpa.com.au/products/batch-tested-venom-high-stim-preworkout)
+86. [[Batch-tested] Gold Coast Stim Pre-workout](https://www.vpa.com.au/products/batch-tested-gold-coast-stim-pre-workout)
+87. [Batch-Tested Whey Protein Isolate](https://www.vpa.com.au/products/batch-tested-whey-protein-isolate-protein-powder)
+88. [[Batch-tested] Venom - High Stim Preworkout](https://www.vpa.com.au/products/batch-tested-venom-high-stim-preworkout)
+89. [[Batch-tested] Creatine Monohydrate](https://www.vpa.com.au/products/batch-tested-creatine-monohydrate)
+90. [[Batch-tested] Collagen Pro® - Protein Powder](https://www.vpa.com.au/products/batch-tested-collagen-pro-r-protein-powder)
 
 ## [Page 19](/api/products/markdown/19)
 
-91. [[Batch-tested] Creatine Monohydrate](https://www.vpa.com.au/products/batch-tested-creatine-monohydrate)
-92. [[Batch-tested] Collagen Pro® - Protein Powder](https://www.vpa.com.au/products/batch-tested-collagen-pro-r-protein-powder)
-93. [[Batch-tested] BUSSIN INTRA (Flavoured BCAA)](https://www.vpa.com.au/products/batch-tested-bussin-intra-flavoured-bcaa)
-94. [Insulated Sport Water Bottle - 610mL](https://www.vpa.com.au/products/insulated-sport-water-bottle-610ml)
-95. [Pump House - Workout Rave](https://www.vpa.com.au/products/pump-house-workout-rave)
-
-## [Page 20](/api/products/markdown/20)
-
-96. [VPA PUSH BEYOND LIMITS - HYROX THROWN DOWN](https://www.vpa.com.au/products/vpa-push-beyond-limits-hyrox-thrown-down)
+91. [[Batch-tested] BUSSIN INTRA (Flavoured BCAA)](https://www.vpa.com.au/products/batch-tested-bussin-intra-flavoured-bcaa)
+92. [Insulated Sport Water Bottle - 610mL](https://www.vpa.com.au/products/insulated-sport-water-bottle-610ml)
+93. [Pump House - Workout Rave](https://www.vpa.com.au/products/pump-house-workout-rave)
+94. [VPA PUSH BEYOND LIMITS - HYROX THROWN DOWN](https://www.vpa.com.au/products/vpa-push-beyond-limits-hyrox-thrown-down)
 
 ---
 
 ## Quick Navigation
 
-[Page 1](/api/products/markdown/1) | [Page 2](/api/products/markdown/2) | [Page 3](/api/products/markdown/3) | [Page 4](/api/products/markdown/4) | [Page 5](/api/products/markdown/5) | [Page 6](/api/products/markdown/6) | [Page 7](/api/products/markdown/7) | [Page 8](/api/products/markdown/8) | [Page 9](/api/products/markdown/9) | [Page 10](/api/products/markdown/10) | ... | [Page 20](/api/products/markdown/20)
+[Page 1](/api/products/markdown/1) | [Page 2](/api/products/markdown/2) | [Page 3](/api/products/markdown/3) | [Page 4](/api/products/markdown/4) | [Page 5](/api/products/markdown/5) | [Page 6](/api/products/markdown/6) | [Page 7](/api/products/markdown/7) | [Page 8](/api/products/markdown/8) | [Page 9](/api/products/markdown/9) | [Page 10](/api/products/markdown/10) | ... | [Page 19](/api/products/markdown/19)
 
 ## Technical Information
 
-- **Total Products:** 96
+- **Total Products:** 94
 - **Products per Page:** 5
-- **Total Pages:** 20
-- **Products Fetched:** 96
+- **Total Pages:** 19
+- **Products Fetched:** 94
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:30.499Z
+- **Generated:** 2025-08-19T12:12:35.152Z
 

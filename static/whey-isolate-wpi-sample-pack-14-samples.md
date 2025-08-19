@@ -1,6 +1,6 @@
 # [Whey Isolate (WPI) Sample Pack](https://vpa-australia.myshopify.com/products/whey-isolate-wpi-sample-pack-14-samples)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -23,9 +23,9 @@
 - **Product Type:** Protein Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 141
+- **Total Inventory:** 108
 - **Created:** 6/2/2020
-- **Updated:** 8/10/2025
+- **Updated:** 8/19/2025
 
 **Tags:** dispatch_only_Brisbane, foodtech_product_allergen: milk, foodtech_product_allergen: soy, foodtech_product_shopbyingredient: WPI, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: muscle gain, vpa australia
 
@@ -43,7 +43,7 @@ Whey Isolate (WPI) NOT SURE ABOUT A WPI FLAVOUR?Well, now you can sample them to
 
 - **Price:** AUD 32.0
 - **Available:** Yes
-- **Quantity Available:** 141
+- **Quantity Available:** 108
 - **Options:**
   - Title: Default Title
 
@@ -51,5 +51,5 @@ Whey Isolate (WPI) NOT SURE ABOUT A WPI FLAVOUR?Well, now you can sample them to
 
 - **Product ID:** `gid://shopify/Product/4546997026871`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:09.548Z
+- **Generated:** 2025-08-19T12:12:05.588Z
 

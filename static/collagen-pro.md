@@ -1,6 +1,6 @@
 # [Collagen Pro® - Prebiotic Collagen Protein Powder](https://vpa-australia.myshopify.com/products/collagen-pro)
 
-**Total Products in Store:** 96
+**Total Products in Store:** 94
 
 ## SEO Information
 
@@ -44,9 +44,9 @@
 - **Product Type:** Health Supplement
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 10916
+- **Total Inventory:** 10786
 - **Created:** 6/2/2020
-- **Updated:** 8/10/2025
+- **Updated:** 8/19/2025
 
 **Tags:** foodtech_product_shopbyingredient: Collagen Hydrolysate, foodtech_product_shopbyingredient: Inulin, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybygoal: general health, foodtech_product_shopybygoal: muscle gain, vpa australia
 
@@ -60,12 +60,12 @@ What is VPA's Collagen Protein Powder? Collagen Hydrolysate is a unique combinat
 
 ## Quantity Price Breaks
 
-**Raw Data:** `1:0;2:6`
+**VPA Bundles Data for Product ID:** 4546998403127
 
-| Quantity | Discount % | Discounted Price | Total Price |
-|----------|------------|------------------|-------------|
-| 1 | 0.00% | AUD 39.00 | AUD 39.00 |
-| 2 | 6.00% | AUD 36.66 | AUD 73.32 |
+| Quantity | Discount Amount | Unit Price | Total Price |
+|----------|----------------|------------|-------------|
+| 1 | AUD 0.00 | AUD 39.00 | AUD 39.00 |
+| 2 | AUD 6.00 | AUD 33.00 | AUD 66.00 |
 
 ## Product Variants
 
@@ -73,7 +73,7 @@ What is VPA's Collagen Protein Powder? Collagen Hydrolysate is a unique combinat
 
 - **Price:** AUD 39.0
 - **Available:** Yes
-- **Quantity Available:** 10916
+- **Quantity Available:** 10786
 - **Options:**
   - Size: 220g (15 Servings)
 
@@ -81,5 +81,5 @@ What is VPA's Collagen Protein Powder? Collagen Hydrolysate is a unique combinat
 
 - **Product ID:** `gid://shopify/Product/4546998403127`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-10T15:49:09.965Z
+- **Generated:** 2025-08-19T12:12:06.038Z
 

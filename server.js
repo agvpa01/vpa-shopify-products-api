@@ -94,26 +94,33 @@ async function cleanseContentWithChatGPT(content) {
 async function fetchVPABundles(productId) {
   try {
     // Extract numeric ID from Shopify GID format (gid://shopify/Product/ID)
-    const numericId = productId.split('/').pop();
-    
+    const numericId = productId.split("/").pop();
+
     const bundlesApiUrl = `https://bundles.vpa.com.au/api/bundles/product/${numericId}?api_token=rhmjKLGodhlpTolmNBVTH45GHJKLyujhGFRhgstJK`;
-    
+
     console.log(`Fetching VPA bundles for product ID: ${numericId}`);
-    
+
     const response = await axios.get(bundlesApiUrl, {
       timeout: 10000, // 10 second timeout
       headers: {
-        'User-Agent': 'VPA-Shopify-API/1.0'
-      }
+        "User-Agent": "VPA-Shopify-API/1.0",
+      },
     });
-    
-    if (response.data && response.data.product && response.data.product.bundles) {
+
+    if (
+      response.data &&
+      response.data.product &&
+      response.data.product.bundles
+    ) {
       return response.data.product;
     }
-    
+
     return null;
   } catch (error) {
-    console.error(`Error fetching VPA bundles for product ${productId}:`, error.message);
+    console.error(
+      `Error fetching VPA bundles for product ${productId}:`,
+      error.message
+    );
     return null;
   }
 }
@@ -412,8 +419,9 @@ app.get("/api/products", async (req, res) => {
     const products = response.data.data.products.edges.map((edge) => {
       // Check for HASTA keywords - only for products that are actually batch-tested
       // Look for "batch-tested" or "[Batch-tested]" in the product title (not description)
-      const isBatchTested = (edge.node.title || "").toLowerCase().includes("batch-tested") ||
-                           (edge.node.title || "").toLowerCase().includes("[batch-tested]");
+      const isBatchTested =
+        (edge.node.title || "").toLowerCase().includes("batch-tested") ||
+        (edge.node.title || "").toLowerCase().includes("[batch-tested]");
 
       const hasHastaKeywords = isBatchTested;
 
@@ -469,7 +477,7 @@ app.get("/api/products/simple", async (req, res) => {
     let iterations = 0;
     const maxIterations = 20; // Prevent infinite loops
 
-    // Simple GraphQL query for minimal product data
+    // Simple GraphQL query for minimal product data with variants
     const SIMPLE_PRODUCTS_QUERY = `
       query getProducts($first: Int!, $after: String) {
         products(first: $first, after: $after, query: "status:active") {
@@ -479,6 +487,18 @@ app.get("/api/products/simple", async (req, res) => {
               title
               productType
               onlineStoreUrl
+              variants(first: 10) {
+                edges {
+                  node {
+                    id
+                    title
+                    image {
+                      id
+                      url
+                    }
+                  }
+                }
+              }
             }
             cursor
           }
@@ -518,22 +538,38 @@ app.get("/api/products/simple", async (req, res) => {
       }
 
       const products = response.data.data.products;
-      
+
       // Map products to include only the required fields and filter out empty slugs
       const simplifiedProducts = products.edges
         .map((edge) => {
           // Extract product slug from onlineStoreUrl (last segment after final slash)
-          const productSlug = edge.node.onlineStoreUrl ? 
-            edge.node.onlineStoreUrl.split('/').pop() : '';
-          
+          const productSlug = edge.node.onlineStoreUrl
+            ? edge.node.onlineStoreUrl.split("/").pop()
+            : "";
+
+          // Map variants to include title and image
+          const variants = edge.node.variants.edges.map((variantEdge) => ({
+            title: variantEdge.node.title,
+            imageUrl: variantEdge.node.image
+              ? variantEdge.node.image.url
+              : null,
+            imageAlt: variantEdge.node.image
+              ? variantEdge.node.image.altText
+              : null,
+          }));
+
           return {
             title: edge.node.title,
             productType: edge.node.productType,
             onlineStoreUrl: productSlug,
+            variants: variants,
           };
         })
-        .filter((product) => product.onlineStoreUrl && product.onlineStoreUrl.trim() !== '');
-      
+        .filter(
+          (product) =>
+            product.onlineStoreUrl && product.onlineStoreUrl.trim() !== ""
+        );
+
       allProducts = allProducts.concat(simplifiedProducts);
       hasNextPage = products.pageInfo.hasNextPage;
       cursor =
@@ -817,8 +853,9 @@ app.get("/api/products/:handle", async (req, res) => {
 
     // Check for HASTA keywords - only for products that are actually batch-tested
     // Look for "batch-tested" or "[Batch-tested]" in the product title (not description)
-    const isBatchTested = (product.title || "").toLowerCase().includes("batch-tested") ||
-                         (product.title || "").toLowerCase().includes("[batch-tested]");
+    const isBatchTested =
+      (product.title || "").toLowerCase().includes("batch-tested") ||
+      (product.title || "").toLowerCase().includes("[batch-tested]");
 
     const hasHastaKeywords = isBatchTested;
 
@@ -1063,11 +1100,12 @@ app.get("/api/products/markdown/:page", async (req, res) => {
     // Process each product
     products.forEach((product, index) => {
       // Check for HASTA keywords - only for products that are actually batch-tested
-// Look for "batch-tested" or "[Batch-tested]" in the product title (not description)
-const isBatchTested = (product.title || "").toLowerCase().includes("batch-tested") ||
-                     (product.title || "").toLowerCase().includes("[batch-tested]");
+      // Look for "batch-tested" or "[Batch-tested]" in the product title (not description)
+      const isBatchTested =
+        (product.title || "").toLowerCase().includes("batch-tested") ||
+        (product.title || "").toLowerCase().includes("[batch-tested]");
 
-const hasHastaKeywords = isBatchTested;
+      const hasHastaKeywords = isBatchTested;
 
       const productType = hasHastaKeywords ? "HASTA" : null;
 
@@ -1713,8 +1751,9 @@ app.get("/api/products/:handle/markdown", async (req, res) => {
 
     // Check if product has HASTA keywords - only for products that are actually batch-tested
     // Look for "batch-tested" or "[Batch-tested]" in the product title (not description)
-    const isBatchTested = (product.title || "").toLowerCase().includes("batch-tested") ||
-                         (product.title || "").toLowerCase().includes("[batch-tested]");
+    const isBatchTested =
+      (product.title || "").toLowerCase().includes("batch-tested") ||
+      (product.title || "").toLowerCase().includes("[batch-tested]");
 
     const productType = isBatchTested ? "HASTA" : null;
 
@@ -1802,7 +1841,7 @@ app.get("/api/products/:handle/markdown", async (req, res) => {
     if (vpaBundles && vpaBundles.bundles && vpaBundles.bundles.length > 0) {
       markdown += `## Quantity Price Breaks\n\n`;
       markdown += `**VPA Bundles Data for Product ID:** ${vpaBundles.id}\n\n`;
-      
+
       markdown += `| Quantity | Discount Amount | Unit Price | Total Price |\n`;
       markdown += `|----------|----------------|------------|-------------|\n`;
 
@@ -1812,17 +1851,21 @@ app.get("/api/products/:handle/markdown", async (req, res) => {
       vpaBundles.bundles.forEach((bundle) => {
         const quantity = bundle.quantity;
         let discountAmount = bundle.discount;
-        
+
         // Convert discount to decimal (last two digits as decimals) unless discount is 0
         if (discountAmount !== 0) {
           discountAmount = discountAmount / 100;
         }
-        
-        // Calculate discounted price using formula: price - discount = unit_discounted_price
-         const discountedPrice = basePrice - discountAmount;
-         const totalPrice = quantity * discountedPrice;
 
-        markdown += `| ${quantity} | ${currencyCode} ${discountAmount.toFixed(2)} | ${currencyCode} ${discountedPrice.toFixed(2)} | ${currencyCode} ${totalPrice.toFixed(2)} |\n`;
+        // Calculate discounted price using formula: price - discount = unit_discounted_price
+        const discountedPrice = basePrice - discountAmount;
+        const totalPrice = quantity * discountedPrice;
+
+        markdown += `| ${quantity} | ${currencyCode} ${discountAmount.toFixed(
+          2
+        )} | ${currencyCode} ${discountedPrice.toFixed(
+          2
+        )} | ${currencyCode} ${totalPrice.toFixed(2)} |\n`;
       });
       markdown += `\n`;
     } else {
@@ -1837,7 +1880,9 @@ app.get("/api/products/:handle/markdown", async (req, res) => {
           markdown += `| Quantity | Discount % | Discounted Price | Total Price |\n`;
           markdown += `|----------|------------|------------------|-------------|\n`;
 
-          const basePrice = parseFloat(product.priceRange.minVariantPrice.amount);
+          const basePrice = parseFloat(
+            product.priceRange.minVariantPrice.amount
+          );
 
           priceBreaksData.forEach((priceBreak) => {
             const parts = priceBreak.split(":");
@@ -2235,7 +2280,7 @@ app.get("/api/generate-static", async (req, res) => {
     let iterations = 0;
     const maxIterations = 20; // Prevent infinite loops
 
-    console.log('Fetching all products for individual file generation...');
+    console.log("Fetching all products for individual file generation...");
 
     while (hasNextPage && iterations < maxIterations) {
       const PRODUCTS_QUERY = `
@@ -2274,19 +2319,23 @@ app.get("/api/generate-static", async (req, res) => {
       );
 
       if (response.data.errors) {
-        throw new Error(`GraphQL errors: ${JSON.stringify(response.data.errors)}`);
+        throw new Error(
+          `GraphQL errors: ${JSON.stringify(response.data.errors)}`
+        );
       }
 
       const products = response.data.data.products.edges;
-      allProducts.push(...products.map(edge => edge.node));
-      
+      allProducts.push(...products.map((edge) => edge.node));
+
       hasNextPage = response.data.data.products.pageInfo.hasNextPage;
       if (hasNextPage && products.length > 0) {
         cursor = products[products.length - 1].cursor;
       }
-      
+
       iterations++;
-      console.log(`Fetched ${products.length} products (batch ${iterations}), total so far: ${allProducts.length}`);
+      console.log(
+        `Fetched ${products.length} products (batch ${iterations}), total so far: ${allProducts.length}`
+      );
     }
 
     console.log(`Total products fetched: ${allProducts.length}`);
@@ -2295,8 +2344,10 @@ app.get("/api/generate-static", async (req, res) => {
     for (let i = 0; i < allProducts.length; i++) {
       const product = allProducts[i];
       try {
-        console.log(`Generating file ${i + 1}/${allProducts.length}: ${product.handle}`);
-        
+        console.log(
+          `Generating file ${i + 1}/${allProducts.length}: ${product.handle}`
+        );
+
         // Make internal request to the individual product markdown endpoint
         const response = await axios.get(
           `http://localhost:${PORT}/api/products/${product.handle}/markdown`
@@ -2316,7 +2367,10 @@ app.get("/api/generate-static", async (req, res) => {
           size: Buffer.byteLength(response.data, "utf8"),
         });
       } catch (error) {
-        console.error(`Error generating file for ${product.handle}:`, error.message);
+        console.error(
+          `Error generating file for ${product.handle}:`,
+          error.message
+        );
         errors.push({
           handle: product.handle,
           title: product.title,
@@ -2375,12 +2429,13 @@ app.get("/api/generate-static", async (req, res) => {
         .filter((f) => f.handle !== "overview")
         .slice(0, 10) // Show first 10 as examples
         .map(
-          (file) =>
-            `- [${file.title}](/api/products/${file.handle}/markdown)\n`
+          (file) => `- [${file.title}](/api/products/${file.handle}/markdown)\n`
         )
         .join("") +
-      (generatedFiles.filter((f) => f.handle !== "overview").length > 10 
-        ? `\n*... and ${generatedFiles.filter((f) => f.handle !== "overview").length - 10} more individual product endpoints*\n`
+      (generatedFiles.filter((f) => f.handle !== "overview").length > 10
+        ? `\n*... and ${
+            generatedFiles.filter((f) => f.handle !== "overview").length - 10
+          } more individual product endpoints*\n`
         : "");
 
     const indexFilepath = path.join(staticDir, "index.md");
@@ -2393,7 +2448,8 @@ app.get("/api/generate-static", async (req, res) => {
 
     res.json({
       success: true,
-      message: "Static markdown files generated successfully (one product per file)",
+      message:
+        "Static markdown files generated successfully (one product per file)",
       data: {
         totalProductCount: totalProductCount,
         totalProductsProcessed: allProducts.length,

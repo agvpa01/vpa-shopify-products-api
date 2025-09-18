@@ -6,7 +6,6 @@ const path = require("path");
 const TurndownService = require("turndown");
 const OpenAI = require("openai");
 const cheerio = require("cheerio");
-const { JSDOM } = require("jsdom");
 require("dotenv").config();
 
 const app = express();
@@ -22,10 +21,30 @@ const SHOPIFY_STORE_DOMAIN =
   process.env.SHOPIFY_STORE_DOMAIN || "example.myshopify.com";
 const STOREFRONT_API_URL = `https://${SHOPIFY_STORE_DOMAIN}/api/2023-10/graphql.json`;
 
-// Initialize OpenAI client
-const openai = new OpenAI({
-  apiKey: process.env.OPENAI_API_KEY,
-});
+// Simple in-memory cache (TTL-based) for counts to reduce repeated pagination
+const cache = {
+  totalProducts: { value: null, expiresAt: 0 },
+};
+
+// Helper to call Shopify GraphQL with sane defaults
+async function shopifyGraphQL(query, variables = {}, timeoutMs = 15000) {
+  return axios.post(
+    STOREFRONT_API_URL,
+    { query, variables },
+    {
+      headers: {
+        "Content-Type": "application/json",
+        "X-Shopify-Storefront-Access-Token": SHOPIFY_STOREFRONT_TOKEN,
+      },
+      timeout: timeoutMs,
+    }
+  );
+}
+
+// Initialize OpenAI client (optional)
+const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
+const ENABLE_AI_CLEANSE = String(process.env.ENABLE_AI_CLEANSE || "true").toLowerCase() !== "false";
+const openai = OPENAI_API_KEY ? new OpenAI({ apiKey: OPENAI_API_KEY }) : null;
 
 // Initialize Turndown service for HTML to Markdown conversion
 const turndownService = new TurndownService({
@@ -36,7 +55,7 @@ const turndownService = new TurndownService({
 // Helper function to extract images from HTML content
 function extractImagesFromHtml(html) {
   const images = [];
-  const imgRegex = /<img[^>]+src="([^"]+)"[^>]*(?:alt="([^"]*)")[^>]*>/gi;
+  const imgRegex = /<img[^>]+src="([^"]+)"[^>]*(?:alt="([^"]*)")?[^>]*>/gi;
   let match;
 
   while ((match = imgRegex.exec(html)) !== null) {
@@ -55,6 +74,11 @@ async function cleanseContentWithChatGPT(content) {
   try {
     if (!content || content.trim().length === 0) {
       return "";
+    }
+
+    // If OpenAI is not configured or disabled, fallback immediately
+    if (!openai || !ENABLE_AI_CLEANSE) {
+      return turndownService.turndown(content).trim();
     }
 
     // Truncate content to fit within token limits (approximately 4 chars per token)
@@ -360,13 +384,6 @@ const PRODUCTS_QUERY = `
                   width
                   height
                 }
-                image {
-                  id
-                  url
-                  altText
-                  width
-                  height
-                }
               }
             }
           }
@@ -395,19 +412,7 @@ app.get("/api/products", async (req, res) => {
       variables.after = cursor;
     }
 
-    const response = await axios.post(
-      STOREFRONT_API_URL,
-      {
-        query: PRODUCTS_QUERY,
-        variables: variables,
-      },
-      {
-        headers: {
-          "Content-Type": "application/json",
-          "X-Shopify-Storefront-Access-Token": SHOPIFY_STOREFRONT_TOKEN,
-        },
-      }
-    );
+    const response = await shopifyGraphQL(PRODUCTS_QUERY, variables);
 
     if (response.data.errors) {
       return res.status(400).json({
@@ -495,6 +500,7 @@ app.get("/api/products/simple", async (req, res) => {
                     image {
                       id
                       url
+                      altText
                     }
                   }
                 }
@@ -516,19 +522,7 @@ app.get("/api/products/simple", async (req, res) => {
         ...(cursor && { after: cursor }),
       };
 
-      const response = await axios.post(
-        STOREFRONT_API_URL,
-        {
-          query: SIMPLE_PRODUCTS_QUERY,
-          variables,
-        },
-        {
-          headers: {
-            "Content-Type": "application/json",
-            "X-Shopify-Storefront-Access-Token": SHOPIFY_STOREFRONT_TOKEN,
-          },
-        }
-      );
+      const response = await shopifyGraphQL(SIMPLE_PRODUCTS_QUERY, variables);
 
       if (response.data.errors) {
         return res.status(400).json({
@@ -636,19 +630,7 @@ app.get("/api/products/pages", async (req, res) => {
         ...(cursor && { after: cursor }),
       };
 
-      const response = await axios.post(
-        STOREFRONT_API_URL,
-        {
-          query: PRODUCTS_QUERY,
-          variables,
-        },
-        {
-          headers: {
-            "Content-Type": "application/json",
-            "X-Shopify-Storefront-Access-Token": SHOPIFY_STOREFRONT_TOKEN,
-          },
-        }
-      );
+      const response = await shopifyGraphQL(PRODUCTS_QUERY, variables);
 
       if (response.data.errors) {
         return res.status(400).json({
@@ -821,19 +803,7 @@ app.get("/api/products/:handle", async (req, res) => {
       }
     `;
 
-    const response = await axios.post(
-      STOREFRONT_API_URL,
-      {
-        query: SINGLE_PRODUCT_QUERY,
-        variables: { handle },
-      },
-      {
-        headers: {
-          "Content-Type": "application/json",
-          "X-Shopify-Storefront-Access-Token": SHOPIFY_STOREFRONT_TOKEN,
-        },
-      }
-    );
+    const response = await shopifyGraphQL(SINGLE_PRODUCT_QUERY, { handle });
 
     if (response.data.errors) {
       return res.status(400).json({
@@ -1050,19 +1020,7 @@ app.get("/api/products/markdown/:page", async (req, res) => {
       ...(cursor && { after: cursor }),
     };
 
-    const response = await axios.post(
-      STOREFRONT_API_URL,
-      {
-        query: PRODUCTS_QUERY,
-        variables,
-      },
-      {
-        headers: {
-          "Content-Type": "application/json",
-          "X-Shopify-Storefront-Access-Token": SHOPIFY_STOREFRONT_TOKEN,
-        },
-      }
-    );
+    const response = await shopifyGraphQL(PRODUCTS_QUERY, variables);
 
     if (response.data.errors) {
       return res.status(400).json({
@@ -1332,18 +1290,13 @@ async function getTotalProductCount() {
       }
     `;
 
-    const response = await axios.post(
-      STOREFRONT_API_URL,
-      {
-        query: ESTIMATE_QUERY,
-      },
-      {
-        headers: {
-          "Content-Type": "application/json",
-          "X-Shopify-Storefront-Access-Token": SHOPIFY_STOREFRONT_TOKEN,
-        },
-      }
-    );
+    // Use cache if available and fresh (5 minutes TTL)
+    const now = Date.now();
+    if (cache.totalProducts.value !== null && cache.totalProducts.expiresAt > now) {
+      return cache.totalProducts.value;
+    }
+
+    const response = await shopifyGraphQL(ESTIMATE_QUERY);
 
     if (response.data.errors) {
       console.error("Error fetching product count:", response.data.errors);
@@ -1379,19 +1332,7 @@ async function getTotalProductCount() {
           }
         `;
 
-        const paginatedResponse = await axios.post(
-          STOREFRONT_API_URL,
-          {
-            query: PAGINATED_QUERY,
-            variables: { after: cursor },
-          },
-          {
-            headers: {
-              "Content-Type": "application/json",
-              "X-Shopify-Storefront-Access-Token": SHOPIFY_STOREFRONT_TOKEN,
-            },
-          }
-        );
+        const paginatedResponse = await shopifyGraphQL(PAGINATED_QUERY, { after: cursor });
 
         if (paginatedResponse.data.errors) {
           console.error("Error in pagination:", paginatedResponse.data.errors);
@@ -1412,7 +1353,9 @@ async function getTotalProductCount() {
       }
     }
 
-    return totalCount.toString();
+    const finalCount = totalCount.toString();
+    cache.totalProducts = { value: finalCount, expiresAt: Date.now() + 5 * 60 * 1000 };
+    return finalCount;
   } catch (error) {
     console.error("Error fetching total product count:", error.message);
     return "Unknown";
@@ -1458,19 +1401,7 @@ async function getTotalBlogCounts() {
         ...(cursor && { after: cursor }),
       };
 
-      const response = await axios.post(
-        STOREFRONT_API_URL,
-        {
-          query: BLOGS_COUNT_QUERY,
-          variables,
-        },
-        {
-          headers: {
-            "Content-Type": "application/json",
-            "X-Shopify-Storefront-Access-Token": SHOPIFY_STOREFRONT_TOKEN,
-          },
-        }
-      );
+      const response = await shopifyGraphQL(BLOGS_COUNT_QUERY, variables);
 
       if (response.data.errors) {
         throw new Error(JSON.stringify(response.data.errors));
@@ -1557,19 +1488,7 @@ async function getAllBlogsWithArticles() {
         ...(cursor && { after: cursor }),
       };
 
-      const response = await axios.post(
-        STOREFRONT_API_URL,
-        {
-          query: ALL_BLOGS_QUERY,
-          variables,
-        },
-        {
-          headers: {
-            "Content-Type": "application/json",
-            "X-Shopify-Storefront-Access-Token": SHOPIFY_STOREFRONT_TOKEN,
-          },
-        }
-      );
+      const response = await shopifyGraphQL(ALL_BLOGS_QUERY, variables);
 
       if (response.data.errors) {
         throw new Error(JSON.stringify(response.data.errors));
@@ -1976,19 +1895,7 @@ app.get("/api/pages", async (req, res) => {
       ...(cursor && { after: cursor }),
     };
 
-    const response = await axios.post(
-      STOREFRONT_API_URL,
-      {
-        query: PAGES_QUERY,
-        variables,
-      },
-      {
-        headers: {
-          "Content-Type": "application/json",
-          "X-Shopify-Storefront-Access-Token": SHOPIFY_STOREFRONT_TOKEN,
-        },
-      }
-    );
+    const response = await shopifyGraphQL(PAGES_QUERY, variables);
 
     if (response.data.errors) {
       return res.status(400).json({
@@ -2031,19 +1938,7 @@ app.get("/api/pages/:handle", async (req, res) => {
   try {
     const { handle } = req.params;
 
-    const response = await axios.post(
-      STOREFRONT_API_URL,
-      {
-        query: SINGLE_PAGE_QUERY,
-        variables: { handle },
-      },
-      {
-        headers: {
-          "Content-Type": "application/json",
-          "X-Shopify-Storefront-Access-Token": SHOPIFY_STOREFRONT_TOKEN,
-        },
-      }
-    );
+    const response = await shopifyGraphQL(SINGLE_PAGE_QUERY, { handle });
 
     if (response.data.errors) {
       return res.status(400).json({
@@ -2089,19 +1984,7 @@ app.get("/api/blogs", async (req, res) => {
       ...(cursor && { after: cursor }),
     };
 
-    const response = await axios.post(
-      STOREFRONT_API_URL,
-      {
-        query: BLOGS_QUERY,
-        variables,
-      },
-      {
-        headers: {
-          "Content-Type": "application/json",
-          "X-Shopify-Storefront-Access-Token": SHOPIFY_STOREFRONT_TOKEN,
-        },
-      }
-    );
+    const response = await shopifyGraphQL(BLOGS_QUERY, variables);
 
     if (response.data.errors) {
       return res.status(400).json({
@@ -2182,19 +2065,7 @@ app.get("/api/blogs/:handle", async (req, res) => {
   try {
     const { handle } = req.params;
 
-    const response = await axios.post(
-      STOREFRONT_API_URL,
-      {
-        query: SINGLE_BLOG_QUERY,
-        variables: { handle },
-      },
-      {
-        headers: {
-          "Content-Type": "application/json",
-          "X-Shopify-Storefront-Access-Token": SHOPIFY_STOREFRONT_TOKEN,
-        },
-      }
-    );
+    const response = await shopifyGraphQL(SINGLE_BLOG_QUERY, { handle });
 
     if (response.data.errors) {
       return res.status(400).json({

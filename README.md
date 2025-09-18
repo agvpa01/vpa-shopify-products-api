@@ -34,6 +34,8 @@ Edit `.env` and replace `your-store` with your actual Shopify store name:
 ```env
 SHOPIFY_STORE_DOMAIN=your-store.myshopify.com
 PORT=3000
+# Optional: disable OpenAI cleansing to speed up blog/article processing
+# ENABLE_AI_CLEANSE=false
 ```
 
 ### 3. Start the Server

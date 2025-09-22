@@ -1,6 +1,6 @@
 # [Glycine](https://vpa-australia.myshopify.com/products/glycine)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -37,9 +37,9 @@
 - **Product Type:** Amino Acid
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 29057
+- **Total Inventory:** 28967
 - **Created:** 9/11/2023
-- **Updated:** 8/19/2025
+- **Updated:** 9/17/2025
 
 **Tags:** amino acids, NEW
 
@@ -51,13 +51,42 @@ PRODUCT INFORMATION HOW VPA'S GLYCINE OPTIMISES YOU Glycine is an amino acid tha
 
 **Price:** AUD 9.5
 
+## Nutritional Information (NIP)
+
+**Variant: Default Title | Region: AU | Template: complex_supplements**
+
+- Serving Size: 1g
+- Servings per bottle: 200
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 17 | 1,700 |
+| Energy (Cal) | 4 | 406 |
+| Protein (g) | 1 | 100 |
+| Total Fat (g) | 0 | 0 |
+| Saturated Fat (g) | 0 | 0 |
+| Total Carbohydrate (g) | 0 | 0 |
+| Sugars (g) | 0 | 0 |
+| Sodium (mg) | 0 | 0 |
+| Glycine (mg) | 1,000 | 100,000 |
+
+### Active Ingredients
+
+| Ingredient | Amount | Daily Value |
+|------------|--------|-------------|
+| Magnesium | 200mg | 48% |
+| Calcium | 500mg | 63% |
+| Vitamin D3 | 1000IU | 250% |
+
+**Ingredients:** Glycine.
+
 ## Product Variants
 
 ### Variant 1: [Default Title](https://vpa-australia.myshopify.com/products/glycine)
 
 - **Price:** AUD 9.5
 - **Available:** Yes
-- **Quantity Available:** 29057
+- **Quantity Available:** 28967
 - **Options:**
   - Title: Default Title
 
@@ -65,5 +94,5 @@ PRODUCT INFORMATION HOW VPA'S GLYCINE OPTIMISES YOU Glycine is an amino acid tha
 
 - **Product ID:** `gid://shopify/Product/6832084385847`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:21.734Z
+- **Generated:** 2025-09-21T22:10:17.297Z
 

@@ -1,6 +1,6 @@
 # [Collagen Pro® - Prebiotic Collagen Protein Powder](https://vpa-australia.myshopify.com/products/collagen-pro)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -44,9 +44,9 @@
 - **Product Type:** Health Supplement
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 10786
+- **Total Inventory:** 10133
 - **Created:** 6/2/2020
-- **Updated:** 8/19/2025
+- **Updated:** 9/22/2025
 
 **Tags:** foodtech_product_shopbyingredient: Collagen Hydrolysate, foodtech_product_shopbyingredient: Inulin, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybygoal: general health, foodtech_product_shopybygoal: muscle gain, vpa australia
 
@@ -57,6 +57,30 @@ What is VPA's Collagen Protein Powder? Collagen Hydrolysate is a unique combinat
 ## Pricing
 
 **Price:** AUD 39.0
+
+## Nutritional Information (NIP)
+
+**Variant: 220g (15 Servings) | Region: AU | Template: protein_powder**
+
+- Serving Size: 13.5 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 198 | 1,460 |
+| Energy (Cal) | 47 | 350 |
+| Protein (g) | 11.3 | 83.4 |
+| Total Fat (g) | 0 | 0 |
+| Saturated Fat (g) | 0 | 0 |
+| Total Carbohydrate (g) | 0.2 | 1.2 |
+| Sugars (g) | 0.1 | 0.5 |
+| Dietary Fibre (g) | 0.8 | 5.9 |
+| Sodium (mg) | 32 | 240 |
+
+**Ingredients:** Ingredients
+Collagen Hydrolysate, Prebiotic Fibre (Inulin), Probiotic Culture (Bacillus Coagulans).
+
+Each serving contains 1.5 Billion CFU* Probiotic Culture (Bacillus Coagulans MTCC5856). *Colony Forming Units.
 
 ## Quantity Price Breaks
 
@@ -73,7 +97,7 @@ What is VPA's Collagen Protein Powder? Collagen Hydrolysate is a unique combinat
 
 - **Price:** AUD 39.0
 - **Available:** Yes
-- **Quantity Available:** 10786
+- **Quantity Available:** 10133
 - **Options:**
   - Size: 220g (15 Servings)
 
@@ -81,5 +105,5 @@ What is VPA's Collagen Protein Powder? Collagen Hydrolysate is a unique combinat
 
 - **Product ID:** `gid://shopify/Product/4546998403127`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:06.038Z
+- **Generated:** 2025-09-21T22:09:55.506Z
 

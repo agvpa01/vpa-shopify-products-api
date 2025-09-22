@@ -1,6 +1,6 @@
 # [L-Arginine](https://vpa-australia.myshopify.com/products/l-arginine)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -37,9 +37,9 @@
 - **Product Type:** Amino Acid
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** N/A
+- **Total Inventory:** -60
 - **Created:** 9/11/2023
-- **Updated:** 8/18/2025
+- **Updated:** 9/19/2025
 
 **Tags:** amino acids
 
@@ -51,13 +51,42 @@ LArginine L-Arginine is an amino acid that regulates blood flow and maintains he
 
 **Price:** AUD 16.0
 
+## Nutritional Information (NIP)
+
+**Variant: Default Title | Region: AU | Template: complex_supplements**
+
+- Serving Size: 3g
+- Servings per bottle: 66
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 51 | 1,700 |
+| Energy (Cal) | 12 | 406 |
+| Protein (g) | 3 | 100 |
+| Total Fat (g) | 0 | 0 |
+| Saturated Fat (g) | 0 | 0 |
+| Total Carbohydrate (g) | 0 | 0 |
+| Sugars (g) | 0 | 0 |
+| Sodium (mg) | 0 | 0 |
+| L-Arginine (mg) | 3,000 | 100,000 |
+
+### Active Ingredients
+
+| Ingredient | Amount | Daily Value |
+|------------|--------|-------------|
+| Magnesium | 200mg | 48% |
+| Calcium | 500mg | 63% |
+| Vitamin D3 | 1000IU | 250% |
+
+**Ingredients:** L-Arginine
+
 ## Product Variants
 
 ### Variant 1: [Default Title](https://vpa-australia.myshopify.com/products/l-arginine)
 
 - **Price:** AUD 16.0
 - **Available:** Yes
-- **Quantity Available:** N/A
+- **Quantity Available:** -60
 - **Options:**
   - Title: Default Title
 
@@ -65,5 +94,5 @@ LArginine L-Arginine is an amino acid that regulates blood flow and maintains he
 
 - **Product ID:** `gid://shopify/Product/6832090447927`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:22.205Z
+- **Generated:** 2025-09-21T22:10:18.055Z
 

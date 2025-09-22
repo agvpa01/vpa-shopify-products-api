@@ -1,6 +1,6 @@
 # [Taurine](https://vpa-australia.myshopify.com/products/taurine)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -37,9 +37,9 @@
 - **Product Type:** Amino Acid
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 29131
+- **Total Inventory:** 29083
 - **Created:** 9/11/2023
-- **Updated:** 8/18/2025
+- **Updated:** 9/16/2025
 
 **Tags:** amino acids, eaas, essential amino acids
 
@@ -51,13 +51,42 @@ PRODUCT INFORMATION HOW TAURINE OPTIMISES YOU Taurine is a highly valuable essen
 
 **Price:** AUD 12.0
 
+## Nutritional Information (NIP)
+
+**Variant: Default Title | Region: AU | Template: complex_supplements**
+
+- Serving Size: 1.5g
+- Servings per Bottle: 133
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 26 | 1,700 |
+| Energy (Cal) | 6 | 406 |
+| Protein (g) | 1.5 | 100.0 |
+| Total Fat (g) | 0 | 0 |
+| Saturated Fat (g) | 0 | 0 |
+| Total Carbohydrate (g) | 0 | 0 |
+| Sugars (g) | 0 | 0 |
+| Sodium (mg) | 0 | 0 |
+| Taurine (mg) | 1,500 | 100,000 |
+
+### Active Ingredients
+
+| Ingredient | Amount | Daily Value |
+|------------|--------|-------------|
+| Magnesium | 200mg | 48% |
+| Calcium | 500mg | 63% |
+| Vitamin D3 | 1000IU | 250% |
+
+**Ingredients:** Taurine.
+
 ## Product Variants
 
 ### Variant 1: [Default Title](https://vpa-australia.myshopify.com/products/taurine)
 
 - **Price:** AUD 12.0
 - **Available:** Yes
-- **Quantity Available:** 29131
+- **Quantity Available:** 29083
 - **Options:**
   - Title: Default Title
 
@@ -65,5 +94,5 @@ PRODUCT INFORMATION HOW TAURINE OPTIMISES YOU Taurine is a highly valuable essen
 
 - **Product ID:** `gid://shopify/Product/6832105848887`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:24.844Z
+- **Generated:** 2025-09-21T22:10:21.121Z
 

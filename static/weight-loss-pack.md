@@ -1,6 +1,6 @@
 # [Weight Loss Pack](https://vpa-australia.myshopify.com/products/weight-loss-pack)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -25,7 +25,7 @@
 - **Available for Sale:** Yes
 - **Total Inventory:** 2
 - **Created:** 2/22/2021
-- **Updated:** 7/21/2025
+- **Updated:** 8/21/2025
 
 **Tags:** group_bundle
 
@@ -52,5 +52,5 @@ Weight Loss Pack Weight Loss Pack is carefully formulated supplement stack desig
 
 - **Product ID:** `gid://shopify/Product/4679184416823`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:15.612Z
+- **Generated:** 2025-09-21T22:10:07.134Z
 

@@ -41,6 +41,119 @@ async function shopifyGraphQL(query, variables = {}, timeoutMs = 15000) {
   );
 }
 
+// Helper to strip HTML tags to plain text
+function stripHtml(html) {
+  if (!html) return "";
+  try {
+    const $ = cheerio.load(html);
+    return $.text();
+  } catch (e) {
+    return String(html).replace(/<[^>]*>/g, "");
+  }
+}
+
+// Fetch NIPs by product online store URL slug (handle)
+async function fetchNipsByHandle(handle) {
+  try {
+    if (!handle) return [];
+    const url = `https://useful-llama-278.convex.site/api/nips?onlineStoreUrl=${encodeURIComponent(
+      handle
+    )}`;
+    const resp = await axios.get(url, { timeout: 15000 });
+    if (resp && resp.data && Array.isArray(resp.data.nips)) {
+      return resp.data.nips;
+    }
+    return [];
+  } catch (err) {
+    console.error("Error fetching NIPs:", err.message);
+    return [];
+  }
+}
+
+// Render NIPs to Markdown
+function renderNipsMarkdown(nips) {
+  try {
+    if (!Array.isArray(nips) || nips.length === 0) return "";
+
+    let md = `## Nutritional Information (NIP)\n\n`;
+    nips.forEach((nip, idx) => {
+      const headerParts = [];
+      if (nip.variantName) headerParts.push(`Variant: ${nip.variantName}`);
+      if (nip.region) headerParts.push(`Region: ${nip.region}`);
+      if (nip.templateType) headerParts.push(`Template: ${nip.templateType}`);
+      if (headerParts.length) {
+        md += `**${headerParts.join(" | ")}**\n\n`;
+      }
+
+      const content = nip.content || {};
+
+      // Serving info and ingredients from textSections
+      const textSections = Array.isArray(content.textSections)
+        ? content.textSections
+        : [];
+      const servingLine = textSections.find(
+        (t) => /serving size/i.test(t.title || "")
+      );
+      const servingsPer = textSections.find(
+        (t) => /servings per/i.test(t.title || "")
+      );
+      if (servingLine || servingsPer) {
+        md += `- ${stripHtml(servingLine?.content || "").trim()}\n`;
+        md += `- ${stripHtml(servingsPer?.content || "").trim()}\n\n`;
+      }
+
+      // Nutritional table
+      const nutritionalRows = Array.isArray(content.nutritionalRows)
+        ? content.nutritionalRows
+        : [];
+      if (nutritionalRows.length > 0) {
+        md += `| Nutrient | Per Serve | Per 100g |\n`;
+        md += `|----------|-----------|----------|\n`;
+        nutritionalRows.forEach((row) => {
+          // Skip combined serving info rows if present
+          if (row.id && /serving-info/i.test(row.id)) return;
+          const nutrient = stripHtml(row.nutrient || "").replace(/\s+/g, " ").trim();
+          const perServe = stripHtml(row.perServe || "").trim();
+          const per100g = stripHtml(row.per100g || "").trim();
+          md += `| ${nutrient} | ${perServe} | ${per100g} |\n`;
+        });
+        md += `\n`;
+      }
+
+      // Ingredient actives (if present)
+      const ingredientRows = Array.isArray(content.ingredientRows)
+        ? content.ingredientRows
+        : [];
+      if (ingredientRows.length > 0) {
+        md += `### Active Ingredients\n\n`;
+        md += `| Ingredient | Amount | Daily Value |\n`;
+        md += `|------------|--------|-------------|\n`;
+        ingredientRows.forEach((row) => {
+          const name = stripHtml(row.ingredient || "").trim();
+          const amount = stripHtml(row.amount || "").trim();
+          const dv = stripHtml(row.dailyValue || "").trim();
+          md += `| ${name} | ${amount} | ${dv} |\n`;
+        });
+        md += `\n`;
+      }
+
+      const ingredients = textSections.find(
+        (t) => /ingredients/i.test(t.title || "")
+      );
+      if (ingredients && ingredients.content) {
+        md += `**Ingredients:** ${stripHtml(ingredients.content).trim()}\n\n`;
+      }
+
+      if (idx < nips.length - 1) md += `---\n\n`;
+    });
+
+    return md;
+  } catch (e) {
+    console.error("Error rendering NIPs markdown:", e.message);
+    return "";
+  }
+}
+
 // Initialize OpenAI client (optional)
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 const ENABLE_AI_CLEANSE = String(process.env.ENABLE_AI_CLEANSE || "true").toLowerCase() !== "false";
@@ -1753,6 +1866,18 @@ app.get("/api/products/:handle/markdown", async (req, res) => {
       markdown += `**Price:** ${minPrice.currencyCode} ${minPrice.amount}\n\n`;
     } else {
       markdown += `**Price Range:** ${minPrice.currencyCode} ${minPrice.amount} - ${maxPrice.currencyCode} ${maxPrice.amount}\n\n`;
+    }
+
+    // Nutritional Information Panel (NIPs)
+    try {
+      const nips = await fetchNipsByHandle(handle);
+      const nipsMd = renderNipsMarkdown(nips);
+      if (nipsMd) {
+        markdown += nipsMd;
+      }
+    } catch (e) {
+      // Non-fatal
+      console.error("NIPs section error:", e.message);
     }
 
     // Quantity Price Breaks from VPA Bundles API

@@ -1,6 +1,6 @@
 # All Products by Pages
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 **Products per Page:** 5
 
@@ -138,26 +138,24 @@
 
 ## [Page 17](/api/products/markdown/17)
 
-81. [Midnight Blue Shaker - 500mL](https://www.vpa.com.au/products/midnight-shaker-500ml)
-82. [Whey Premium Best Seller Pack](https://www.vpa.com.au/products/whey-premium-best-seller-pack)
-83. [Whey Isolate Best Seller Pack](https://www.vpa.com.au/products/whey-isolate-best-seller-pack)
-84. [Running Cap](https://www.vpa.com.au/products/running-cap)
-85. [[Batch-tested] Muscle Gainer](https://www.vpa.com.au/products/batch-tested-muscle-gainer)
+81. [Whey Premium Best Seller Pack](https://www.vpa.com.au/products/whey-premium-best-seller-pack)
+82. [Whey Isolate Best Seller Pack](https://www.vpa.com.au/products/whey-isolate-best-seller-pack)
+83. [Running Cap](https://www.vpa.com.au/products/running-cap)
+84. [[Batch-tested] Muscle Gainer](https://www.vpa.com.au/products/batch-tested-muscle-gainer)
+85. [[Batch-tested] Gold Coast Stim Pre-workout](https://www.vpa.com.au/products/batch-tested-gold-coast-stim-pre-workout)
 
 ## [Page 18](/api/products/markdown/18)
 
-86. [[Batch-tested] Gold Coast Stim Pre-workout](https://www.vpa.com.au/products/batch-tested-gold-coast-stim-pre-workout)
-87. [Batch-Tested Whey Protein Isolate](https://www.vpa.com.au/products/batch-tested-whey-protein-isolate-protein-powder)
-88. [[Batch-tested] Venom - High Stim Preworkout](https://www.vpa.com.au/products/batch-tested-venom-high-stim-preworkout)
-89. [[Batch-tested] Creatine Monohydrate](https://www.vpa.com.au/products/batch-tested-creatine-monohydrate)
-90. [[Batch-tested] Collagen Pro® - Protein Powder](https://www.vpa.com.au/products/batch-tested-collagen-pro-r-protein-powder)
+86. [Batch-Tested Whey Protein Isolate](https://www.vpa.com.au/products/batch-tested-whey-protein-isolate-protein-powder)
+87. [[Batch-tested] Venom - High Stim Preworkout](https://www.vpa.com.au/products/batch-tested-venom-high-stim-preworkout)
+88. [[Batch-tested] Collagen Pro® - Protein Powder](https://www.vpa.com.au/products/batch-tested-collagen-pro-r-protein-powder)
+89. [[Batch-tested] BUSSIN INTRA (Flavoured BCAA)](https://www.vpa.com.au/products/batch-tested-bussin-intra-flavoured-bcaa)
+90. [Insulated Sport Water Bottle - 610mL](https://www.vpa.com.au/products/insulated-sport-water-bottle-610ml)
 
 ## [Page 19](/api/products/markdown/19)
 
-91. [[Batch-tested] BUSSIN INTRA (Flavoured BCAA)](https://www.vpa.com.au/products/batch-tested-bussin-intra-flavoured-bcaa)
-92. [Insulated Sport Water Bottle - 610mL](https://www.vpa.com.au/products/insulated-sport-water-bottle-610ml)
-93. [Pump House - Workout Rave](https://www.vpa.com.au/products/pump-house-workout-rave)
-94. [VPA PUSH BEYOND LIMITS - HYROX THROWN DOWN](https://www.vpa.com.au/products/vpa-push-beyond-limits-hyrox-thrown-down)
+91. [VPA 700ml White Shaker](https://www.vpa.com.au/products/vpa-700ml-white-shaker)
+92. [RPG Gel - Endurance Gel (Single Serve)](https://www.vpa.com.au/products/rpg-gel-single-serve-endurance-energy-gel)
 
 ---
 
@@ -167,10 +165,10 @@
 
 ## Technical Information
 
-- **Total Products:** 94
+- **Total Products:** 92
 - **Products per Page:** 5
 - **Total Pages:** 19
-- **Products Fetched:** 94
+- **Products Fetched:** 92
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:35.152Z
+- **Generated:** 2025-09-21T22:10:33.703Z
 

@@ -1,6 +1,6 @@
 # [AAKG](https://vpa-australia.myshopify.com/products/aakg)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -23,19 +23,48 @@
 - **Product Type:** Other Supplements
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 497
+- **Total Inventory:** 470
 - **Created:** 6/2/2020
-- **Updated:** 8/18/2025
+- **Updated:** 9/21/2025
 
 **Tags:** foodtech_product_shopbyingredient: AAKG, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegan, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: performance and endurance, NEW, vpa australia
 
 ## Description
 
-What is AAKG? L-Arginine Alpha-Ketoglutarate or AAKG is an amino acid that can deliver you astounding performance results through its highly efficient biological processes during training. By using VPAs AAKG you can experience increased endurance and increased strength especially during times of intense physical exercise. AAKG is able to deliver these performance gains through its production of nitric oxide in the body, which increases blood flow to the muscles delivering vital nutrients and oxygen to fuel your workouts. AAKG has also been shown to stimulate protein synthesis, helping the body build lean muscle. Many advocates of AAKG enjoy it for its ability to deliver intense muscle pumps, making muscles fuller for longer. L-Arginine Alpha-Ketoglutarate or AAKG is an amino acid that can deliver you astounding performance results through its highly efficient biological processes during training. By using VPAs AAKG you can experience increased endurance and increased strength especially during times of intense physical exercise. AAKG is able to deliver these performance gains through its production of nitric oxide in the body, which increases blood flow to the muscles delivering vital nutrients and oxygen to fuel your workouts. AAKG has also been shown to stimulate protein synthesis, helping the body build lean muscle. Many advocates of AAKG enjoy it for its ability to deliver intense muscle pumps, making muscles fuller for longer. CHRISTMAS IN JULY OFFERSpend $99 or more to get a FREE product. more info here
+What is AAKG? L-Arginine Alpha-Ketoglutarate or AAKG is an amino acid that can deliver you astounding performance results through its highly efficient biological processes during training. By using VPAs AAKG you can experience increased endurance and increased strength especially during times of intense physical exercise. AAKG is able to deliver these performance gains through its production of nitric oxide in the body, which increases blood flow to the muscles delivering vital nutrients and oxygen to fuel your workouts. AAKG has also been shown to stimulate protein synthesis, helping the body build lean muscle. Many advocates of AAKG enjoy it for its ability to deliver intense muscle pumps, making muscles fuller for longer. L-Arginine Alpha-Ketoglutarate or AAKG is an amino acid that can deliver you astounding performance results through its highly efficient biological processes during training. By using VPAs AAKG you can experience increased endurance and increased strength especially during times of intense physical exercise. AAKG is able to deliver these performance gains through its production of nitric oxide in the body, which increases blood flow to the muscles delivering vital nutrients and oxygen to fuel your workouts. AAKG has also been shown to stimulate protein synthesis, helping the body build lean muscle. Many advocates of AAKG enjoy it for its ability to deliver intense muscle pumps, making muscles fuller for longer.
 
 ## Pricing
 
 **Price:** AUD 27.0
+
+## Nutritional Information (NIP)
+
+**Variant: Default Title | Region: AU | Template: complex_supplements**
+
+- Serving Size: 3g
+- Servings per Bottle: 66
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 34 | 1,122 |
+| Energy (Cal) | 8 | 268 |
+| Protein (g) | 2 | 66 |
+| Total Carbohydrate (g) | 0 | 0 |
+| Sugars (g) | 0 | 0 |
+| Total Fat (g) | 0 | 0 |
+| Saturated Fat (g) | 0 | 0 |
+| Sodium (mg) | 0 | 0 |
+| AAKG (g) | 3 | 100 |
+
+### Active Ingredients
+
+| Ingredient | Amount | Daily Value |
+|------------|--------|-------------|
+| Magnesium | 200mg | 48% |
+| Calcium | 500mg | 63% |
+| Vitamin D3 | 1000IU | 250% |
+
+**Ingredients:** L-Arginine Alpha-Ketoglutarate (2:1)
 
 ## Product Variants
 
@@ -43,7 +72,7 @@ What is AAKG? L-Arginine Alpha-Ketoglutarate or AAKG is an amino acid that can d
 
 - **Price:** AUD 27.0
 - **Available:** Yes
-- **Quantity Available:** 497
+- **Quantity Available:** 470
 - **Options:**
   - Title: Default Title
 
@@ -51,5 +80,5 @@ What is AAKG? L-Arginine Alpha-Ketoglutarate or AAKG is an amino acid that can d
 
 - **Product ID:** `gid://shopify/Product/4546981593143`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:11:57.144Z
+- **Generated:** 2025-09-21T22:09:44.715Z
 

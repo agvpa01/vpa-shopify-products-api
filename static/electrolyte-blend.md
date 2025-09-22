@@ -1,6 +1,6 @@
 # [Electrolyte Blend](https://vpa-australia.myshopify.com/products/electrolyte-blend)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -37,9 +37,9 @@
 - **Product Type:** Other Supplements
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 287
+- **Total Inventory:** 217
 - **Created:** 9/11/2023
-- **Updated:** 8/19/2025
+- **Updated:** 9/21/2025
 
 **Tags:** Electrolytes, NEW
 
@@ -51,13 +51,44 @@ VPA® Electrolyte Blend is a premium hydration supplement formulated with a bala
 
 **Price:** AUD 20.0
 
+## Nutritional Information (NIP)
+
+**Variant: Default Title | Region: AU | Template: complex_supplements**
+
+- Serving Size: 3.3g
+- Servings per Container: 60
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 0 | 0 |
+| Energy (Cal) | 0 | 0 |
+| Protein (g) | 0 | 0 |
+| Total Fat (g) | 0 | 0 |
+| Saturated Fat (g) | 0 | 0 |
+| Total Carbohydrate (g) | 0 | 0 |
+| Sugars (g) | 0 | 0 |
+| Sodium (mg) | 59 | 1,800 |
+| Magnesium (mg) | 175 | 5,300 |
+| Potassium (mg) | 119 | 3,600 |
+| Calcium (mg) | 40 | 1,200 |
+
+### Active Ingredients
+
+| Ingredient | Amount | Daily Value |
+|------------|--------|-------------|
+| Magnesium | 200mg | 48% |
+| Calcium | 500mg | 63% |
+| Vitamin D3 | 1000IU | 250% |
+
+**Ingredients:** Magnesium L-Asprtate, Potassium Gluconate, Calcium Citrate, Sodium Chloride, Silica Dioxide.
+
 ## Product Variants
 
 ### Variant 1: [Default Title](https://vpa-australia.myshopify.com/products/electrolyte-blend)
 
 - **Price:** AUD 20.0
 - **Available:** Yes
-- **Quantity Available:** 287
+- **Quantity Available:** 217
 - **Options:**
   - Title: Default Title
 
@@ -65,5 +96,5 @@ VPA® Electrolyte Blend is a premium hydration supplement formulated with a bala
 
 - **Product ID:** `gid://shopify/Product/6832028319799`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:21.303Z
+- **Generated:** 2025-09-21T22:10:16.614Z
 

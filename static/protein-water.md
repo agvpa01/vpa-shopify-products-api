@@ -1,6 +1,6 @@
 # [Protein Water](https://vpa-australia.myshopify.com/products/protein-water)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -72,9 +72,9 @@
 - **Product Type:** Protein Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 20693
+- **Total Inventory:** 20452
 - **Created:** 6/2/2020
-- **Updated:** 8/19/2025
+- **Updated:** 9/19/2025
 
 **Tags:** foodtech_product_allergen: milk, foodtech_product_allergen: soy, foodtech_product_shopbyingredient: Collagen hydrolysate, foodtech_product_shopbyingredient: WPI, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybygoal: muscle gain, vpa australia
 
@@ -85,6 +85,72 @@ WHAT IS PROTEIN WATER? Protein Water is a muscle recovery and hydration drink th
 ## Pricing
 
 **Price:** AUD 69.0
+
+## Nutritional Information (NIP)
+
+**Variant: Grape Bubblegum | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 341 | 0 |
+| Energy (Cal) | 82 | 0 |
+| Protein (g) | 20.0 | 0 |
+| Total Fat (g) | 0.1 | 0 |
+| Saturated Fat (g) | 0.0 | 0 |
+| Total Carbohydrate (g) | 1.0 | 0 |
+| Sugars (g) | 0.3 | 0 |
+| SODIUM (mg) | 132 | 0 |
+| POTASSIUM (mg) | 0 | 0 |
+| MAGNESIUM (mg) | 0 | 0 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavour, Xanthan, Sucralose.
+
+---
+
+**Variant: Sour Worms | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 340 | 1,360 |
+| Energy (Cal) | 81 | 325 |
+| Protein (g) | 18.6 | 74.3 |
+| Total Fat (g) | 0.0 | 0.1 |
+| Saturated Fat (g) | 0.0 | 0.1 |
+| Total Carbohydrate (g) | 1.1 | 4.5 |
+| Sugars (g) | 0.2 | 0.8 |
+| SODIUM (mg) | 121 | 48.2 |
+| POTASSIUM (mg) | 170 | 679 |
+| MAGNESIUM (mg) | 151 (47%) | 605 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavour, Xanthan, Sucralose.
+
+---
+
+**Variant: Peach Green Tea | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 355 | 1,360 |
+| Energy (Cal) | 85 | 325 |
+| Protein (g) | 19.8 | 74.3 |
+| Total Fat (g) | 0.1 | 0.1 |
+| Saturated Fat (g) | 0.0 | 0.1 |
+| Total Carbohydrate (g) | 1.0 | 4.5 |
+| Sugars (g) | 0.3 | 0.8 |
+| SODIUM (mg) | 128 | 48.2 |
+| POTASSIUM (mg) | 175 | 679 |
+| MAGNESIUM (mg) | 152 (48%) | 605 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavour, Xanthan, Sucralose.
 
 ## Quantity Price Breaks
 
@@ -101,7 +167,7 @@ WHAT IS PROTEIN WATER? Protein Water is a muscle recovery and hydration drink th
 
 - **Price:** AUD 69.0
 - **Available:** Yes
-- **Quantity Available:** -2526
+- **Quantity Available:** -2609
 - **Options:**
   - Flavour: Grape Bubblegum
 
@@ -109,7 +175,7 @@ WHAT IS PROTEIN WATER? Protein Water is a muscle recovery and hydration drink th
 
 - **Price:** AUD 69.0
 - **Available:** Yes
-- **Quantity Available:** 26135
+- **Quantity Available:** 26051
 - **Options:**
   - Flavour: Sour Worms
 
@@ -117,7 +183,7 @@ WHAT IS PROTEIN WATER? Protein Water is a muscle recovery and hydration drink th
 
 - **Price:** AUD 69.0
 - **Available:** Yes
-- **Quantity Available:** -2916
+- **Quantity Available:** -2990
 - **Options:**
   - Flavour: Peach Green Tea
 
@@ -125,5 +191,5 @@ WHAT IS PROTEIN WATER? Protein Water is a muscle recovery and hydration drink th
 
 - **Product ID:** `gid://shopify/Product/4546998829111`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:06.931Z
+- **Generated:** 2025-09-21T22:09:56.619Z
 

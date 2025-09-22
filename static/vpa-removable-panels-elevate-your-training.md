@@ -1,6 +1,6 @@
 # [VPA Removable Panels - Collage](https://vpa-australia.myshopify.com/products/vpa-removable-panels-elevate-your-training)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -52,5 +52,5 @@ VPA® Removable PanelsSPECIAL RELEASE PRICE | Only for a Limited TimeOriginal Pr
 
 - **Product ID:** `gid://shopify/Product/6586615463991`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:17.848Z
+- **Generated:** 2025-09-21T22:10:09.880Z
 

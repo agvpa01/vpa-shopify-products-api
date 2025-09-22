@@ -1,6 +1,6 @@
 # [Premium Whey (WPC)](https://vpa-australia.myshopify.com/products/premium-whey-wpc)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -86,9 +86,9 @@
 - **Product Type:** Protein Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 46516
+- **Total Inventory:** 40157
 - **Created:** 6/2/2020
-- **Updated:** 8/19/2025
+- **Updated:** 9/22/2025
 
 **Tags:** foodtech_product_allergen: milk, foodtech_product_allergen: soy, foodtech_product_shopbyingredient: WPC, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: muscle gain, new_flavour, vpa australia
 
@@ -99,6 +99,306 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 ## Pricing
 
 **Price:** AUD 49.0
+
+## Nutritional Information (NIP)
+
+**Variant: Chocolate | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 520 | 1,730 |
+| Energy (Cal) | 124 | 414 |
+| Protein (g) | 23.4 | 78.0 |
+| Total Fat (g) | 1.8 | 6.1 |
+| Saturated Fat (g) | 1.1 | 3.5 |
+| Total Carbohydrate (g) | 3.2 | 10.6 |
+| Sugars (g) | 2.5 | 8.2 |
+| Sodium (mg) | 50 | 168 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavour, Xanthan, Sucralose.
+
+---
+
+**Variant: Vanilla | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 523 | 1,740 |
+| Energy (Cal) | 125 | 417 |
+| Protein (g) | 23.8 | 80.0 |
+| Total Fat (g) | 1.8 | 5.8 |
+| Saturated Fat (g) | 1.0 | 3.4 |
+| Total Carbohydrate (g) | 3.1 | 10.5 |
+| Sugars (g) | 2.5 | 8.4 |
+| Sodium (mg) | 50 | 165 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavour, Xanthan, Sucralose.
+
+---
+
+**Variant: Strawberry | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 520 | 1,730 |
+| Energy (Cal) | 123 | 410 |
+| Protein (g) | 23.5 | 78.0 |
+| Total Fat (g) | 1.7 | 5.7 |
+| Saturated Fat (g) | 1.0 | 3.4 |
+| Total Carbohydrate (g) | 3.3 | 11.1 |
+| Sugars (g) | 2.5 | 8.2 |
+| Sodium (mg) | 49 | 163 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavour, Xanthan, Sucralose.
+
+---
+
+**Variant: Natural | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 528 | 1,760 |
+| Energy (Cal) | 126 | 420 |
+| Protein (g) | 25.0 | 82.0 |
+| Total Fat (g) | 1.8 | 6.0 |
+| Saturated Fat (g) | 1.0 | 3.4 |
+| Total Carbohydrate (g) | 2.6 | 8.6 |
+| Sugars (g) | 2.6 | 8.6 |
+| Sodium (mg) | 51 | 170 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavour, Xanthan, Sucralose.
+
+---
+
+**Variant: Iced Coffee | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 528 | 1,760 |
+| Energy (Cal) | 126 | 420 |
+| Protein (g) | 25.0 | 82.0 |
+| Total Fat (g) | 1.8 | 6.0 |
+| Saturated Fat (g) | 1.0 | 3.4 |
+| Total Carbohydrate (g) | 2.6 | 8.6 |
+| Sugars (g) | 2.6 | 8.6 |
+| Sodium (mg) | 51 | 170 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavour, Xanthan, Sucralose.
+
+---
+
+**Variant: Rainbow Ice Cream | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 523 | 1,740 |
+| Energy (Cal) | 124 | 412 |
+| Protein (g) | 23.7 | 79.0 |
+| Total Fat (g) | 1.7 | 6.8 |
+| Saturated Fat (g) | 1.0 | 3.4 |
+| Total Carbohydrate (g) | 3.2 | 10.7 |
+| Sugars (g) | 2.5 | 8.3 |
+| Sodium (mg) | 49 | 165 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavour, Xanthan, Sucralose.
+
+---
+
+**Variant: Salted Caramel | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 520 | 1,730 |
+| Energy (Cal) | 123 | 410 |
+| Protein (g) | 23.5 | 78.0 |
+| Total Fat (g) | 1.7 | 5.8 |
+| Saturated Fat (g) | 1.0 | 3.4 |
+| Total Carbohydrate (g) | 3.3 | 10.9 |
+| Sugars (g) | 2.5 | 8.3 |
+| Sodium (mg) | 106 | 364 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavour, Xanthan, Sucralose.
+
+---
+
+**Variant: Choc Peanut Butter Cup | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 523 | 1,740 |
+| Energy (Cal) | 124 | 412 |
+| Protein (g) | 24 | 80.0 |
+| Total Fat (g) | 1.8 | 5.9 |
+| Saturated Fat (g) | 1.0 | 3.4 |
+| Total Carbohydrate (g) | 3.0 | 10.1 |
+| Sugars (g) | 2.6 | 8.7 |
+| Sodium (mg) | 60 | 168 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavour, Xanthan, Sucralose.
+
+---
+
+**Variant: Choc Hazelnut | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 523 | 1,740 |
+| Energy (Cal) | 124 | 412 |
+| Protein (g) | 24.0 | 80.0 |
+| Total Fat (g) | 1.8 | 5.9 |
+| Saturated Fat (g) | 1.0 | 3.4 |
+| Total Carbohydrate (g) | 3.0 | 10.1 |
+| Sugars (g) | 2.6 | 8.7 |
+| Sodium (mg) | 50 | 168 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavour, Xanthan, Sucralose.
+
+---
+
+**Variant: Caramel White Milk | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 513 | 1,710 |
+| Energy (Cal) | 121 | 404 |
+| Protein (g) | 22.0 | 73.0 |
+| Total Fat (g) | 1.6 | 5.3 |
+| Saturated Fat (g) | 0.9 | 3.1 |
+| Total Carbohydrate (g) | 4.9 | 16.4 |
+| Sugars (g) | 3.6 | 12.0 |
+| Sodium (mg) | 50 | 167 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavour, Xanthan, Sucralose.
+
+---
+
+**Variant: Choc Honeycomb | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 523 | 1,740 |
+| Energy (Cal) | 124 | 412 |
+| Protein (g) | 24.0 | 80.0 |
+| Total Fat (g) | 1.8 | 5.9 |
+| Saturated Fat (g) | 1.0 | 3.4 |
+| Total Carbohydrate (g) | 3.0 | 10.1 |
+| Sugars (g) | 2.6 | 8.7 |
+| Sodium (mg) | 50 | 168 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavour, Xanthan, Sucralose.
+
+---
+
+**Variant: Dark Chocolate | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 505 | 1,680 |
+| Energy (Cal) | 121 | 402 |
+| Protein (g) | 22.1 | 73.5 |
+| Total Fat (g) | 2.2 | 7.2 |
+| Saturated Fat (g) | 0.9 | 2.9 |
+| Total Carbohydrate (g) | 2.9 | 9.6 |
+| Sugars (g) | 1.9 | 6.3 |
+| Sodium (mg) | 89 | 297 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavour, Xanthan, Sucralose.
+
+---
+
+**Variant: Caramel Biscuit Shake | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 523 | 1,740 |
+| Energy (Cal) | 124 | 412 |
+| Protein (g) | 24.0 | 80.0 |
+| Total Fat (g) | 1.8 | 5.9 |
+| Saturated Fat (g) | 1.0 | 3.4 |
+| Total Carbohydrate (g) | 3.0 | 10.1 |
+| Sugars (g) | 2.6 | 8.7 |
+| Sodium (mg) | 50 | 168 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavour, Xanthan, Sucralose.
+
+---
+
+**Variant: Birthday Cake | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 523 | 1,740 |
+| Energy (Cal) | 124 | 412 |
+| Protein (g) | 24.0 | 80.0 |
+| Total Fat (g) | 1.8 | 5.9 |
+| Saturated Fat (g) | 1.0 | 3.4 |
+| Total Carbohydrate (g) | 3.0 | 10.1 |
+| Sugars (g) | 2.6 | 8.7 |
+| Sodium (mg) | 50 | 168 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavour, Xanthan, Sucralose.
+
+---
+
+**Variant: Choc Coconut | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 523 | 1,740 |
+| Energy (Cal) | 124 | 412 |
+| Protein (g) | 24.0 | 80.0 |
+| Total Fat (g) | 1.8 | 5.9 |
+| Saturated Fat (g) | 1.0 | 3.4 |
+| Total Carbohydrate (g) | 3.0 | 10.1 |
+| Sugars (g) | 2.6 | 8.7 |
+| Sodium (mg) | 50 | 168 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavour, Xanthan, Sucralose.
 
 ## Quantity Price Breaks
 
@@ -117,7 +417,7 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** 30690
+- **Quantity Available:** 29618
 - **Options:**
   - Flavour: Chocolate
 
@@ -125,7 +425,7 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** 7984
+- **Quantity Available:** 6529
 - **Options:**
   - Flavour: Vanilla
 
@@ -133,7 +433,7 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** -3106
+- **Quantity Available:** -3415
 - **Options:**
   - Flavour: Banana
 
@@ -141,7 +441,7 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** 8267
+- **Quantity Available:** 8023
 - **Options:**
   - Flavour: Strawberry
 
@@ -149,7 +449,7 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** 2466
+- **Quantity Available:** 2230
 - **Options:**
   - Flavour: Natural
 
@@ -157,7 +457,7 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** -3904
+- **Quantity Available:** -4182
 - **Options:**
   - Flavour: Iced Coffee
 
@@ -165,7 +465,7 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** 7542
+- **Quantity Available:** 7397
 - **Options:**
   - Flavour: Rainbow Ice Cream
 
@@ -173,7 +473,7 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** 11894
+- **Quantity Available:** 11589
 - **Options:**
   - Flavour: Salted Caramel
 
@@ -181,7 +481,7 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** 683
+- **Quantity Available:** 425
 - **Options:**
   - Flavour: Choc Peanut Butter Cup
 
@@ -189,7 +489,7 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** 524
+- **Quantity Available:** 463
 - **Options:**
   - Flavour: Fruity Cereal
 
@@ -197,7 +497,7 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** -1036
+- **Quantity Available:** -1290
 - **Options:**
   - Flavour: Choc Hazelnut
 
@@ -205,7 +505,7 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** -1048
+- **Quantity Available:** -1308
 - **Options:**
   - Flavour: Caramel White Milk
 
@@ -213,7 +513,7 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** -2496
+- **Quantity Available:** -2720
 - **Options:**
   - Flavour: Choc Honeycomb
 
@@ -221,7 +521,7 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** -3554
+- **Quantity Available:** -3802
 - **Options:**
   - Flavour: Dark Chocolate
 
@@ -229,7 +529,7 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** -4190
+- **Quantity Available:** -4549
 - **Options:**
   - Flavour: Caramel Biscuit Shake
 
@@ -237,7 +537,7 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** -1331
+- **Quantity Available:** -1414
 - **Options:**
   - Flavour: Birthday Cake
 
@@ -245,7 +545,7 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** -1485
+- **Quantity Available:** -1672
 - **Options:**
   - Flavour: Choc Coconut
 
@@ -253,7 +553,7 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** -1086
+- **Quantity Available:** -1299
 - **Options:**
   - Flavour: White Choc Raspberry
 
@@ -261,7 +561,7 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** -298
+- **Quantity Available:** -466
 - **Options:**
   - Flavour: Rich Mocha
 
@@ -269,5 +569,5 @@ Premium Whey (WPC) Premium Whey (WPC). Whey protein concentrate is a byproduct o
 
 - **Product ID:** `gid://shopify/Product/4546987032631`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:02.851Z
+- **Generated:** 2025-09-21T22:09:52.136Z
 

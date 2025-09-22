@@ -1,6 +1,6 @@
 # [Vital Seamless Sports Bra - Khaki](https://vpa-australia.myshopify.com/products/khaki-vital-seamless-sports-bra)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -51,9 +51,9 @@
 - **Product Type:** Apparel
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 237
+- **Total Inventory:** 230
 - **Created:** 6/2/2020
-- **Updated:** 8/19/2025
+- **Updated:** 9/21/2025
 
 **Tags:** clearance, dispatch_only_Brisbane, sale, vpa australia
 
@@ -72,7 +72,7 @@ Vital Seamless Sports Bra VPA WOMENS VITAL SEAMLESS SPORTS BRA -Empower your per
 - **Price:** AUD 15.0
 - **Compare at Price:** AUD 50.0
 - **Available:** Yes
-- **Quantity Available:** 237
+- **Quantity Available:** 230
 - **Options:**
   - Size: S
 
@@ -98,5 +98,5 @@ Vital Seamless Sports Bra VPA WOMENS VITAL SEAMLESS SPORTS BRA -Empower your per
 
 - **Product ID:** `gid://shopify/Product/4547005743159`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:09.142Z
+- **Generated:** 2025-09-21T22:09:59.345Z
 

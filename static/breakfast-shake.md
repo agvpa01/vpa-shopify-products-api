@@ -1,6 +1,6 @@
 # [Breakfast Shake](https://vpa-australia.myshopify.com/products/breakfast-shake)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -79,9 +79,9 @@
 - **Product Type:** Protein Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 114359
+- **Total Inventory:** 113906
 - **Created:** 6/2/2020
-- **Updated:** 8/19/2025
+- **Updated:** 9/22/2025
 
 **Tags:** foodtech_product_allergen: milk, foodtech_product_allergen: soy, foodtech_product_allergen: wheat, foodtech_product_shopbyingredient: Oat flour, foodtech_product_shopbyingredient: WPC, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: general health, foodtech_product_shopybygoal: muscle gain, vpa australia
 
@@ -92,6 +92,134 @@ WHAT IS BREAKFAST SHAKE? VPA Breakfast Shake is a comprehensive morning shake de
 ## Pricing
 
 **Price:** AUD 48.0
+
+## Nutritional Information (NIP)
+
+**Variant: Chocolate | Region: AU | Template: complex_supplements**
+
+- Serving Size:  70g
+- Servings: 14
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 1,120 | 1,600 |
+| Energy (Cal) | 267 | 382 |
+| Protein (g) | 31.0 | 44 |
+| Total Fat (g) | 5.0 | 7.1 |
+| Saturated Fat (g) | 1.6 | 2.3 |
+| Total Carbohydrate (g) | 22.2 | 31.8 |
+| Sugars (g) | 3.0 | 4.2 |
+| Dietary Fibre (g) | 5.0 | 7.2 |
+| Sodium (mg) | 57 | 81 |
+| Vitamin B6 (mg) | 2.0 (125% RDI*) | 2.9 |
+| Green Tea Extract (g) | 0.4 | 0.6 |
+| *Recommended Dietary Intake |  |  |
+
+### Active Ingredients
+
+| Ingredient | Amount | Daily Value |
+|------------|--------|-------------|
+| Magnesium | 200mg | 48% |
+| Calcium | 500mg | 63% |
+| Vitamin D3 | 1000IU | 250% |
+
+**Ingredients:** Oat Flour (Gluten), Whey Protein Concentrate (Milk) (Emulsifier (SoyLecithin)), Cocoa, Flavour, Psyllium Husk, Green Tea Powder, Sucralose, Vitamin B6.CONTAINS CAFFEINE: equivalent to approximately 20mg per serve.
+
+---
+
+**Variant: Vanilla | Region: AU | Template: complex_supplements**
+
+- Serving Size:  70g
+- Servings: 14
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 1,150 | 1,650 |
+| Energy (Cal) | 276 | 394 |
+| Protein (g) | 30.7 | 43.8 |
+| Total Fat (g) | 5.0 | 7.1 |
+| Saturated Fat (g) | 1.6 | 2.3 |
+| Total Carbohydrate (g) | 24.0 | 34.2 |
+| Sugars (g) | 3.3 | 4.7 |
+| Dietary Fibre (g) | 5.1 | 7.2 |
+| Sodium (mg) | 59 | 84 |
+| Vitamin B6 (mg) | 2.0 (125% RDI*) | 2.9 |
+| Green Tea Extract (g) | 0.4 | 0.6 |
+| *Recommended Dietary Intake |  |  |
+
+### Active Ingredients
+
+| Ingredient | Amount | Daily Value |
+|------------|--------|-------------|
+| Magnesium | 200mg | 48% |
+| Calcium | 500mg | 63% |
+| Vitamin D3 | 1000IU | 250% |
+
+**Ingredients:** Oat Flour (Gluten), Whey Protein Concentrate (Milk) (Emulsifier (SoyLecithin)), Cocoa, Flavour, Psyllium Husk, Green Tea Powder, Sucralose, Vitamin B6.CONTAINS CAFFEINE: equivalent to approximately 20mg per serve.
+
+---
+
+**Variant: Banana | Region: AU | Template: complex_supplements**
+
+- Serving Size:  70g
+- Servings: 14
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 1,150 | 1,640 |
+| Energy (Cal) | 274 | 391 |
+| Protein (g) | 30.3 | 43.3 |
+| Total Fat (g) | 5.1 | 7.1 |
+| Saturated Fat (g) | 1.6 | 2.3 |
+| Total Carbohydrate (g) | 23.9 | 34.1 |
+| Sugars (g) | 3.3 | 4.7 |
+| Dietary Fibre (g) | 5.0 | 7.2 |
+| Sodium (mg) | 57 | 81 |
+| Vitamin B6 (mg) | 2.0 (125% RDI*) | 2.9 |
+| Green Tea Extract (g) | 0.4 | 0.6 |
+| *Recommended Dietary Intake |  |  |
+
+### Active Ingredients
+
+| Ingredient | Amount | Daily Value |
+|------------|--------|-------------|
+| Magnesium | 200mg | 48% |
+| Calcium | 500mg | 63% |
+| Vitamin D3 | 1000IU | 250% |
+
+**Ingredients:** Oat Flour (Gluten), Whey Protein Concentrate (Milk) (Emulsifier (SoyLecithin)), Cocoa, Flavour, Psyllium Husk, Green Tea Powder, Sucralose, Vitamin B6.CONTAINS CAFFEINE: equivalent to approximately 20mg per serve.
+
+---
+
+**Variant: Iced Coffee | Region: AU | Template: complex_supplements**
+
+- Serving Size:  70g
+- Servings: 14
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 1,150 | 1,650 |
+| Energy (Cal) | 276 | 394 |
+| Protein (g) | 31.3 | 44.8 |
+| Total Fat (g) | 4.9 | 7.1 |
+| Saturated Fat (g) | 1.6 | 2.3 |
+| Total Carbohydrate (g) | 23.5 | 33.5 |
+| Sugars (g) | 3.1 | 4.4 |
+| Dietary Fibre (g) | 5.0 | 7.1 |
+| Sodium (mg) | 59 | 84 |
+| Vitamin B6 (mg) | 2.0 (125% RDI*) | 2.9 |
+| Green Tea Extract (g) | 0.4 | 0.6 |
+| *Recommended Dietary Intake |  |  |
+
+### Active Ingredients
+
+| Ingredient | Amount | Daily Value |
+|------------|--------|-------------|
+| Magnesium | 200mg | 48% |
+| Calcium | 500mg | 63% |
+| Vitamin D3 | 1000IU | 250% |
+
+**Ingredients:** Oat Flour (Gluten), Whey Protein Concentrate (Milk) (Emulsifier (SoyLecithin)), Cocoa, Flavour, Psyllium Husk, Green Tea Powder, Sucralose, Vitamin B6.CONTAINS CAFFEINE: equivalent to approximately 20mg per serve.
 
 ## Quantity Price Breaks
 
@@ -109,7 +237,7 @@ WHAT IS BREAKFAST SHAKE? VPA Breakfast Shake is a comprehensive morning shake de
 
 - **Price:** AUD 48.0
 - **Available:** Yes
-- **Quantity Available:** 28446
+- **Quantity Available:** 28306
 - **Options:**
   - Flavour: Chocolate
 
@@ -117,7 +245,7 @@ WHAT IS BREAKFAST SHAKE? VPA Breakfast Shake is a comprehensive morning shake de
 
 - **Price:** AUD 48.0
 - **Available:** Yes
-- **Quantity Available:** 28523
+- **Quantity Available:** 28409
 - **Options:**
   - Flavour: Vanilla
 
@@ -125,7 +253,7 @@ WHAT IS BREAKFAST SHAKE? VPA Breakfast Shake is a comprehensive morning shake de
 
 - **Price:** AUD 48.0
 - **Available:** Yes
-- **Quantity Available:** 28906
+- **Quantity Available:** 28823
 - **Options:**
   - Flavour: Banana
 
@@ -133,7 +261,7 @@ WHAT IS BREAKFAST SHAKE? VPA Breakfast Shake is a comprehensive morning shake de
 
 - **Price:** AUD 48.0
 - **Available:** Yes
-- **Quantity Available:** 28484
+- **Quantity Available:** 28368
 - **Options:**
   - Flavour: Iced Coffee
 
@@ -141,5 +269,5 @@ WHAT IS BREAKFAST SHAKE? VPA Breakfast Shake is a comprehensive morning shake de
 
 - **Product ID:** `gid://shopify/Product/4546971369527`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:11:51.794Z
+- **Generated:** 2025-09-21T22:09:38.292Z
 

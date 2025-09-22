@@ -1,6 +1,6 @@
 # [Lysine](https://vpa-australia.myshopify.com/products/lysine)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -37,9 +37,9 @@
 - **Product Type:** Amino Acid
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 102
+- **Total Inventory:** 52
 - **Created:** 9/11/2023
-- **Updated:** 8/18/2025
+- **Updated:** 9/21/2025
 
 **Tags:** eaas, NEW
 
@@ -51,13 +51,42 @@ VPA’s Lysine is a high-quality essential amino acid supplement that supports i
 
 **Price:** AUD 11.0
 
+## Nutritional Information (NIP)
+
+**Variant: Default Title | Region: AU | Template: complex_supplements**
+
+- Serving Size: 1g
+- Servings per bottle: 200
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 17 | 2,700 |
+| Energy (Cal) | 4 | 406 |
+| Protein (g) | 1 | 100 |
+| Total Fat (g) | 0 | 0 |
+| Saturated Fat (g) | 0 | 0 |
+| Total Carbohydrate (g) | 0 | 0 |
+| Sugars (g) | 0 | 0 |
+| Sodium (mg) | 0 | 0 |
+| L-Lysine HCL (mg) | 1,000 | 100,000 |
+
+### Active Ingredients
+
+| Ingredient | Amount | Daily Value |
+|------------|--------|-------------|
+| Magnesium | 200mg | 48% |
+| Calcium | 500mg | 63% |
+| Vitamin D3 | 1000IU | 250% |
+
+**Ingredients:** L-Lysine HCL.
+
 ## Product Variants
 
 ### Variant 1: [Default Title](https://vpa-australia.myshopify.com/products/lysine)
 
 - **Price:** AUD 11.0
 - **Available:** Yes
-- **Quantity Available:** 102
+- **Quantity Available:** 52
 - **Options:**
   - Title: Default Title
 
@@ -65,5 +94,5 @@ VPA’s Lysine is a high-quality essential amino acid supplement that supports i
 
 - **Product ID:** `gid://shopify/Product/6832095658039`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:22.807Z
+- **Generated:** 2025-09-21T22:10:18.751Z
 

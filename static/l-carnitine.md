@@ -1,6 +1,6 @@
 # [L-Carnitine](https://vpa-australia.myshopify.com/products/l-carnitine)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -30,9 +30,9 @@
 - **Product Type:** Amino Acid
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 26655
+- **Total Inventory:** 26405
 - **Created:** 6/2/2020
-- **Updated:** 8/18/2025
+- **Updated:** 9/19/2025
 
 **Tags:** foodtech_product_shopbygoal: weight loss, foodtech_product_shopbyingredient: L-Carnitine Tartrate, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegan, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: general health, foodtech_product_shopybygoal: weight loss, vpa australia
 
@@ -44,13 +44,42 @@ L-carnitine L-carnitine is a strong fat metabolizer as it works hard in your bod
 
 **Price:** AUD 27.0
 
+## Nutritional Information (NIP)
+
+**Variant: Default Title | Region: AU | Template: complex_supplements**
+
+- Serving Size: 1g
+- Servings per Bottle: 200
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 13 | 1,275 |
+| Energy (Cal) | 3 | 305 |
+| Protein (g) | 0.8 | 75 |
+| Total Fat (g) | 0 | 0 |
+| Saturated Fat (g) | 0 | 0 |
+| Total Carbohydrate (g) | 0 | 0 |
+| Sugars (g) | 0 | 0 |
+| Sodium (mg) | 0 | 0 |
+| L-Carnitine Tartrate (g) | 1 | 100 |
+
+### Active Ingredients
+
+| Ingredient | Amount | Daily Value |
+|------------|--------|-------------|
+| Magnesium | 200mg | 48% |
+| Calcium | 500mg | 63% |
+| Vitamin D3 | 1000IU | 250% |
+
+**Ingredients:** L-Carnitine Tartrate.
+
 ## Product Variants
 
 ### Variant 1: [Default Title](https://vpa-australia.myshopify.com/products/l-carnitine)
 
 - **Price:** AUD 27.0
 - **Available:** Yes
-- **Quantity Available:** 26655
+- **Quantity Available:** 26405
 - **Options:**
   - Title: Default Title
 
@@ -58,5 +87,5 @@ L-carnitine L-carnitine is a strong fat metabolizer as it works hard in your bod
 
 - **Product ID:** `gid://shopify/Product/4546982772791`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:00.238Z
+- **Generated:** 2025-09-21T22:09:48.622Z
 

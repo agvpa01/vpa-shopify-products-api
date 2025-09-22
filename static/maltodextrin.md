@@ -1,6 +1,6 @@
 # [Maltodextrin](https://vpa-australia.myshopify.com/products/maltodextrin)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -23,9 +23,9 @@
 - **Product Type:** Carbohydrate Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 20344
+- **Total Inventory:** 20295
 - **Created:** 6/2/2020
-- **Updated:** 8/18/2025
+- **Updated:** 9/19/2025
 
 **Tags:** foodtech_product_shopbyingredient: Maltodextrin, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegan, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: performance and endurance, vpa australia
 
@@ -52,7 +52,7 @@ MALTODEXTRIN Maltodextrin is a form of long chain carbohydrate made from corn, r
 
 - **Price:** AUD 20.0
 - **Available:** Yes
-- **Quantity Available:** 20344
+- **Quantity Available:** 20295
 - **Options:**
   - Title: Default Title
 
@@ -60,5 +60,5 @@ MALTODEXTRIN Maltodextrin is a form of long chain carbohydrate made from corn, r
 
 - **Product ID:** `gid://shopify/Product/4546971893815`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:11:52.712Z
+- **Generated:** 2025-09-21T22:09:39.370Z
 

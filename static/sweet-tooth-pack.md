@@ -1,6 +1,6 @@
 # [Sweet Tooth Pack](https://vpa-australia.myshopify.com/products/sweet-tooth-pack)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -52,5 +52,5 @@ SWEET TOOTH PACK The ultimate Guilt Free dessert pack is here! A range of protei
 
 - **Product ID:** `gid://shopify/Product/4679179436087`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:13.877Z
+- **Generated:** 2025-09-21T22:10:04.874Z
 

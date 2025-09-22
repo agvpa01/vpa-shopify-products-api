@@ -2,7 +2,7 @@
 
 **Type:** HASTA
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -62,7 +62,7 @@
 - **Available for Sale:** No
 - **Total Inventory:** N/A
 - **Created:** 10/30/2024
-- **Updated:** 7/21/2025
+- **Updated:** 8/28/2025
 
 **Tags:** dispatch_only_Brisbane, foodtech_product_shopbyingredient: BCAA, foodtech_product_shopbyingredient: Citrulline Malate, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegan, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: muscle gain, foodtech_product_shopybygoal: performance and endurance, new_flavour, vpa australia
 
@@ -97,5 +97,5 @@ HASTA - VPA® Batch-Tested Bussin Intra is a premium intra-workout supplement fo
 
 - **Product ID:** `gid://shopify/Product/7188436910135`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:33.449Z
+- **Generated:** 2025-09-21T22:10:31.648Z
 

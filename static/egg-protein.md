@@ -1,6 +1,6 @@
 # [Egg White Powder](https://vpa-australia.myshopify.com/products/egg-protein)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -23,9 +23,9 @@
 - **Product Type:** Protein Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 67
+- **Total Inventory:** 5
 - **Created:** 6/2/2020
-- **Updated:** 8/19/2025
+- **Updated:** 9/19/2025
 
 **Tags:** foodtech_product_allergen: eggs, foodtech_product_shopbyingredient: Egg Albumen, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: muscle gain, vpa australia
 
@@ -36,6 +36,26 @@ EGG PROTEIN With the highest biological value of 100, VPA’s Egg White Protein 
 ## Pricing
 
 **Price:** AUD 75.0
+
+## Nutritional Information (NIP)
+
+**Variant: Default Title | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 474 | 1,580 |
+| Energy (Cal) | 113 | 378 |
+| Protein (g) | 25.0 | 80.0 |
+| Total Fat (g) | 0.2 | 0.5 |
+| Saturated Fat (g) | 0.1 | 0.2 |
+| Total Carbohydrate (g) | 1.4 | 4.5 |
+| Sugars (g) | 0 | 0 |
+| Sodium (mg) | 371 | 1,238 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavour, Xanthan, Sucralose.
 
 ## Quantity Price Breaks
 
@@ -53,7 +73,7 @@ EGG PROTEIN With the highest biological value of 100, VPA’s Egg White Protein 
 
 - **Price:** AUD 75.0
 - **Available:** Yes
-- **Quantity Available:** 67
+- **Quantity Available:** 5
 - **Options:**
   - Title: Default Title
 
@@ -61,5 +81,5 @@ EGG PROTEIN With the highest biological value of 100, VPA’s Egg White Protein 
 
 - **Product ID:** `gid://shopify/Product/4546974548023`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:11:53.606Z
+- **Generated:** 2025-09-21T22:09:40.559Z
 

@@ -1,6 +1,6 @@
 # [Insulated Sport Water Bottle - 610mL](https://vpa-australia.myshopify.com/products/insulated-sport-water-bottle-610ml)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -58,9 +58,9 @@
 - **Product Type:** Accessories
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 79
+- **Total Inventory:** 66
 - **Created:** 2/13/2025
-- **Updated:** 8/19/2025
+- **Updated:** 9/17/2025
 
 **Tags:** brisbane_only, dispatch_only_Brisbane, NEW
 
@@ -78,7 +78,7 @@ description Designed for active lifestyles, the 610ml Insulated Squeeze Sports B
 
 - **Price:** AUD 25.0
 - **Available:** Yes
-- **Quantity Available:** 79
+- **Quantity Available:** 66
 - **Options:**
   - Title: Default Title
 
@@ -86,5 +86,5 @@ description Designed for active lifestyles, the 610ml Insulated Squeeze Sports B
 
 - **Product ID:** `gid://shopify/Product/7230155718711`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:33.856Z
+- **Generated:** 2025-09-21T22:10:32.224Z
 

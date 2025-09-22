@@ -1,6 +1,6 @@
 # [Summer FOMO - Thermogenic Formula](https://vpa-australia.myshopify.com/products/summer-fomo)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -51,9 +51,9 @@
 - **Product Type:** Pre-Workout
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 17122
+- **Total Inventory:** 16927
 - **Created:** 6/2/2020
-- **Updated:** 8/19/2025
+- **Updated:** 9/21/2025
 
 **Tags:** foodtech_product_shopbygoal: weight loss, foodtech_product_shopbyingredient: Acacia Fibre, foodtech_product_shopbyingredient: L-Glutamine, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegan, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: general health, foodtech_product_shopybygoal: weight loss, hyperburn, vpa australia
 
@@ -65,13 +65,54 @@ Summer FOMO Summer FOMO. As both a thermogenic and an energy booster, Summer FOM
 
 **Price:** AUD 46.0
 
+## Nutritional Information (NIP)
+
+**Variant: Mango Passionfruit | Region: AU | Template: complex_supplements**
+
+- Serving Size:  6.5g
+- Servings: 30
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 69 | 1,062 |
+| Energy (Cal) | 17 | 255 |
+| Protein (g) | 1.7 | 26 |
+| Total Fat (g) | 0 | 0.1 |
+| Saturated Fat (g) | 0 | 0 |
+| Total Carbohydrate (g) | 0.5 | 7.0 |
+| Sugars (g) | 0.1 | 1.9 |
+| Dietary Fibre (g) | 2.3 | 34.6 |
+| Sodium (mg) | 5 | 65 |
+| Vitamin C (mg) | 19 (48% RDI) | 285 |
+| Calcium (mg) | 245 (31% RDI*) | 3,770 |
+| Green Tea Extract (mg) | 100 | 1,540 |
+| Guarana (mg) | 145 | 2,230 |
+| Caffeine (mg) | 80 | 1,230 |
+| AMINO ACIDS |  |  |
+| L-Leucine (mg)** | 315 | 4,840 |
+| L-Isoleucine (mg)** | 157 | 2,420 |
+| L-Valine (mg)** | 157 | 2,420 |
+| L-Glycine (mg) | 0 | 3,230 |
+| L-Tyrosine (mg) | 210 | 3,230 |
+| L-Glutamine (mg) | 839 | 12,900 |
+
+### Active Ingredients
+
+| Ingredient | Amount | Daily Value |
+|------------|--------|-------------|
+| Magnesium | 200mg | 48% |
+| Calcium | 500mg | 63% |
+| Vitamin D3 | 1000IU | 250% |
+
+**Ingredients:** Magnesium Oxide, Calcium Carbonate, Vitamin D3 (Cholecalciferol), Microcrystalline Cellulose, Magnesium Stearate, Silicon Dioxide.
+
 ## Product Variants
 
 ### Variant 1: [Mango Passionfruit](https://vpa-australia.myshopify.com/products/summer-fomo)
 
 - **Price:** AUD 46.0
 - **Available:** Yes
-- **Quantity Available:** 17122
+- **Quantity Available:** 16927
 - **Options:**
   - Flavour: Mango Passionfruit
 
@@ -79,5 +120,5 @@ Summer FOMO Summer FOMO. As both a thermogenic and an energy booster, Summer FOM
 
 - **Product ID:** `gid://shopify/Product/4546996633655`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:04.187Z
+- **Generated:** 2025-09-21T22:09:53.838Z
 

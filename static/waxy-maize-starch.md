@@ -1,6 +1,6 @@
 # [Waxy Maize Starch](https://vpa-australia.myshopify.com/products/waxy-maize-starch)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -23,9 +23,9 @@
 - **Product Type:** Carbohydrate Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 278
+- **Total Inventory:** 239
 - **Created:** 6/2/2020
-- **Updated:** 8/19/2025
+- **Updated:** 9/18/2025
 
 **Tags:** foodtech_product_shopbyingredient: Waxy Maize Starch, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegan, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: performance and endurance, vpa australia
 
@@ -52,7 +52,7 @@ WAXY MAIZE STARCH HOW VPA'S WAXY MAIZE STARCH OPTIMISES YOU - VPA’s Waxy Maize
 
 - **Price:** AUD 21.0
 - **Available:** Yes
-- **Quantity Available:** 278
+- **Quantity Available:** 239
 - **Options:**
   - Title: Default Title
 
@@ -60,5 +60,5 @@ WAXY MAIZE STARCH HOW VPA'S WAXY MAIZE STARCH OPTIMISES YOU - VPA’s Waxy Maize
 
 - **Product ID:** `gid://shopify/Product/4546983723063`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:01.968Z
+- **Generated:** 2025-09-21T22:09:50.870Z
 

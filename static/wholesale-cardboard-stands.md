@@ -1,6 +1,6 @@
 # [VPA Display Stands](https://vpa-australia.myshopify.com/products/wholesale-cardboard-stands)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -23,11 +23,11 @@
 - **Product Type:** Accessories
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 140
+- **Total Inventory:** 135
 - **Created:** 5/20/2021
-- **Updated:** 8/4/2025
+- **Updated:** 9/19/2025
 
-**Tags:** B2BSTAND_SSI, dispatch_only_Brisbane
+**Tags:** brisbane_only, dispatch_only_Brisbane
 
 ## Pricing
 
@@ -40,7 +40,7 @@
 - **Price:** AUD 69.0
 - **Compare at Price:** AUD 75.0
 - **Available:** Yes
-- **Quantity Available:** 140
+- **Quantity Available:** 135
 - **Options:**
   - Title: Default Title
 
@@ -48,5 +48,5 @@
 
 - **Product ID:** `gid://shopify/Product/6565420630071`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:16.948Z
+- **Generated:** 2025-09-21T22:10:08.784Z
 

@@ -1,6 +1,6 @@
 # [Leucine](https://vpa-australia.myshopify.com/products/leucine)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -23,9 +23,9 @@
 - **Product Type:** Amino Acid
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 60
+- **Total Inventory:** 25
 - **Created:** 6/2/2020
-- **Updated:** 8/19/2025
+- **Updated:** 9/21/2025
 
 **Tags:** foodtech_product_shopbyingredient: Leucine, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegan, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: muscle gain, vpa australia
 
@@ -37,13 +37,42 @@ Leucine Leucine is recognised as the primary amino acid in charge of muscle grow
 
 **Price:** AUD 27.0
 
+## Nutritional Information (NIP)
+
+**Variant: Default Title | Region: AU | Template: complex_supplements**
+
+- Serving Size: 2g
+- Servings per Bottle: 100
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 34 | 1,700 |
+| Energy (Cal) | 8 | 406 |
+| Protein (g) | 2 | 100 |
+| Total Fat (g) | 0 | 0 |
+| Saturated Fat (g) | 0 | 0 |
+| Total Carbohydrate (g) | 0 | 0 |
+| Sugars (g) | 0 | 0 |
+| Sodium (mg) | 0 | 0 |
+| L-Leucine (mg) | 2,000 | 100,000 |
+
+### Active Ingredients
+
+| Ingredient | Amount | Daily Value |
+|------------|--------|-------------|
+| Magnesium | 200mg | 48% |
+| Calcium | 500mg | 63% |
+| Vitamin D3 | 1000IU | 250% |
+
+**Ingredients:** L-Leucine.
+
 ## Product Variants
 
 ### Variant 1: [Default Title](https://vpa-australia.myshopify.com/products/leucine)
 
 - **Price:** AUD 27.0
 - **Available:** Yes
-- **Quantity Available:** 60
+- **Quantity Available:** 25
 - **Options:**
   - Title: Default Title
 
@@ -51,5 +80,5 @@ Leucine Leucine is recognised as the primary amino acid in charge of muscle grow
 
 - **Product ID:** `gid://shopify/Product/4546982969399`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:00.667Z
+- **Generated:** 2025-09-21T22:09:49.177Z
 

@@ -1,6 +1,6 @@
 # [ZMA6 Recovery](https://vpa-australia.myshopify.com/products/zma6-recovery)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -51,9 +51,9 @@
 - **Product Type:** Amino Acid
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** -2590
+- **Total Inventory:** -2811
 - **Created:** 3/3/2021
-- **Updated:** 8/18/2025
+- **Updated:** 9/19/2025
 
 **Tags:** foodtech_product_shopybygoal: rest and relaxtion
 
@@ -71,7 +71,7 @@ ZMA6 Recovery – Nighttime Recovery Support Supplement ZMA6 Recovery is a premi
 
 - **Price:** AUD 47.0
 - **Available:** Yes
-- **Quantity Available:** -4077
+- **Quantity Available:** -4216
 - **Options:**
   - Flavour: Apple Raspberry
 
@@ -79,7 +79,7 @@ ZMA6 Recovery – Nighttime Recovery Support Supplement ZMA6 Recovery is a premi
 
 - **Price:** AUD 47.0
 - **Available:** Yes
-- **Quantity Available:** 1487
+- **Quantity Available:** 1405
 - **Options:**
   - Flavour: Mango Melon
 
@@ -87,5 +87,5 @@ ZMA6 Recovery – Nighttime Recovery Support Supplement ZMA6 Recovery is a premi
 
 - **Product ID:** `gid://shopify/Product/6537114026039`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:16.504Z
+- **Generated:** 2025-09-21T22:10:08.236Z
 

@@ -2,7 +2,7 @@
 
 **Type:** HASTA
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -74,9 +74,9 @@
 - **Product Type:** Protein Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 353
+- **Total Inventory:** 345
 - **Created:** 10/30/2024
-- **Updated:** 8/18/2025
+- **Updated:** 9/21/2025
 
 **Tags:** dispatch_only_Brisbane, foodtech_product_allergen: milk, foodtech_product_allergen: soy, foodtech_product_shopbyingredient: Creatine, foodtech_product_shopbyingredient: Creatine Monohydrate, foodtech_product_shopbyingredient: WPC, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: muscle gain, vpa australia
 
@@ -114,7 +114,7 @@ HASTA - VPA® Muscle Gainer is a high-calorie, high-protein supplement specifica
 
 - **Price:** AUD 39.0
 - **Available:** Yes
-- **Quantity Available:** 143
+- **Quantity Available:** 136
 - **Options:**
   - Flavour: Vanilla
 
@@ -122,7 +122,7 @@ HASTA - VPA® Muscle Gainer is a high-calorie, high-protein supplement specifica
 
 - **Price:** AUD 39.0
 - **Available:** Yes
-- **Quantity Available:** 211
+- **Quantity Available:** 210
 - **Options:**
   - Flavour: Salted Caramel
 
@@ -130,5 +130,5 @@ HASTA - VPA® Muscle Gainer is a high-calorie, high-protein supplement specifica
 
 - **Product ID:** `gid://shopify/Product/7188435304503`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:30.543Z
+- **Generated:** 2025-09-21T22:10:28.900Z
 

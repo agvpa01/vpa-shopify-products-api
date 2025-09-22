@@ -1,6 +1,6 @@
 # [Electrolyte Powder](https://vpa-australia.myshopify.com/products/electrolyte-powder-1kg)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -58,9 +58,9 @@
 - **Product Type:** Carbohydrate Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 56894
+- **Total Inventory:** 56661
 - **Created:** 7/5/2023
-- **Updated:** 8/19/2025
+- **Updated:** 9/21/2025
 
 **Tags:** new_flavour
 
@@ -72,13 +72,44 @@ VPA Electrolyte Powder is a fast-absorbing hydration supplement formulated to he
 
 **Price:** AUD 19.0
 
+## Nutritional Information (NIP)
+
+**Variant: Tropical Breeze | Region: AU | Template: complex_supplements**
+
+- Serving Size: 16g
+- Servings per Container: 62
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 225 | 1,404 |
+| Energy (Cal) | 54 | 336 |
+| Protein (g) | 0 | 0 |
+| Total Fat (g) | 0 | 0 |
+| Saturated Fat (g) | 0 | 0 |
+| Total Carbohydrate (g) | 13.4 | 84.0 |
+| Sugars (g) | 8.0 | 50.2 |
+| Sodium (mg) | 39 | 246 |
+| Magnesium (mg) | 52 | 326 |
+| Potassium (mg) | 50 | 312 |
+| Calcium (mg) | 11 | 66 |
+
+### Active Ingredients
+
+| Ingredient | Amount | Daily Value |
+|------------|--------|-------------|
+| Magnesium | 200mg | 48% |
+| Calcium | 500mg | 63% |
+| Vitamin D3 | 1000IU | 250% |
+
+**Ingredients:** Sucrose, Maltodextrin, Flavours, Electrolyte Blend Powder (Magnesium Glycinate, Monopotassium Phosphate, Sodium Chloride, Calcium Lactate), Citric Acid, Natural Colours, Sucralose.
+
 ## Product Variants
 
 ### Variant 1: [Tropical Breeze](https://vpa-australia.myshopify.com/products/electrolyte-powder-1kg)
 
 - **Price:** AUD 19.0
 - **Available:** Yes
-- **Quantity Available:** 18699
+- **Quantity Available:** 18594
 - **Options:**
   - Flavour: Tropical Breeze
 
@@ -86,7 +117,7 @@ VPA Electrolyte Powder is a fast-absorbing hydration supplement formulated to he
 
 - **Price:** AUD 19.0
 - **Available:** Yes
-- **Quantity Available:** 18867
+- **Quantity Available:** 18779
 - **Options:**
   - Flavour: Berrylicious Blast
 
@@ -94,7 +125,7 @@ VPA Electrolyte Powder is a fast-absorbing hydration supplement formulated to he
 
 - **Price:** AUD 19.0
 - **Available:** Yes
-- **Quantity Available:** 19328
+- **Quantity Available:** 19288
 - **Options:**
   - Flavour: Fruity Fiesta
 
@@ -102,5 +133,5 @@ VPA Electrolyte Powder is a fast-absorbing hydration supplement formulated to he
 
 - **Product ID:** `gid://shopify/Product/6813084778551`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:20.394Z
+- **Generated:** 2025-09-21T22:10:15.197Z
 

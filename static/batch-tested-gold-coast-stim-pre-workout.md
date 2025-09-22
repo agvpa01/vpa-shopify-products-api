@@ -2,7 +2,7 @@
 
 **Type:** HASTA
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -67,9 +67,9 @@
 - **Product Type:** Pre-Workout
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 6
+- **Total Inventory:** 4
 - **Created:** 10/30/2024
-- **Updated:** 8/15/2025
+- **Updated:** 9/1/2025
 
 **Tags:** dispatch_only_Brisbane, foodtech_product_shopbyingredient: AAKG, foodtech_product_shopbyingredient: Beta Alanine, foodtech_product_shopbyingredient: Citruline Malate, foodtech_product_shopbyingredient: Creatine Monohydrate, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegan, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: performance and endurance, ghost, new_flavour, pre 30, preworkout, vpa australia
 
@@ -104,7 +104,7 @@ HASTA - Gold Coast Stim Pre-Workout is a high-performance supplement formulated 
 
 - **Price:** AUD 47.0
 - **Available:** Yes
-- **Quantity Available:** 6
+- **Quantity Available:** 4
 - **Options:**
   - Flavours: Blue Razzleberry
 
@@ -112,5 +112,5 @@ HASTA - Gold Coast Stim Pre-Workout is a high-performance supplement formulated 
 
 - **Product ID:** `gid://shopify/Product/7188435959863`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:30.987Z
+- **Generated:** 2025-09-21T22:10:29.447Z
 

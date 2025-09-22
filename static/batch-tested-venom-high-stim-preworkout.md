@@ -2,7 +2,7 @@
 
 **Type:** HASTA
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -83,7 +83,7 @@
 - **Available for Sale:** No
 - **Total Inventory:** N/A
 - **Created:** 10/30/2024
-- **Updated:** 7/21/2025
+- **Updated:** 8/28/2025
 
 **Tags:** dispatch_only_Brisbane, foodtech_product_shopbyingredient: AAKG, foodtech_product_shopbyingredient: Beta Alanine, foodtech_product_shopbyingredient: Citruline, foodtech_product_shopbyingredient: Creatine, foodtech_product_shopbyingredient: Creatine Monohydrate, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegan, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: muscle gain, foodtech_product_shopybygoal: performance and endurance, ghost, koala freak, pre, pre workout, vpa australia
 
@@ -117,5 +117,5 @@ HASTA - VPA’s Batch-Tested Venom® Pre-Workout is a high-performance supplemen
 
 - **Product ID:** `gid://shopify/Product/7188436549687`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:32.165Z
+- **Generated:** 2025-09-21T22:10:30.556Z
 

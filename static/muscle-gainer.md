@@ -1,6 +1,6 @@
 # [Muscle Gainer](https://vpa-australia.myshopify.com/products/muscle-gainer)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -86,9 +86,9 @@
 - **Product Type:** Protein Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 561
+- **Total Inventory:** -326
 - **Created:** 6/2/2020
-- **Updated:** 8/19/2025
+- **Updated:** 9/19/2025
 
 **Tags:** foodtech_product_allergen: milk, foodtech_product_allergen: soy, foodtech_product_shopbyingredient: Creatine, foodtech_product_shopbyingredient: Creatine Monohydrate, foodtech_product_shopbyingredient: WPC, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: muscle gain, vpa australia
 
@@ -99,6 +99,90 @@ Muscle Gainer VPA Muscle Gainer is a comprehensive protein shake designed to hel
 ## Pricing
 
 **Price:** AUD 34.0
+
+## Nutritional Information (NIP)
+
+**Variant: Chocolate | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 1,000 | 1,250 |
+| Energy (Cal) | 239 | 299 |
+| Protein (g) | 31.2 | 39.0 |
+| Total Fat (g) | 2.3 | 2.9 |
+| Saturated Fat (g) | 1.4 | 1.7 |
+| Total Carbohydrate (g) | 23.3 | 29.1 |
+| Sugars (g | 21.8 | 27.2 |
+| Sodium (mg) | 80 | 100 |
+| Creatine Monohydrate (g) | 2 | 2.5 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavour, Xanthan, Sucralose.
+
+---
+
+**Variant: Vanilla | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 1,000 | 1,250 |
+| Energy (Cal) | 239 | 299 |
+| Protein (g) | 31.2 | 39.0 |
+| Total Fat (g) | 2.3 | 2.9 |
+| Saturated Fat (g) | 1.4 | 1.7 |
+| Total Carbohydrate (g) | 23.3 | 29.1 |
+| Sugars (g | 22.4 | 28.0 |
+| Sodium (mg) | 80 | 100 |
+| Creatine Monohydrate (g) | 2 | 2.5 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavour, Xanthan, Sucralose.
+
+---
+
+**Variant: Banana | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 1,000 | 1,250 |
+| Energy (Cal) | 239 | 299 |
+| Protein (g) | 31.2 | 39.0 |
+| Total Fat (g) | 2.3 | 2.9 |
+| Saturated Fat (g) | 1.4 | 1.7 |
+| Total Carbohydrate (g) | 23.3 | 29.1 |
+| Sugars (g | 22.2 | 27.7 |
+| Sodium (mg) | 74 | 92 |
+| Creatine Monohydrate (g) | 2 | 2.5 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavour, Xanthan, Sucralose.
+
+---
+
+**Variant: Salted Caramel | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 1,000 | 1,250 |
+| Energy (Cal) | 239 | 299 |
+| Protein (g) | 31.2 | 39.0 |
+| Total Fat (g) | 2.3 | 2.9 |
+| Saturated Fat (g) | 1.4 | 1.7 |
+| Total Carbohydrate (g) | 23.3 | 29.1 |
+| Sugars (g | 21.8 | 27.2 |
+| Sodium (mg) | 390 | 488 |
+| Creatine Monohydrate (g) | 2 | 2.5 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavour, Xanthan, Sucralose.
 
 ## Quantity Price Breaks
 
@@ -118,7 +202,7 @@ Muscle Gainer VPA Muscle Gainer is a comprehensive protein shake designed to hel
 
 - **Price:** AUD 34.0
 - **Available:** Yes
-- **Quantity Available:** 3194
+- **Quantity Available:** 2850
 - **Options:**
   - Flavour: Chocolate
 
@@ -126,7 +210,7 @@ Muscle Gainer VPA Muscle Gainer is a comprehensive protein shake designed to hel
 
 - **Price:** AUD 34.0
 - **Available:** Yes
-- **Quantity Available:** -11329
+- **Quantity Available:** -11601
 - **Options:**
   - Flavour: Vanilla
 
@@ -134,7 +218,7 @@ Muscle Gainer VPA Muscle Gainer is a comprehensive protein shake designed to hel
 
 - **Price:** AUD 34.0
 - **Available:** Yes
-- **Quantity Available:** 4554
+- **Quantity Available:** 4437
 - **Options:**
   - Flavour: Banana
 
@@ -150,7 +234,7 @@ Muscle Gainer VPA Muscle Gainer is a comprehensive protein shake designed to hel
 
 - **Price:** AUD 34.0
 - **Available:** Yes
-- **Quantity Available:** 4150
+- **Quantity Available:** 3996
 - **Options:**
   - Flavour: Salted Caramel
 
@@ -158,5 +242,5 @@ Muscle Gainer VPA Muscle Gainer is a comprehensive protein shake designed to hel
 
 - **Product ID:** `gid://shopify/Product/4546975399991`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:11:54.719Z
+- **Generated:** 2025-09-21T22:09:41.725Z
 

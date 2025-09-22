@@ -1,6 +1,6 @@
 # [Whey Protein Isolate](https://vpa-australia.myshopify.com/products/whey-isolate-protein-powder)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -86,19 +86,399 @@
 - **Product Type:** Protein Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 137064
+- **Total Inventory:** 146457
 - **Created:** 6/2/2020
-- **Updated:** 8/19/2025
+- **Updated:** 9/19/2025
 
 **Tags:** foodtech_product_allergen: milk, foodtech_product_allergen: soy, foodtech_product_shopbygoal: weight loss, foodtech_product_shopbyingredient: WPI, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: muscle gain, foodtech_product_shopybygoal: weight loss, new_flavour, vpa australia
 
 ## Description
 
-Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 90% protein content and minimal carbohydrates, fats, and lactose. Known for its clean nutritional profile, WPI is a great option for those aiming to increase daily protein intake while following a low-carb or lactose-conscious diet. This protein powder contains a naturally occurring amino acid profile and is commonly used to support an active lifestyle and balanced nutrition goals.
+Description VPA Whey Isolate is Australia's leading Whey Protein Isolate; ultra-pure, fast-absorbing, low-carb, and high-protein. Ideal for lean muscle growth and recovery. No fillers. No hype. Just results. Nutritional Facts Ingredients Whey Protein Isolate, (Milk) (Emulsifier (Soy Lecithin)), Cocoa*, Flavour, Xanthan, Sucralose. *Cocoa is included in chocolate and caramel based flavours. Coffee flavours CONTAIN CAFFEINE equivalent to approximately 20mg per serve. Heads Up!For all chocolate-based flavours, we use natural cocoa powder without anti-caking agents. As a result, you may notice small lumps of dark cocoa in these flavours. Dark Chocolate Note:While we incorporate 100% organic and natural cocoa powder in our chocolate-flavoured protein powders, the amount used is significantly lower than that found in dark chocolate. Therefore, our protein powders may not provide the same level of antioxidant benefits associated with consuming dark chocolate. Allergen Advice:Contains ingredients derived from milk and less than 1% soy lecithin (as an instantiser). FLAVOUR GUARANTEE At VPA®, we don’t rush flavours. Every one is crafted in-house by our food technician with 15+ years’ experience, then refined through months of blind taste testing with real customers. The result? Flavours made for our community, by our community. But if it’s not your thing? No worries.We’ll replace it with another flavour of your choice — on the house. Satisfaction Guarantee:Not 100% happy? Return it with at least 90% remaining and we’ll organise an exchange. Description VPA Whey Isolate is Australia's leading Whey Protein Isolate; ultra-pure, fast-absorbing, low-carb, and high-protein. Ideal for lean muscle growth and recovery. No fillers. No hype. Just results. Nutritional Facts Ingredients Whey Protein Isolate, (Milk) (Emulsifier (Soy Lecithin)), Cocoa*, Flavour, Xanthan, Sucralose. *Cocoa is included in chocolate and caramel based flavours. Coffee flavours CONTAIN CAFFEINE equivalent to approximately 20mg per serve. Heads Up!For all chocolate-based flavours, we use natural cocoa powder without anti-caking agents. As a result, you may notice small lumps of dark cocoa in these flavours. Dark Chocolate Note:While we incorporate 100% organic and natural cocoa powder in our chocolate-flavoured protein powders, the amount used is significantly lower than that found in dark chocolate. Therefore, our protein powders may not provide the same level of antioxidant benefits associated with consuming dark chocolate. Allergen Advice:Contains ingredients derived from milk and less than 1% soy lecithin (as an instantiser). FLAVOUR GUARANTEE At VPA®, we don’t rush flavours. Every one is crafted in-house by our food technician with 15+ years’ experience, then refined through months of blind taste testing with real customers. The result? Flavours made for our community, by our community. But if it’s not your thing? No worries.We’ll replace it with another flavour of your choice — on the house. Satisfaction Guarantee:Not 100% happy? Return it with at least 90% remaining and we’ll organise an exchange.
 
 ## Pricing
 
 **Price:** AUD 60.0
+
+## Nutritional Information (NIP)
+
+**Variant: Chocolate | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 478 | 1,590 |
+| Energy (Cal) | 114 | 381 |
+| Protein (g) | 26.1 | 87.0 |
+| Total Fat (g) | 0.3 | 1.0 |
+| Saturated Fat (g) | 0.1 | 0.4 |
+| Total Carbohydrate (g) | 1.4 | 4.7 |
+| Sugars (g) | 0.8 | 2.5 |
+| Sodium (mg) | 44 | 148 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavour, Xanthan, Sucralose.
+
+---
+
+**Variant: Vanilla | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 480 | 1,600 |
+| Energy (Cal) | 115 | 382 |
+| Protein (g) | 26.4 | 88.0 |
+| Total Fat (g) | 0.2 | 0.7 |
+| Saturated Fat (g) | 0.1 | 0.2 |
+| Total Carbohydrate (g) | 1.5 | 4.9 |
+| Sugars (g) | 0.8 | 2.5 |
+| Sodium (mg) | 60 | 200 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavour, Xanthan, Sucralose.
+
+---
+
+**Variant: Strawberry | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 480 | 1,600 |
+| Energy (Cal) | 115 | 382 |
+| Protein (g) | 26.4 | 88.0 |
+| Total Fat (g) | 0.2 | 0.7 |
+| Saturated Fat (g) | 0.1 | 0.2 |
+| Total Carbohydrate (g) | 1.6 | 5.4 |
+| Sugars (g) | 0.8 | 2.5 |
+| Sodium (mg) | 43 | 143 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavour, Xanthan, Sucralose, Natural Colour.
+
+---
+
+**Variant: Banana | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 480 | 1,600 |
+| Energy (Cal) | 115 | 382 |
+| Protein (g) | 26.4 | 88.0 |
+| Total Fat (g) | 0.2 | 0.7 |
+| Saturated Fat (g) | 0.1 | 0.2 |
+| Total Carbohydrate (g) | 1.6 | 5.3 |
+| Sugars (g) | 0.8 | 2.5 |
+| Sodium (mg) | 43 | 144 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavours, Xanthan, Sucralose, Natural Colour.
+
+---
+
+**Variant: Natural | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 483 | 1,610 |
+| Energy (Cal) | 116 | 385 |
+| Protein (g) | 27.3 | 91.0 |
+| Total Fat (g) | 0.2 | 0.7 |
+| Saturated Fat (g) | 0.1 | 0.2 |
+| Total Carbohydrate (g) | 0.8 | 2.6 |
+| Sugars (g) | 0.8 | 2.6 |
+| Sodium (mg) | 45 | 149 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)).
+
+---
+
+**Variant: Iced Coffee | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 483 | 1,610 |
+| Energy (Cal) | 115 | 385 |
+| Protein (g) | 26.1 | 87.0 |
+| Total Fat (g) | 0.4 | 1.2 |
+| Saturated Fat (g) | 0.1 | 0.2 |
+| Total Carbohydrate (g) | 1.7 | 5.5 |
+| Sugars (g) | 0.9 | 2.9 |
+| Sodium (mg) | 44 | 147 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Coffee, Flavour, Xanthan, Sucralose.
+
+---
+
+**Variant: Rainbow Ice Cream | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 479 | 1,600 |
+| Energy (Cal) | 114 | 382 |
+| Protein (g) | 26.2 | 87.0 |
+| Total Fat (g) | 0.2 | 0.7 |
+| Saturated Fat (g) | 0.1 | 0.2 |
+| Total Carbohydrate (g) | 1.7 | 5.6 |
+| Sugars (g) | 0.7 | 2.5 |
+| Sodium (mg) | 43 | 143 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavour, Xanthan, Sucralose, Natural Colours.
+
+---
+
+**Variant: Choc Peanut Butter Cup | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 478 | 1,590 |
+| Energy (Cal) | 114 | 381 |
+| Protein (g) | 26.1 | 87.0 |
+| Total Fat (g) | 0.3 | 1.0 |
+| Saturated Fat (g) | 0.1 | 0.4 |
+| Total Carbohydrate (g) | 1.4 | 4.7 |
+| Sugars (g) | 0.8 | 2.5 |
+| Sodium (mg) | 44 | 148 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavours, Cocoa, Xanthan, Sucralose.
+
+---
+
+**Variant: Salted Caramel | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 477 | 1,590 |
+| Energy (Cal) | 114 | 380 |
+| Protein (g) | 26.2 | 87.0 |
+| Total Fat (g) | 0.2 | 0.7 |
+| Saturated Fat (g) | 0.1 | 0.2 |
+| Total Carbohydrate (g) | 1.5 | 5.1 |
+| Sugars (g) | 0.7 | 2.5 |
+| Sodium (mg) | 100 | 333 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavour, Salt, Cocoa, Xanthan, Sucralose.
+
+---
+
+**Variant: Fruity Cereal | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 478 | 1,590 |
+| Energy (Cal) | 114 | 381 |
+| Protein (g) | 26.1 | 87.0 |
+| Total Fat (g) | 0.3 | 1.0 |
+| Saturated Fat (g) | 0.1 | 0.4 |
+| Total Carbohydrate (g) | 1.4 | 4.7 |
+| Sugars (g) | 0.8 | 2.5 |
+| Sodium (mg) | 44 | 148 |
+
+**Ingredients:** Whey Protein Isolate (Milk) (Emulsifier (Soy Lecithin)), Flavours, Xanthan, Natural Colour, Sucralose.
+
+---
+
+**Variant: Rich Mocha | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 478 | 1,590 |
+| Energy (Cal) | 114 | 381 |
+| Protein (g) | 26.1 | 87.0 |
+| Total Fat (g) | 0.3 | 1.0 |
+| Saturated Fat (g) | 0.1 | 0.4 |
+| Total Carbohydrate (g) | 1.4 | 4.7 |
+| Sugars (g) | 0.8 | 2.5 |
+| Sodium (mg) | 44 | 148 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavour, Xanthan, Sucralose.
+
+---
+
+**Variant: Choc Coconut | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 478 | 1,590 |
+| Energy (Cal) | 114 | 381 |
+| Protein (g) | 26.1 | 87.0 |
+| Total Fat (g) | 0.3 | 1.0 |
+| Saturated Fat (g) | 0.1 | 0.4 |
+| Total Carbohydrate (g) | 1.4 | 4.7 |
+| Sugars (g) | 0.8 | 2.5 |
+| Sodium (mg) | 44 | 148 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavour, Xanthan, Sucralose.
+
+---
+
+**Variant: Birthday Cake | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 478 | 1,590 |
+| Energy (Cal) | 114 | 381 |
+| Protein (g) | 26.1 | 87.0 |
+| Total Fat (g) | 0.3 | 1.0 |
+| Saturated Fat (g) | 0.1 | 0.4 |
+| Total Carbohydrate (g) | 1.4 | 4.7 |
+| Sugars (g) | 0.8 | 2.5 |
+| Sodium (mg) | 44 | 148 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavour, Xanthan, Sucralose.
+
+---
+
+**Variant: Choc Honeycomb | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 478 | 1,590 |
+| Energy (Cal) | 114 | 381 |
+| Protein (g) | 26.1 | 87.0 |
+| Total Fat (g) | 0.3 | 1.0 |
+| Saturated Fat (g) | 0.1 | 0.4 |
+| Total Carbohydrate (g) | 1.4 | 4.7 |
+| Sugars (g) | 0.8 | 2.5 |
+| Sodium (mg) | 44 | 148 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavour, Xanthan, Sucralose.
+
+---
+
+**Variant: Choc Hazelnut | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 478 | 1,590 |
+| Energy (Cal) | 114 | 381 |
+| Protein (g) | 26.1 | 87.0 |
+| Total Fat (g) | 0.3 | 1.0 |
+| Saturated Fat (g) | 0.1 | 0.4 |
+| Total Carbohydrate (g) | 1.4 | 4.7 |
+| Sugars (g) | 0.8 | 2.5 |
+| Sodium (mg) | 44 | 148 |
+
+**Ingredients:** Whey Protein Isolate (Milk) (Emulsifier (Soy Lecithin)), Flavours, Xanthan, Natural Colour, Sucralose.
+
+---
+
+**Variant: Caramel White Milk | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 478 | 1,590 |
+| Energy (Cal) | 114 | 381 |
+| Protein (g) | 26.1 | 87.0 |
+| Total Fat (g) | 0.3 | 1.0 |
+| Saturated Fat (g) | 0.1 | 0.4 |
+| Total Carbohydrate (g) | 1.4 | 4.7 |
+| Sugars (g) | 0.8 | 2.5 |
+| Sodium (mg) | 44 | 148 |
+
+**Ingredients:** Whey Protein Isolate (Milk) (Emulsifier (Soy Lecithin)), Flavours, Xanthan, Natural Colour, Sucralose.
+
+---
+
+**Variant: Dark Chocolate | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 478 | 1,590 |
+| Energy (Cal) | 114 | 381 |
+| Protein (g) | 26.1 | 87.0 |
+| Total Fat (g) | 0.3 | 1.0 |
+| Saturated Fat (g) | 0.1 | 0.4 |
+| Total Carbohydrate (g) | 1.4 | 4.7 |
+| Sugars (g) | 0.8 | 2.5 |
+| Sodium (mg) | 44 | 148 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavour, Xanthan, Sucralose.
+
+---
+
+**Variant: Caramel Biscuit Shake | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 478 | 1,590 |
+| Energy (Cal) | 114 | 381 |
+| Protein (g) | 26.1 | 87.0 |
+| Total Fat (g) | 0.3 | 1.0 |
+| Saturated Fat (g) | 0.1 | 0.4 |
+| Total Carbohydrate (g) | 1.4 | 4.7 |
+| Sugars (g) | 0.8 | 2.5 |
+| Sodium (mg) | 44 | 148 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavour, Xanthan, Sucralose.
+
+---
+
+**Variant: White Choc Raspberry | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 478 | 1,590 |
+| Energy (Cal) | 114 | 381 |
+| Protein (g) | 26.1 | 87.0 |
+| Total Fat (g) | 0.3 | 1.0 |
+| Saturated Fat (g) | 0.1 | 0.4 |
+| Total Carbohydrate (g) | 1.4 | 4.7 |
+| Sugars (g) | 0.8 | 2.5 |
+| Sodium (mg) | 44 | 148 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavour, Xanthan, Sucralose.
 
 ## Quantity Price Breaks
 
@@ -117,7 +497,7 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Price:** AUD 60.0
 - **Available:** Yes
-- **Quantity Available:** 2216
+- **Quantity Available:** 225
 - **Options:**
   - Flavours: Chocolate
 
@@ -125,7 +505,7 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Price:** AUD 60.0
 - **Available:** Yes
-- **Quantity Available:** 18835
+- **Quantity Available:** 16283
 - **Options:**
   - Flavours: Vanilla
 
@@ -133,7 +513,7 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Price:** AUD 60.0
 - **Available:** Yes
-- **Quantity Available:** 8264
+- **Quantity Available:** 7802
 - **Options:**
   - Flavours: Strawberry
 
@@ -141,7 +521,7 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Price:** AUD 60.0
 - **Available:** Yes
-- **Quantity Available:** 7946
+- **Quantity Available:** 7430
 - **Options:**
   - Flavours: Banana
 
@@ -149,7 +529,7 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Price:** AUD 60.0
 - **Available:** Yes
-- **Quantity Available:** 7907
+- **Quantity Available:** 7341
 - **Options:**
   - Flavours: Natural
 
@@ -157,7 +537,7 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Price:** AUD 60.0
 - **Available:** Yes
-- **Quantity Available:** 7811
+- **Quantity Available:** 7304
 - **Options:**
   - Flavours: Iced Coffee
 
@@ -165,7 +545,7 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Price:** AUD 60.0
 - **Available:** Yes
-- **Quantity Available:** 9216
+- **Quantity Available:** 9035
 - **Options:**
   - Flavours: Rainbow Ice Cream
 
@@ -173,7 +553,7 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Price:** AUD 60.0
 - **Available:** Yes
-- **Quantity Available:** 7342
+- **Quantity Available:** 6704
 - **Options:**
   - Flavours: Salted Caramel
 
@@ -181,7 +561,7 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Price:** AUD 60.0
 - **Available:** Yes
-- **Quantity Available:** 8197
+- **Quantity Available:** 7766
 - **Options:**
   - Flavours: Choc Peanut Butter Cup
 
@@ -189,7 +569,7 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Price:** AUD 60.0
 - **Available:** Yes
-- **Quantity Available:** 9611
+- **Quantity Available:** 9544
 - **Options:**
   - Flavours: Fruity Cereal
 
@@ -197,7 +577,7 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Price:** AUD 60.0
 - **Available:** Yes
-- **Quantity Available:** 8466
+- **Quantity Available:** 8067
 - **Options:**
   - Flavours: Choc Hazelnut
 
@@ -205,7 +585,7 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Price:** AUD 60.0
 - **Available:** Yes
-- **Quantity Available:** 8682
+- **Quantity Available:** 8351
 - **Options:**
   - Flavours: Caramel White Milk
 
@@ -213,7 +593,7 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Price:** AUD 60.0
 - **Available:** Yes
-- **Quantity Available:** 8578
+- **Quantity Available:** 8251
 - **Options:**
   - Flavours: Choc Honeycomb
 
@@ -221,7 +601,7 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Price:** AUD 60.0
 - **Available:** Yes
-- **Quantity Available:** 7529
+- **Quantity Available:** 7007
 - **Options:**
   - Flavours: Dark Chocolate
 
@@ -229,7 +609,7 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Price:** AUD 60.0
 - **Available:** Yes
-- **Quantity Available:** 7675
+- **Quantity Available:** 7164
 - **Options:**
   - Flavours: Caramel Biscuit Shake
 
@@ -237,7 +617,7 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Price:** AUD 60.0
 - **Available:** Yes
-- **Quantity Available:** 9513
+- **Quantity Available:** 9402
 - **Options:**
   - Flavours: Birthday Cake
 
@@ -245,7 +625,7 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Price:** AUD 60.0
 - **Available:** Yes
-- **Quantity Available:** 100
+- **Quantity Available:** 20305
 - **Options:**
   - Flavours: Choc Coconut
 
@@ -253,7 +633,7 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Price:** AUD 60.0
 - **Available:** Yes
-- **Quantity Available:** -338
+- **Quantity Available:** -691
 - **Options:**
   - Flavours: White Choc Raspberry
 
@@ -261,7 +641,7 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Price:** AUD 60.0
 - **Available:** Yes
-- **Quantity Available:** -486
+- **Quantity Available:** -833
 - **Options:**
   - Flavours: Rich Mocha
 
@@ -269,5 +649,5 @@ Whey Protein Isolate (WPI) is a high-quality protein powder with approximately 9
 
 - **Product ID:** `gid://shopify/Product/4546979921975`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:11:56.634Z
+- **Generated:** 2025-09-21T22:09:44.142Z
 

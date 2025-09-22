@@ -1,6 +1,6 @@
 # [Contactless Purchasing Poster](https://vpa-australia.myshopify.com/products/contactless-purchasing-poster)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -42,5 +42,5 @@ Contactless Purchasing Poster
 
 - **Product ID:** `gid://shopify/Product/4670429659191`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:12.555Z
+- **Generated:** 2025-09-21T22:10:03.196Z
 

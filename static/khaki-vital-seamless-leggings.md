@@ -1,6 +1,6 @@
 # [Vital Seamless Leggings  - Khaki](https://vpa-australia.myshopify.com/products/khaki-vital-seamless-leggings)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -105,5 +105,5 @@ Vital Seamless Leggings - Khaki VPA WOMENS VITAL SEAMLESS LEGGINGS - Crush it wi
 
 - **Product ID:** `gid://shopify/Product/4547005939767`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:09.578Z
+- **Generated:** 2025-09-21T22:09:59.926Z
 

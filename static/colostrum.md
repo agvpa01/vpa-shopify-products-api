@@ -1,6 +1,6 @@
 # [Colostrum](https://vpa-australia.myshopify.com/products/colostrum)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -23,9 +23,9 @@
 - **Product Type:** Protein Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 29439
+- **Total Inventory:** 29402
 - **Created:** 6/2/2020
-- **Updated:** 8/19/2025
+- **Updated:** 9/17/2025
 
 **Tags:** foodtech_product_allergen: milk, foodtech_product_allergen: soy, foodtech_product_shopbyingredient: Colostrum, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: general health, foodtech_product_shopybygoal: muscle gain, vpa australia
 
@@ -37,13 +37,41 @@ HOW VPA'S COLOSTRUM OPTIMISES YOU VPA Bovine Colostrum is a rich source of many 
 
 **Price:** AUD 122.0
 
+## Nutritional Information (NIP)
+
+**Variant: Default Title | Region: AU | Template: complex_supplements**
+
+- Serving Size: 5g
+- Servings per bottle: 200
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 74 | 1,470 |
+| Energy (Cal) | 18 | 352 |
+| Protein (g) | 3.6 | 71.0 |
+| Total Fat (g) | 0.3 | 5.0 |
+| Saturated Fat (g) | 0.2 | 4.2 |
+| Total Carbohydrate (g) | 0.4 | 8.0 |
+| Sugars (g) | 0.3 | 6.0 |
+| Sodium (mg) | 18 | 360 |
+
+### Active Ingredients
+
+| Ingredient | Amount | Daily Value |
+|------------|--------|-------------|
+| Magnesium | 200mg | 48% |
+| Calcium | 500mg | 63% |
+| Vitamin D3 | 1000IU | 250% |
+
+**Ingredients:** 100% Pure Colostrum (Milk).
+
 ## Product Variants
 
 ### Variant 1: [Default Title](https://vpa-australia.myshopify.com/products/colostrum)
 
 - **Price:** AUD 122.0
 - **Available:** Yes
-- **Quantity Available:** 29439
+- **Quantity Available:** 29402
 - **Options:**
   - Title: Default Title
 
@@ -51,5 +79,5 @@ HOW VPA'S COLOSTRUM OPTIMISES YOU VPA Bovine Colostrum is a rich source of many 
 
 - **Product ID:** `gid://shopify/Product/4546972024887`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:11:53.183Z
+- **Generated:** 2025-09-21T22:09:40.001Z
 

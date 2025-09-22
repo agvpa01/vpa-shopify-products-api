@@ -1,6 +1,6 @@
 # [Dextrose Monohydrate](https://vpa-australia.myshopify.com/products/dextrose-monohydrate)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -23,9 +23,9 @@
 - **Product Type:** Carbohydrate Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 29540
+- **Total Inventory:** 29491
 - **Created:** 6/2/2020
-- **Updated:** 8/19/2025
+- **Updated:** 9/21/2025
 
 **Tags:** foodtech_product_shopbyingredient: Dextrose Monohydrate, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegan, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: performance and endurance, vpa australia
 
@@ -36,6 +36,34 @@ What is Dextrose Monohydrate? Dextrose Monohydrate is a form of single chain car
 ## Pricing
 
 **Price:** AUD 20.0
+
+## Nutritional Information (NIP)
+
+**Variant: Default Title | Region: AU | Template: complex_supplements**
+
+- Serving Size: 50g
+- Servings per Pack: 20
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 780 | 1,560 |
+| Energy (Cal) | 186 | 372 |
+| Protein (g) | 0 | 0 |
+| Total Fat (g) | 0 | 0 |
+| Saturated Fat (g) | 0 | 0 |
+| Total Carbohydrate (g) | 45.7 | 91.5 |
+| Sugars (g) | 45.7 | 91.5 |
+| Sodium (mg) | 0 | 0 |
+
+### Active Ingredients
+
+| Ingredient | Amount | Daily Value |
+|------------|--------|-------------|
+| Magnesium | 200mg | 48% |
+| Calcium | 500mg | 63% |
+| Vitamin D3 | 1000IU | 250% |
+
+**Ingredients:** 100% Dextrose Monohydrate.
 
 ## Quantity Price Breaks
 
@@ -52,7 +80,7 @@ What is Dextrose Monohydrate? Dextrose Monohydrate is a form of single chain car
 
 - **Price:** AUD 20.0
 - **Available:** Yes
-- **Quantity Available:** 29540
+- **Quantity Available:** 29491
 - **Options:**
   - Title: Default Title
 
@@ -60,5 +88,5 @@ What is Dextrose Monohydrate? Dextrose Monohydrate is a form of single chain car
 
 - **Product ID:** `gid://shopify/Product/4546971533367`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:11:52.263Z
+- **Generated:** 2025-09-21T22:09:38.838Z
 

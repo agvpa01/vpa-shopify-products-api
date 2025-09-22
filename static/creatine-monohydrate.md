@@ -1,6 +1,6 @@
 # [Creatine Monohydrate Powder](https://vpa-australia.myshopify.com/products/creatine-monohydrate)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -51,9 +51,9 @@
 - **Product Type:** Amino Acid
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 39835
+- **Total Inventory:** 37442
 - **Created:** 6/2/2020
-- **Updated:** 8/19/2025
+- **Updated:** 9/22/2025
 
 **Tags:** creapure, creatine, foodtech_product_shopbyingredient: Creatine, foodtech_product_shopbyingredient: Creatine Monohydrate, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegan, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: performance and endurance, vpa australia
 
@@ -65,13 +65,71 @@ What is creatine monohydrate? Creatine monohydrate is the most effective form of
 
 **Price Range:** AUD 20.0 - AUD 50.0
 
+## Nutritional Information (NIP)
+
+**Variant: 200g bottle | Region: AU | Template: complex_supplements**
+
+- Serving Size: 5g
+- Servings per Container: 40
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 0 | 0 |
+| Energy (Cal) | 0 | 0 |
+| Protein (g) | 0 | 0 |
+| Total Fat (g) | 0 | 0 |
+| Saturated Fat (g) | 0 | 0 |
+| Total Carbohydrate (g) | 0 | 0 |
+| Sugars (g) | 0 | 0 |
+| Sodium (mg) | 0 | 0 |
+| Creatine Monohydrate (g) | 5 | 100 |
+
+### Active Ingredients
+
+| Ingredient | Amount | Daily Value |
+|------------|--------|-------------|
+| Magnesium | 200mg | 48% |
+| Calcium | 500mg | 63% |
+| Vitamin D3 | 1000IU | 250% |
+
+**Ingredients:** Magnesium Oxide, Calcium Carbonate, Vitamin D3 (Cholecalciferol), Microcrystalline Cellulose, Magnesium Stearate, Silicon Dioxide.
+
+---
+
+**Variant: 1kg bag | Region: AU | Template: complex_supplements**
+
+- Serving Size: 5g
+- Servings per Container: 200
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 0 | 0 |
+| Energy (Cal) | 0 | 0 |
+| Protein (g) | 0 | 0 |
+| Total Fat (g) | 0 | 0 |
+| Saturated Fat (g) | 0 | 0 |
+| Total Carbohydrate (g) | 0 | 0 |
+| Sugars (g) | 0 | 0 |
+| Sodium (mg) | 0 | 0 |
+| Creatine Monohydrate (g) | 5 | 100 |
+
+### Active Ingredients
+
+| Ingredient | Amount | Daily Value |
+|------------|--------|-------------|
+| Magnesium | 200mg | 48% |
+| Calcium | 500mg | 63% |
+| Vitamin D3 | 1000IU | 250% |
+
+**Ingredients:** Magnesium Oxide, Calcium Carbonate, Vitamin D3 (Cholecalciferol), Microcrystalline Cellulose, Magnesium Stearate, Silicon Dioxide.
+
 ## Product Variants
 
 ### Variant 1: [200g bottle](https://vpa-australia.myshopify.com/products/creatine-monohydrate)
 
 - **Price:** AUD 20.0
 - **Available:** Yes
-- **Quantity Available:** 17983
+- **Quantity Available:** 16681
 - **Options:**
   - Size: 200g bottle
 
@@ -79,7 +137,7 @@ What is creatine monohydrate? Creatine monohydrate is the most effective form of
 
 - **Price:** AUD 50.0
 - **Available:** Yes
-- **Quantity Available:** 21852
+- **Quantity Available:** 20761
 - **Options:**
   - Size: 1kg bag
 
@@ -87,5 +145,5 @@ What is creatine monohydrate? Creatine monohydrate is the most effective form of
 
 - **Product ID:** `gid://shopify/Product/4546982150199`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:11:58.837Z
+- **Generated:** 2025-09-21T22:09:46.961Z
 

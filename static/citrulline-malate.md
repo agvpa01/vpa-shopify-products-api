@@ -1,6 +1,6 @@
 # [Citrulline Malate](https://vpa-australia.myshopify.com/products/citrulline-malate)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -23,9 +23,9 @@
 - **Product Type:** Amino Acid
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 29323
+- **Total Inventory:** 29251
 - **Created:** 6/2/2020
-- **Updated:** 8/18/2025
+- **Updated:** 9/21/2025
 
 **Tags:** foodtech_product_shopbyingredient: Citrulline Malate, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegan, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: performance and endurance, vpa australia
 
@@ -37,13 +37,42 @@ What is citrulline malate? Citrulline is a combination of citrulline and another
 
 **Price:** AUD 27.0
 
+## Nutritional Information (NIP)
+
+**Variant: Default Title | Region: AU | Template: complex_supplements**
+
+- Serving Size: 3g
+- Servings per bottle: 66
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 34 | 1120 |
+| Energy (Cal) | 8 | 268 |
+| Protein (g) | 2.0 | 66 |
+| Total Fat (g) | 0 | 0 |
+| Saturated Fat (g) | 0 | 0 |
+| Total Carbohydrate (g) | 0 | 0 |
+| Sugars (g) | 0 | 0 |
+| Sodium (mg) | 0 | 0 |
+| Citrulline Malate (g) | 3 | 100 |
+
+### Active Ingredients
+
+| Ingredient | Amount | Daily Value |
+|------------|--------|-------------|
+| Magnesium | 200mg | 48% |
+| Calcium | 500mg | 63% |
+| Vitamin D3 | 1000IU | 250% |
+
+**Ingredients:** Citrulline Malate.
+
 ## Product Variants
 
 ### Variant 1: [Default Title](https://vpa-australia.myshopify.com/products/citrulline-malate)
 
 - **Price:** AUD 27.0
 - **Available:** Yes
-- **Quantity Available:** 29323
+- **Quantity Available:** 29251
 - **Options:**
   - Title: Default Title
 
@@ -51,5 +80,5 @@ What is citrulline malate? Citrulline is a combination of citrulline and another
 
 - **Product ID:** `gid://shopify/Product/4546982019127`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:11:58.406Z
+- **Generated:** 2025-09-21T22:09:46.390Z
 

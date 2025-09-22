@@ -2,7 +2,7 @@
 
 **Type:** HASTA
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -46,9 +46,9 @@
 - **Product Type:** Health Supplement
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 189
+- **Total Inventory:** 164
 - **Created:** 10/30/2024
-- **Updated:** 8/19/2025
+- **Updated:** 9/21/2025
 
 **Tags:** dispatch_only_Brisbane, foodtech_product_shopbyingredient: Collagen Hydrolysate, foodtech_product_shopbyingredient: Inulin, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybygoal: general health, foodtech_product_shopybygoal: muscle gain, vpa australia
 
@@ -75,7 +75,7 @@ HASTA - VPA® Collagen PRO® is a premium collagen supplement combining high-qua
 
 - **Price:** AUD 44.0
 - **Available:** Yes
-- **Quantity Available:** 189
+- **Quantity Available:** 164
 - **Options:**
   - Size: 202g (15 Servings)
 
@@ -83,5 +83,5 @@ HASTA - VPA® Collagen PRO® is a premium collagen supplement combining high-qua
 
 - **Product ID:** `gid://shopify/Product/7188436779063`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:33.014Z
+- **Generated:** 2025-09-21T22:10:31.102Z
 

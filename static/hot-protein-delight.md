@@ -1,6 +1,6 @@
 # [Hot Protein Delight (500g)](https://vpa-australia.myshopify.com/products/hot-protein-delight)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -86,9 +86,9 @@
 - **Product Type:** Protein Snack
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** -69
+- **Total Inventory:** -118
 - **Created:** 6/2/2020
-- **Updated:** 8/19/2025
+- **Updated:** 9/15/2025
 
 **Tags:** foodtech_product_allergen: milk, foodtech_product_allergen: soy, foodtech_product_shopbyingredient: Casein, foodtech_product_shopbyingredient: WPC, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: general health, foodtech_product_shopybygoal: rest and relaxtion, vpa australia
 
@@ -99,6 +99,90 @@ Hot Protein Delight VPA’s Hot Protein Delight is the ideal winter warmer for t
 ## Pricing
 
 **Price:** AUD 36.0
+
+## Nutritional Information (NIP)
+
+**Variant: Rocky Road | Region: AU | Template: complex_supplements**
+
+- Serving Size: 30g
+- Servings per Container: 17
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 465 | 1,550 |
+| Energy (Cal) | 111 | 371 |
+| Protein (g) | 19.7 | 65.6 |
+| Total Fat (g) | 1.4 | 4.5 |
+| Saturated Fat (g) | 1.0 | 3.2 |
+| Total Carbohydrate (g) | 4.8 | 15.8 |
+| Sugars (g) | 3.9 | 13.0 |
+| Sodium (mg) | 36 | 127 |
+
+### Active Ingredients
+
+| Ingredient | Amount | Daily Value |
+|------------|--------|-------------|
+| Magnesium | 200mg | 48% |
+| Calcium | 500mg | 63% |
+| Vitamin D3 | 1000IU | 250% |
+
+**Ingredients:** Micellar Casein (Milk), Whey Protein Concentrate (Milk) (Emulsifier (Soy Lecithin)), Skim Milk Powder (Milk), Cocoa, Flavours, Xanthan, Sucralose.
+
+---
+
+**Variant: Salted Caramel | Region: AU | Template: complex_supplements**
+
+- Serving Size: 30g
+- Servings per Container: 17
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 465 | 1,550 |
+| Energy (Cal) | 111 | 370 |
+| Protein (g) | 19.2 | 64 |
+| Total Fat (g) | 1.4 | 4.6 |
+| Saturated Fat (g) | 1.0 | 3.3 |
+| Total Carbohydrate (g) | 4.5 | 14.9 |
+| Sugars (g) | 3.8 | 12.6 |
+| Sodium (mg) | 36 | 121 |
+
+### Active Ingredients
+
+| Ingredient | Amount | Daily Value |
+|------------|--------|-------------|
+| Magnesium | 200mg | 48% |
+| Calcium | 500mg | 63% |
+| Vitamin D3 | 1000IU | 250% |
+
+**Ingredients:** Salted Caramel Ingredients: Micellar Casein (Milk), Whey Protein Concentrate (Milk) (Emulsifier (SoyLecithin)), Skim Milk Powder (Milk), Cocoa, Flavours, Salt, Xanthan, Sucralose.
+
+---
+
+**Variant: Choc Malt | Region: AU | Template: complex_supplements**
+
+- Serving Size: 30g
+- Servings per Container: 17
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 470 | 1,570 |
+| Energy (Cal) | 112 | 374 |
+| Protein (g) | 20.3 | 67.8 |
+| Total Fat (g) | 1.3 | 4.5 |
+| Saturated Fat (g) | 1.0 | 3.2 |
+| Total Carbohydrate (g) | 4.1 | 13.6 |
+| Sugars (g) | 3.9 | 13.0 |
+| Sodium (mg) | 38 | 126 |
+
+### Active Ingredients
+
+| Ingredient | Amount | Daily Value |
+|------------|--------|-------------|
+| Magnesium | 200mg | 48% |
+| Calcium | 500mg | 63% |
+| Vitamin D3 | 1000IU | 250% |
+
+**Ingredients:** Choc Malt Ingredients: Micellar Casein (Milk), Whey Protein Concentrate (Milk) (Emulsifier (Soy Lecithin)), Skim Milk Powder (Milk), Cocoa, Xanthan, Flavour (Gluten), Sucralose.
 
 ## Quantity Price Breaks
 
@@ -115,7 +199,7 @@ Hot Protein Delight VPA’s Hot Protein Delight is the ideal winter warmer for t
 
 - **Price:** AUD 36.0
 - **Available:** Yes
-- **Quantity Available:** -17
+- **Quantity Available:** -28
 - **Options:**
   - Flavour: Rocky Road
 
@@ -123,7 +207,7 @@ Hot Protein Delight VPA’s Hot Protein Delight is the ideal winter warmer for t
 
 - **Price:** AUD 36.0
 - **Available:** Yes
-- **Quantity Available:** 826
+- **Quantity Available:** 802
 - **Options:**
   - Flavour: Choc Malt
 
@@ -131,7 +215,7 @@ Hot Protein Delight VPA’s Hot Protein Delight is the ideal winter warmer for t
 
 - **Price:** AUD 36.0
 - **Available:** Yes
-- **Quantity Available:** -878
+- **Quantity Available:** -892
 - **Options:**
   - Flavour: Salted Caramel
 
@@ -139,5 +223,5 @@ Hot Protein Delight VPA’s Hot Protein Delight is the ideal winter warmer for t
 
 - **Product ID:** `gid://shopify/Product/4546975203383`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:11:54.037Z
+- **Generated:** 2025-09-21T22:09:41.127Z
 

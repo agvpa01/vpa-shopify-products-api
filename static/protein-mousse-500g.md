@@ -1,6 +1,6 @@
 # [Protein Mousse](https://vpa-australia.myshopify.com/products/protein-mousse-500g)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -44,9 +44,9 @@
 - **Product Type:** Protein Snack
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 335
+- **Total Inventory:** 277
 - **Created:** 6/2/2020
-- **Updated:** 8/19/2025
+- **Updated:** 9/21/2025
 
 **Tags:** foodtech_product_allergen: milk, foodtech_product_allergen: soy, foodtech_product_shopbyingredient: Micellar Casein, foodtech_product_shopbyingredient: WPC, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: general health, vpa australia
 
@@ -64,7 +64,7 @@ WHAT IS PROTEIN MOUSSE? Got a sweet tooth? Looking for a dessert option that won
 
 - **Price:** AUD 36.0
 - **Available:** Yes
-- **Quantity Available:** 157
+- **Quantity Available:** 113
 - **Options:**
   - Flavour: Chocolate
   - Size: 500g
@@ -73,7 +73,7 @@ WHAT IS PROTEIN MOUSSE? Got a sweet tooth? Looking for a dessert option that won
 
 - **Price:** AUD 36.0
 - **Available:** Yes
-- **Quantity Available:** 179
+- **Quantity Available:** 165
 - **Options:**
   - Flavour: Salted Caramel
   - Size: 500g
@@ -92,5 +92,5 @@ WHAT IS PROTEIN MOUSSE? Got a sweet tooth? Looking for a dessert option that won
 
 - **Product ID:** `gid://shopify/Product/4547001778231`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:07.813Z
+- **Generated:** 2025-09-21T22:09:57.713Z
 

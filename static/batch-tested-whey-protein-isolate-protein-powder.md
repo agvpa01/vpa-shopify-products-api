@@ -2,7 +2,7 @@
 
 **Type:** HASTA
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -74,9 +74,9 @@
 - **Product Type:** Protein Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 736
+- **Total Inventory:** 697
 - **Created:** 10/30/2024
-- **Updated:** 8/15/2025
+- **Updated:** 9/21/2025
 
 **Tags:** dispatch_only_Brisbane
 
@@ -105,7 +105,7 @@ HASTA - VPA® Whey Protein Isolate (WPI) is a premium, ultra-filtered protein po
 
 - **Price:** AUD 65.0
 - **Available:** Yes
-- **Quantity Available:** 119
+- **Quantity Available:** 109
 - **Options:**
   - Flavours: Chocolate
 
@@ -113,7 +113,7 @@ HASTA - VPA® Whey Protein Isolate (WPI) is a premium, ultra-filtered protein po
 
 - **Price:** AUD 65.0
 - **Available:** Yes
-- **Quantity Available:** 205
+- **Quantity Available:** 183
 - **Options:**
   - Flavours: Vanilla
 
@@ -121,7 +121,7 @@ HASTA - VPA® Whey Protein Isolate (WPI) is a premium, ultra-filtered protein po
 
 - **Price:** AUD 65.0
 - **Available:** Yes
-- **Quantity Available:** 183
+- **Quantity Available:** 178
 - **Options:**
   - Flavours: Salted Caramel
 
@@ -137,7 +137,7 @@ HASTA - VPA® Whey Protein Isolate (WPI) is a premium, ultra-filtered protein po
 
 - **Price:** AUD 65.0
 - **Available:** Yes
-- **Quantity Available:** 229
+- **Quantity Available:** 227
 - **Options:**
   - Flavours: Caramel Biscuit Shake
 
@@ -145,5 +145,5 @@ HASTA - VPA® Whey Protein Isolate (WPI) is a premium, ultra-filtered protein po
 
 - **Product ID:** `gid://shopify/Product/7188436156471`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:31.719Z
+- **Generated:** 2025-09-21T22:10:30.007Z
 

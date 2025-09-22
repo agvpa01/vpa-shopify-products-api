@@ -80,7 +80,7 @@
 
 ## Description
 
-Complete Tri-Protein Complete Tri-Protein. With an even ratio of WPI, WPC and Micellar Casein our Complete Tri-Protein Blend delivers your body the ideal time released protein source to keep your muscles in an optimized state of recovery, while remaining ready for peak performance. This high quality scientifically formulated and rigorously tested protein blend was designed for the person who wants to optimize their health and fitness using individual benefits of WPI, WPC and Casein, but doesnâ€™t have the budget or time required to purchase and manage 3 separate products. We did the heavy lifting for you and created the perfect ratio of the 3 best protein sources for athletes from every domain. Complete Tri-Protein. With an even ratio of WPI, WPC and Micellar Casein our Complete Tri-Protein Blend delivers your body the ideal time released protein source to keep your muscles in an optimized state of recovery, while remaining ready for peak performance. This high quality scientifically formulated and rigorously tested protein blend was designed for the person who wants to optimize their health and fitness using individual benefits of WPI, WPC and Casein, but doesnâ€™t have the budget or time required to purchase and manage 3 separate products. We did the heavy lifting for you and created the perfect ratio of the 3 best protein sources for athletes from every domain.
+Complete Tri-Protein Complete Tri-Protein. With an even ratio of WPI, WPC and Micellar Casein our Complete Tri-Protein Blend delivers your body the ideal time released protein source to keep your muscles in an optimized state of recovery, while remaining ready for peak performance. This high quality scientifically formulated and rigorously tested protein blend was designed for the person who wants to optimize their health and fitness using individual benefits of WPI, WPC and Casein, but doesn’t have the budget or time required to purchase and manage 3 separate products. We did the heavy lifting for you and created the perfect ratio of the 3 best protein sources for athletes from every domain. Complete Tri-Protein. With an even ratio of WPI, WPC and Micellar Casein our Complete Tri-Protein Blend delivers your body the ideal time released protein source to keep your muscles in an optimized state of recovery, while remaining ready for peak performance. This high quality scientifically formulated and rigorously tested protein blend was designed for the person who wants to optimize their health and fitness using individual benefits of WPI, WPC and Casein, but doesn’t have the budget or time required to purchase and manage 3 separate products. We did the heavy lifting for you and created the perfect ratio of the 3 best protein sources for athletes from every domain.
 
 ## Pricing
 
@@ -224,5 +224,6 @@ Complete Tri-Protein Complete Tri-Protein. With an even ratio of WPI, WPC and Mi
 
 - **Product ID:** `gid://shopify/Product/4546970746935`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-09-21T22:09:37.698Z
+- **Generated:** 2025-09-21T22:09:25.371Z
+
 

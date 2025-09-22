@@ -1,6 +1,6 @@
 # [VPA Base with Wheels](https://vpa-australia.myshopify.com/products/vpa-base-with-wheels-expansion)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -52,5 +52,5 @@ SPECIAL RELEASE PRICE | Only for a Limited TimeOriginal Price $50 Want the abili
 
 - **Product ID:** `gid://shopify/Product/6586615332919`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:17.423Z
+- **Generated:** 2025-09-21T22:10:09.342Z
 

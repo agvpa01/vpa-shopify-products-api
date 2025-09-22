@@ -1,6 +1,6 @@
 # [Fava Bean Protein Powder](https://vpa-australia.myshopify.com/products/fava-bean-protein-powder)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -37,9 +37,9 @@
 - **Product Type:** Protein Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 163
+- **Total Inventory:** 156
 - **Created:** 9/11/2023
-- **Updated:** 8/19/2025
+- **Updated:** 9/17/2025
 
 **Tags:** foodtech_product_shopybydiet: vegan, foodtech_product_shopybydiet: vegetarian
 
@@ -47,13 +47,41 @@
 
 **Price:** AUD 49.0
 
+## Nutritional Information (NIP)
+
+**Variant: Natural - 1KG | Region: AU | Template: complex_supplements**
+
+- Serving Size: 30g
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 507 | 1,690 |
+| Energy (Cal) | 121 | 404 |
+| Protein (g) | 24.5 | 81.6 |
+| Total Fat (g) | 1.6 | 5.5 |
+| Saturated Fat (g) | 0.4 | 1.5 |
+| Total Carbohydrate (g) | 2.1 | 7.0 |
+| Sugars (g) | 0.3 | 1.1 |
+| Sodium (mg) | 168 | 558 |
+
+### Active Ingredients
+
+| Ingredient | Amount | Daily Value |
+|------------|--------|-------------|
+| Magnesium | 200mg | 48% |
+| Calcium | 500mg | 63% |
+| Vitamin D3 | 1000IU | 250% |
+
+**Ingredients:** Fava Bean Protein.
+
 ## Product Variants
 
 ### Variant 1: [Natural - 1KG](https://vpa-australia.myshopify.com/products/fava-bean-protein-powder)
 
 - **Price:** AUD 49.0
 - **Available:** Yes
-- **Quantity Available:** 163
+- **Quantity Available:** 156
 - **Options:**
   - Size: Natural - 1KG
 
@@ -61,5 +89,5 @@
 
 - **Product ID:** `gid://shopify/Product/6832110043191`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:26.129Z
+- **Generated:** 2025-09-21T22:10:22.781Z
 

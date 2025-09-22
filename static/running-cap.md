@@ -1,6 +1,6 @@
 # [Running Cap](https://vpa-australia.myshopify.com/products/running-cap)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -79,9 +79,9 @@
 - **Product Type:** Accessories
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 43
+- **Total Inventory:** 42
 - **Created:** 10/14/2024
-- **Updated:** 8/16/2025
+- **Updated:** 9/17/2025
 
 **Tags:** brisbane_only, dispatch_only_Brisbane, NEW
 
@@ -99,7 +99,7 @@ description STAY COOL AND COMFORTABLE ON EVERY RUN VPA Running Cap is designed t
 
 - **Price:** AUD 40.0
 - **Available:** Yes
-- **Quantity Available:** 43
+- **Quantity Available:** 42
 - **Options:**
   - Title: Default Title
 
@@ -107,5 +107,5 @@ description STAY COOL AND COMFORTABLE ON EVERY RUN VPA Running Cap is designed t
 
 - **Product ID:** `gid://shopify/Product/7182567211063`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:30.093Z
+- **Generated:** 2025-09-21T22:10:28.328Z
 

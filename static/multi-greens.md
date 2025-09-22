@@ -1,6 +1,6 @@
 # [Multi Greens](https://vpa-australia.myshopify.com/products/multi-greens)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -58,9 +58,9 @@
 - **Product Type:** Health Supplement
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 4246
+- **Total Inventory:** 4101
 - **Created:** 6/2/2020
-- **Updated:** 8/19/2025
+- **Updated:** 9/21/2025
 
 **Tags:** foodtech_product_shopbyingredient: Barley Grass, foodtech_product_shopbyingredient: Wheat Grass, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegan, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: general health, new_flavour, vpa australia
 
@@ -78,7 +78,7 @@ Multi Greens HOW VPA'S MULTI GREENS OPTIMISES YOU. VPA’s Multi Greens is a nut
 
 - **Price:** AUD 38.0
 - **Available:** Yes
-- **Quantity Available:** 1637
+- **Quantity Available:** 1552
 - **Options:**
   - Flavour: Natural
 
@@ -86,7 +86,7 @@ Multi Greens HOW VPA'S MULTI GREENS OPTIMISES YOU. VPA’s Multi Greens is a nut
 
 - **Price:** AUD 38.0
 - **Available:** Yes
-- **Quantity Available:** 2609
+- **Quantity Available:** 2549
 - **Options:**
   - Flavour: Tropical Vacay
 
@@ -94,5 +94,5 @@ Multi Greens HOW VPA'S MULTI GREENS OPTIMISES YOU. VPA’s Multi Greens is a nut
 
 - **Product ID:** `gid://shopify/Product/4546982412343`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:11:59.775Z
+- **Generated:** 2025-09-21T22:09:48.066Z
 

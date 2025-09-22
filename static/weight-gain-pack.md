@@ -1,6 +1,6 @@
 # [Weight Gain Pack](https://vpa-australia.myshopify.com/products/weight-gain-pack)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -25,7 +25,7 @@
 - **Available for Sale:** Yes
 - **Total Inventory:** 10000
 - **Created:** 2/22/2021
-- **Updated:** 7/21/2025
+- **Updated:** 8/22/2025
 
 **Tags:** group_bundle
 
@@ -52,5 +52,5 @@ WEIGHT GAIN PACK If you are looking to gain some serious muscle mass and boost s
 
 - **Product ID:** `gid://shopify/Product/4679181107255`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:14.764Z
+- **Generated:** 2025-09-21T22:10:06.039Z
 

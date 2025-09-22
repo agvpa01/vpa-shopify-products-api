@@ -1,6 +1,6 @@
 # [VPA Removable Panels - New Year, New You](https://vpa-australia.myshopify.com/products/vpa-removable-panels-new-year-new-you)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -52,5 +52,5 @@ VPA® Removable Panels - New Year, New YouSPECIAL RELEASE PRICE | Only for a Lim
 
 - **Product ID:** `gid://shopify/Product/6586615627831`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:18.272Z
+- **Generated:** 2025-09-21T22:10:10.428Z
 

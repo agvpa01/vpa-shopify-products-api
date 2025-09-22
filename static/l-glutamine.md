@@ -1,6 +1,6 @@
 # [L Glutamine](https://vpa-australia.myshopify.com/products/l-glutamine)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -23,9 +23,9 @@
 - **Product Type:** Amino Acid
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 18122
+- **Total Inventory:** 17991
 - **Created:** 6/2/2020
-- **Updated:** 8/19/2025
+- **Updated:** 9/21/2025
 
 **Tags:** foodtech_product_shopbyingredient: L-Glutamine, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: low in lactose, foodtech_product_shopybydiet: vegan, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: general health, foodtech_product_shopybygoal: performance and endurance, vpa australia
 
@@ -37,13 +37,42 @@ L GLUTAMINE L Glutamine is one of the most abundant and important amino acids in
 
 **Price:** AUD 27.0
 
+## Nutritional Information (NIP)
+
+**Variant: Default Title | Region: AU | Template: complex_supplements**
+
+- Serving Size: 1.9g
+- Servings per Bottle: 105
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 32 | 1,700 |
+| Energy (Cal) | 8 | 406 |
+| Protein (g) | 1.9 | 100 |
+| Total Fat (g) | 0 | 0 |
+| Saturated Fat (g) | 0 | 0 |
+| Total Carbohydrate (g) | 0 | 0 |
+| Sugars (g) | 0 | 0 |
+| Sodium (mg) | 0 | 0 |
+| L-Glutamine (mg) | 1,900 | 100,000 |
+
+### Active Ingredients
+
+| Ingredient | Amount | Daily Value |
+|------------|--------|-------------|
+| Magnesium | 200mg | 48% |
+| Calcium | 500mg | 63% |
+| Vitamin D3 | 1000IU | 250% |
+
+**Ingredients:** L-Glutamine
+
 ## Product Variants
 
 ### Variant 1: [Default Title](https://vpa-australia.myshopify.com/products/l-glutamine)
 
 - **Price:** AUD 27.0
 - **Available:** Yes
-- **Quantity Available:** 18122
+- **Quantity Available:** 17991
 - **Options:**
   - Title: Default Title
 
@@ -51,5 +80,5 @@ L GLUTAMINE L Glutamine is one of the most abundant and important amino acids in
 
 - **Product ID:** `gid://shopify/Product/4546983133239`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:01.098Z
+- **Generated:** 2025-09-21T22:09:49.770Z
 

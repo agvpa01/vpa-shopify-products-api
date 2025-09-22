@@ -1,6 +1,6 @@
 # [Spirulina](https://vpa-australia.myshopify.com/products/spirulina)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -37,9 +37,9 @@
 - **Product Type:** Health Supplement
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 116
+- **Total Inventory:** 70
 - **Created:** 9/11/2023
-- **Updated:** 8/16/2025
+- **Updated:** 9/20/2025
 
 ## Description
 
@@ -55,7 +55,7 @@ PRODUCT INFORMATION HOW VPA'S SPIRULINA OPTIMISES YOU Spirulina is packed with e
 
 - **Price:** AUD 16.0
 - **Available:** Yes
-- **Quantity Available:** 116
+- **Quantity Available:** 70
 - **Options:**
   - Title: Default Title
 
@@ -63,5 +63,5 @@ PRODUCT INFORMATION HOW VPA'S SPIRULINA OPTIMISES YOU Spirulina is packed with e
 
 - **Product ID:** `gid://shopify/Product/6832104144951`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:24.096Z
+- **Generated:** 2025-09-21T22:10:20.558Z
 

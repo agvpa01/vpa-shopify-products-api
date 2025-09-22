@@ -1,6 +1,6 @@
 # [Micellar Casein](https://vpa-australia.myshopify.com/products/micellar-casein)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -72,9 +72,9 @@
 - **Product Type:** Protein Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 57597
+- **Total Inventory:** 57358
 - **Created:** 6/2/2020
-- **Updated:** 8/19/2025
+- **Updated:** 9/18/2025
 
 **Tags:** foodtech_product_shopbyingredient: Micellar Casein, foodtech_product_shopbyingredient: WPC, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: muscle gain, foodtech_product_shopybygoal: rest and relaxtion, vpa australia
 
@@ -85,6 +85,81 @@ Micellar Casein Micellar Casein is a milk protein and is well know for is slow d
 ## Pricing
 
 **Price:** AUD 55.0
+
+## Nutritional Information (NIP)
+
+**Variant: Chocolate | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 472 | 1,570 |
+| Energy (Cal) | 113 | 375 |
+| Protein (g) | 23.6 | 78.8 |
+| Total Fat (g) | 1.5 | 4.9 |
+| Saturated Fat (g) | 1.1 | 3.7 |
+| Total Carbohydrate (g) | 0.9 | 3.1 |
+| Sugars (g) | 0.9 | 3.0 |
+| Sodium (mg) | 29 | 95 |
+| Potassium (mg) | 129 | 430 |
+| Minerals |  |  |
+| Calcium* (mg) | 528 (66%) | 1,760 |
+| Phosphorus* (mg) | 328 (33%) | 1,090 |
+| Zinc* (mg) | 2.2 (18%) | 7.3 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavour, Xanthan, Sucralose.
+
+---
+
+**Variant: Vanilla | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 486 | 1,620 |
+| Energy (Cal) | 116 | 387 |
+| Protein (g) | 23.7 | 79.1 |
+| Total Fat (g) | 1.5 | 4.9 |
+| Saturated Fat (g) | 1.1 | 3.8 |
+| Total Carbohydrate (g) | 1.7 | 3.1 |
+| Sugars (g) | 1.0 | 5.6 |
+| Sodium (mg) | 30 | 3.5 |
+| Potassium (mg) | 129 | 432 |
+| Minerals |  |  |
+| Calcium* (mg) | 530 (66%) | 1,770 |
+| Phosphorus* (mg) | 330 (33%) | 1,100 |
+| Zinc* (mg) | 2.2 (18%) | 7.3 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavour, Xanthan, Sucralose.
+
+---
+
+**Variant: Banana | Region: AU | Template: protein_powder**
+
+- Serving Size: 30 grams
+- Servings per Pack: 33
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 482 | 1,610 |
+| Energy (Cal) | 115 | 384 |
+| Protein (g) | 23.6 | 78.6 |
+| Total Fat (g) | 1.5 | 4.9 |
+| Saturated Fat (g) | 1.1 | 3.8 |
+| Total Carbohydrate (g) | 1.6 | 3.1 |
+| Sugars (g) | 1.0 | 5.6 |
+| Sodium (mg) | 29 | 3.5 |
+| Potassium (mg) | 131 | 432 |
+| Minerals |  |  |
+| Calcium* (mg) | 526 (66%) | 1,750 |
+| Phosphorus* (mg) | 327 (33%) | 1,190 |
+| Zinc* (mg) | 2.2 (18%) | 7.3 |
+
+**Ingredients:** Whey Protein Isolate (Milk)(Emulsifier (Soy Lecithin)), Flavour, Xanthan, Sucralose.
 
 ## Quantity Price Breaks
 
@@ -102,7 +177,7 @@ Micellar Casein Micellar Casein is a milk protein and is well know for is slow d
 
 - **Price:** AUD 55.0
 - **Available:** Yes
-- **Quantity Available:** 18820
+- **Quantity Available:** 18703
 - **Options:**
   - Flavour: Chocolate
 
@@ -110,7 +185,7 @@ Micellar Casein Micellar Casein is a milk protein and is well know for is slow d
 
 - **Price:** AUD 55.0
 - **Available:** Yes
-- **Quantity Available:** 18842
+- **Quantity Available:** 18766
 - **Options:**
   - Flavour: Vanilla
 
@@ -118,7 +193,7 @@ Micellar Casein Micellar Casein is a milk protein and is well know for is slow d
 
 - **Price:** AUD 55.0
 - **Available:** Yes
-- **Quantity Available:** 142
+- **Quantity Available:** 113
 - **Options:**
   - Flavour: Banana
 
@@ -126,7 +201,7 @@ Micellar Casein Micellar Casein is a milk protein and is well know for is slow d
 
 - **Price:** AUD 55.0
 - **Available:** Yes
-- **Quantity Available:** 19793
+- **Quantity Available:** 19776
 - **Options:**
   - Flavour: Iced Coffee
 
@@ -134,5 +209,5 @@ Micellar Casein Micellar Casein is a milk protein and is well know for is slow d
 
 - **Product ID:** `gid://shopify/Product/4546978086967`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:11:55.556Z
+- **Generated:** 2025-09-21T22:09:42.876Z
 

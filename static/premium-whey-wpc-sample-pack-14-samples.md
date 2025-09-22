@@ -1,6 +1,6 @@
 # [Premium Whey (WPC) Sample Pack](https://vpa-australia.myshopify.com/products/premium-whey-wpc-sample-pack-14-samples)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -23,9 +23,9 @@
 - **Product Type:** Protein Powder
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 45
+- **Total Inventory:** 133
 - **Created:** 6/2/2020
-- **Updated:** 8/19/2025
+- **Updated:** 9/21/2025
 
 **Tags:** foodtech_product_allergen: milk, foodtech_product_allergen: soy, foodtech_product_shopbyingredient: WPC, foodtech_product_shopybydiet: gluten free, foodtech_product_shopybydiet: keto, foodtech_product_shopybydiet: vegetarian, foodtech_product_shopybygoal: muscle gain, vpa australia
 
@@ -43,7 +43,7 @@ Premium Whey (WPC) Sample Pack (14 samples) NOT SURE ABOUT A WPC FLAVOUR? Well, 
 
 - **Price:** AUD 29.0
 - **Available:** Yes
-- **Quantity Available:** 45
+- **Quantity Available:** 133
 - **Options:**
   - Title: Default Title
 
@@ -51,5 +51,5 @@ Premium Whey (WPC) Sample Pack (14 samples) NOT SURE ABOUT A WPC FLAVOUR? Well, 
 
 - **Product ID:** `gid://shopify/Product/4546996797495`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:04.740Z
+- **Generated:** 2025-09-21T22:09:54.389Z
 

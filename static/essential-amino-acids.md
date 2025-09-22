@@ -1,6 +1,6 @@
 # [Essential Amino Acids (EAAs)](https://vpa-australia.myshopify.com/products/essential-amino-acids)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -37,9 +37,9 @@
 - **Product Type:** Amino Acid
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 28468
+- **Total Inventory:** 28378
 - **Created:** 9/8/2023
-- **Updated:** 8/15/2025
+- **Updated:** 9/18/2025
 
 **Tags:** amino acids, eaas, essential amino acids
 
@@ -51,13 +51,54 @@ product Information What Are Essential Amino Acids (EAAs)? Essential Amino Acids
 
 **Price:** AUD 16.0
 
+## Nutritional Information (NIP)
+
+**Variant: Default Title | Region: AU | Template: complex_supplements**
+
+- Serving Size: 10g
+- Servings per Bottle: 20
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 170 | 1,700 |
+| Energy (Cal) | 41 | 406 |
+| Protein (g) | 10 | 100 |
+| Total Fat (g) | 0 | 0 |
+| Saturated Fat (g) | 0 | 0 |
+| Total Carbohydrate (g) | 0 | 0 |
+| Sugars (g) | 0 | 0 |
+| Sodium (mg) | 0 | 0 |
+| L-Leucine (mg) | 2,500 | 25,000 |
+| L-Lysine (mg) | 1,600 | 16,000 |
+| L-Valine (mg) | 1,400 | 14,000 |
+| L-Threonine (mg) | 1,350 | 13,500 |
+| L-Isoleucine (mg) | 1,100 | 11,000 |
+| L-Methionine (mg | 900 | 9,000 |
+| L-Phenylalanine (mg) | 450 | 4,500 |
+| L-Histidine (mg) | 450 | 4,500 |
+| L-Tryptophan (mg) | 250 | 2,500 |
+
+### Active Ingredients
+
+| Ingredient | Amount | Daily Value |
+|------------|--------|-------------|
+| Magnesium | 200mg | 48% |
+| Calcium | 500mg | 63% |
+| Vitamin D3 | 1000IU | 250% |
+
+**Ingredients:** L-Leucine, L-Lysine, L-Valine, L-Threonine, L-Isoleucine,
+L-Methionine, L-Phenylalanine, L-Histidine, L-Tryptophan.
+
+
+This product contains phenylalanine.
+
 ## Product Variants
 
 ### Variant 1: [Default Title](https://vpa-australia.myshopify.com/products/essential-amino-acids)
 
 - **Price:** AUD 16.0
 - **Available:** Yes
-- **Quantity Available:** 28468
+- **Quantity Available:** 28378
 - **Options:**
   - Title: Default Title
 
@@ -65,5 +106,5 @@ product Information What Are Essential Amino Acids (EAAs)? Essential Amino Acids
 
 - **Product ID:** `gid://shopify/Product/6829993197623`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:20.820Z
+- **Generated:** 2025-09-21T22:10:15.907Z
 

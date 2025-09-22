@@ -1,6 +1,6 @@
 # [L-Tyrosine](https://vpa-australia.myshopify.com/products/l-tyrosine)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -37,9 +37,9 @@
 - **Product Type:** Amino Acid
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 19592
+- **Total Inventory:** 19547
 - **Created:** 9/12/2023
-- **Updated:** 8/19/2025
+- **Updated:** 9/21/2025
 
 **Tags:** amino acids, NEW
 
@@ -51,13 +51,42 @@ PRODUCT INFORMATION HOW L-TYROSINE OPTIMISES YOU L-Tyrosine is an amino acid tha
 
 **Price:** AUD 16.0
 
+## Nutritional Information (NIP)
+
+**Variant: Default Title | Region: AU | Template: complex_supplements**
+
+- Serving Size: 200mg
+- Servings per Bottle: 1000
+
+| Nutrient | Per Serve | Per 100g |
+|----------|-----------|----------|
+| Energy (kJ) | 3 | 1,700 |
+| Energy (Cal) | 1 | 406 |
+| Protein (g) | 0.2 | 100 |
+| Total Fat (g) | 0 | 0 |
+| Saturated Fat (g) | 0 | 0 |
+| Total Carbohydrate (g) | 0 | 0 |
+| Sugars (g) | 0 | 0 |
+| Sodium (mg) | 0 | 0 |
+| L-Tyrosine (mg) | 200 | 100,000 |
+
+### Active Ingredients
+
+| Ingredient | Amount | Daily Value |
+|------------|--------|-------------|
+| Magnesium | 200mg | 48% |
+| Calcium | 500mg | 63% |
+| Vitamin D3 | 1000IU | 250% |
+
+**Ingredients:** L-Tyrosine.
+
 ## Product Variants
 
 ### Variant 1: [Default Title](https://vpa-australia.myshopify.com/products/l-tyrosine)
 
 - **Price:** AUD 16.0
 - **Available:** Yes
-- **Quantity Available:** 19592
+- **Quantity Available:** 19547
 - **Options:**
   - Title: Default Title
 
@@ -65,5 +94,5 @@ PRODUCT INFORMATION HOW L-TYROSINE OPTIMISES YOU L-Tyrosine is an amino acid tha
 
 - **Product ID:** `gid://shopify/Product/6833130111031`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:26.562Z
+- **Generated:** 2025-09-21T22:10:24.344Z
 

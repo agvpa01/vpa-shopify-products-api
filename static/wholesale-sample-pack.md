@@ -1,6 +1,6 @@
 # [Wholesale Sample Pack](https://vpa-australia.myshopify.com/products/wholesale-sample-pack)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -14,7 +14,7 @@
 - **Product Type:** Wholesale
 - **Vendor:** VPA Australia
 - **Available for Sale:** Yes
-- **Total Inventory:** 542
+- **Total Inventory:** 536
 - **Created:** 2/22/2021
 - **Updated:** 7/21/2025
 
@@ -34,7 +34,7 @@ Wholesale Sample Pack
 
 - **Price:** AUD 50.0
 - **Available:** Yes
-- **Quantity Available:** 542
+- **Quantity Available:** 536
 - **Options:**
   - Title: Default Title
 
@@ -42,5 +42,5 @@ Wholesale Sample Pack
 
 - **Product ID:** `gid://shopify/Product/4679047970871`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:13.032Z
+- **Generated:** 2025-09-21T22:10:03.748Z
 

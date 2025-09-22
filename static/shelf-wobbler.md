@@ -1,6 +1,6 @@
 # [Shelf Wobbler](https://vpa-australia.myshopify.com/products/shelf-wobbler)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -94,5 +94,5 @@ shelf wobbler
 
 - **Product ID:** `gid://shopify/Product/6842472824887`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:27.047Z
+- **Generated:** 2025-09-21T22:10:25.043Z
 

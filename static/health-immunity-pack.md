@@ -1,6 +1,6 @@
 # [Health and Immunity Pack](https://vpa-australia.myshopify.com/products/health-immunity-pack)
 
-**Total Products in Store:** 94
+**Total Products in Store:** 92
 
 ## SEO Information
 
@@ -48,5 +48,5 @@
 
 - **Product ID:** `gid://shopify/Product/4679185137719`
 - **Store Domain:** vpa-australia.myshopify.com
-- **Generated:** 2025-08-19T12:12:16.041Z
+- **Generated:** 2025-09-21T22:10:07.680Z
 
